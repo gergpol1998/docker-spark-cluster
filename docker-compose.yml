@@ -24,11 +24,11 @@ services:
       KAFKA_ADVERTISED_PORT: 9092
     volumes:
       - kafka_kafka1:/opt/kafka_2.12-2.2.0/logs
+    depends_on:
+      - "zookeeper"
     networks:
       kafkanet:
         ipv4_address: 172.25.0.12
-    depends_on:
-      - "zookeeper"
 
   kafka2:
     image: wurstmeister/kafka:2.12-2.2.0
@@ -48,6 +48,7 @@ services:
     networks:
       kafkanet:
         ipv4_address: 172.25.0.13
+  
 
   spark-master:
     image: cluster-apache-spark:3.0.2
@@ -82,6 +83,7 @@ services:
     volumes:
        - ./apps:/opt/spark-apps
        - ./data:/opt/spark-data
+       
     networks:
       kafkanet:
         ipv4_address: 172.25.0.15
@@ -108,6 +110,32 @@ services:
       kafkanet:
         ipv4_address: 172.25.0.16
   
+  postgresql:
+    image: postgres:latest
+    container_name: postgresql
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: test
+    volumes:
+      - pgsql-data:/var/lib/postgresql/data
+    networks:
+      kafkanet:
+        ipv4_address: 172.25.0.17
+  
+  pgadmin4:
+    image: dpage/pgadmin4
+    container_name: pgadmin4
+    ports:
+      - "5050:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: gergpolsuklit1998@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: gergpol123
+    networks:
+      kafkanet:
+        ipv4_address: 172.25.0.18
 
 networks:
   kafkanet:
@@ -122,3 +150,5 @@ volumes:
   kafka_zookeeper:
   kafka_kafka1:
   kafka_kafka2:
+  pgsql-data:
+  pgadmin-data:
