@@ -1,0 +1,5 @@
+CustomerID,Product,Category,Sales,Profit,Quantity,Discount
+1,Product A,Category X,1000,200,10,0.1
+2,Product B,Category Y,1500,300,15,0.2
+3,Product C,Category X,800,150,8,0.05
+4,Product D,Category Z,1200,250,12,0.15

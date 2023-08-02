@@ -16,7 +16,7 @@ def kafka_producer_example():
     producer = KafkaProducer(**producer_config)
 
     # Produce some sample data to Kafka
-    for i in range(10):
+    for i in range(5):
         data = {
             'id': i,
             'message': f'Message {i}'

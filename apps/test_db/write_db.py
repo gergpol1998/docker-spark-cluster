@@ -3,25 +3,22 @@ from pyspark.sql import SparkSession
 
 # Create SparkSession
 spark = SparkSession.builder \
-           .appName('SparkByExamples.com') \
+           .appName('SparkByExamples2.com') \
            .config("spark.jars", "/opt/spark-apps/test_db/postgresql-42.6.0.jar") \
            .getOrCreate()
 
-# Create DataFrame 
-columns = ["id", "name", "age", "gender"]
-data = [(1, "James", 30, "M"), (2, "Ann", 40, "F"),
-        (3, "Jeff", 41, "M"), (4, "Jennifer", 20, "F")]
-
-sampleDF = spark.sparkContext.parallelize(data).toDF(columns)
+# Read CSV file into a Spark DataFrame
+csv_file_path = "/opt/spark-data/1500000 BT Records.csv"
+spark_df = spark.read.csv(csv_file_path, header=True, inferSchema=True)
 
 # Write to SQL Table
-sampleDF.select("id", "name", "age", "gender").write \
+spark_df.write \
     .format("jdbc") \
     .option("url", "jdbc:postgresql://172.25.0.17:5432/test") \
     .option("driver", "org.postgresql.Driver") \
-    .option("dbtable", "employee") \
+    .option("dbtable", "bank") \
     .option("user", "root") \
     .option("password", "root") \
     .save()
 
-sampleDF.show()
+spark_df.show()

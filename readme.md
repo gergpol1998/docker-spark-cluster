@@ -18,7 +18,6 @@ curl https://jdbc.postgresql.org/download/postgresql-42.2.22.jar -o /opt/spark/j
 
 /opt/spark/bin/spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.0.2 \
 --master spark://spark-master:7077 \
---jars /opt/spark-apps/test_db/postgresql-42.6.0.jar  \
 --driver-memory 1G \
 --executor-memory 1G \
 /opt/spark-apps/test_db/write_realtime.py
