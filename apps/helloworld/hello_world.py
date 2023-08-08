@@ -2,6 +2,7 @@ from pyspark.sql import SparkSession
 
 spark = SparkSession.builder \
     .appName("Spark Hello World") \
+    .master("local[4]")\
     .getOrCreate()
 
 data = [("Hello, World!",)]

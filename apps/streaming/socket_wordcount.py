@@ -6,6 +6,7 @@ if __name__ == "__main__":
     spark = SparkSession \
         .builder \
         .appName("Streaming Word Count") \
+        .master("local[4]")\
         .config("spark.streaming.stopGracefullyOnShutdown", "true") \
         .config("spark.sql.shuffle.partitions", 3) \
         .getOrCreate()
