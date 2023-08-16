@@ -1,5 +1,5 @@
 pipeline {
-    agent any  // You can specify the Jenkins agent here based on your requirements
+    agent docker  // You can specify the Jenkins agent here based on your requirements
 
     stages {
         stage('build docker image') {
