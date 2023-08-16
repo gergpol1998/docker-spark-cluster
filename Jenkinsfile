@@ -2,6 +2,22 @@ pipeline {
     agent any  // You can specify the Jenkins agent here based on your requirements
 
     stages {
+        stage('build docker image') {
+            steps {
+                script {
+                    sh 'docker build -t cluster-apache-spark:3.0.2 .'
+                }
+            }
+        }
+
+        stage('docker-compose') {
+            steps {
+                script {
+                    sh 'docker-compose up -d'
+                }
+            }
+        }
+
         stage('Submit Spark Job') {
             steps {
                 script {
