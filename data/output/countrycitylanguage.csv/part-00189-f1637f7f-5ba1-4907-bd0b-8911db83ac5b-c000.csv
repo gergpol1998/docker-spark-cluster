@@ -1,0 +1,7 @@
+country_code,country_name,region,surface_area,independence_year,country_population,life_expectancy,local_name,head_of_state,capital,country_code_2,city_id,city_name,city_district,city_population,language,is_official_language,language_percentage
+JPN,Japan,Eastern Asia,377829.0,-660,126714000,80.7,Nihon/Nippon,Akihito,1532,JP,3,Tokyo,Tokyo Metropolis,9273000,Philippene Languages,F,0.1
+JPN,Japan,Eastern Asia,377829.0,-660,126714000,80.7,Nihon/Nippon,Akihito,1532,JP,3,Tokyo,Tokyo Metropolis,9273000,Korean,F,0.5
+JPN,Japan,Eastern Asia,377829.0,-660,126714000,80.7,Nihon/Nippon,Akihito,1532,JP,3,Tokyo,Tokyo Metropolis,9273000,Japanese,T,99.1
+JPN,Japan,Eastern Asia,377829.0,-660,126714000,80.7,Nihon/Nippon,Akihito,1532,JP,3,Tokyo,Tokyo Metropolis,9273000,English,F,0.1
+JPN,Japan,Eastern Asia,377829.0,-660,126714000,80.7,Nihon/Nippon,Akihito,1532,JP,3,Tokyo,Tokyo Metropolis,9273000,Chinese,F,0.2
+JPN,Japan,Eastern Asia,377829.0,-660,126714000,80.7,Nihon/Nippon,Akihito,1532,JP,3,Tokyo,Tokyo Metropolis,9273000,Ainu,F,0.0
