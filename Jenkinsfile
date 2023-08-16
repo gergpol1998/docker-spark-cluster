@@ -25,12 +25,11 @@ pipeline {
                 }
             }
         }
-
-        post {
-            always {
-                script {
-                    sh 'docker-compose -f docker-compose.yml down'
-                }
+    }
+    post {
+        always {
+            script {
+                sh 'docker-compose -f docker-compose.yml down'
             }
         }
     }
