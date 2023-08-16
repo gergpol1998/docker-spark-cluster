@@ -1,16 +1,20 @@
 pipeline {
-    agent docker  // You can specify the Jenkins agent here based on your requirements
+    agent any // You can specify the Jenkins agent here based on your requirements
+
+    environment {
+        DOCKER_IMAGE = 'cluster-apache-spark:3.0.2'
+    }
 
     stages {
-        stage('build docker image') {
+        stage('Build Docker Image') {
             steps {
                 script {
-                    sh 'docker build -t cluster-apache-spark:3.0.2 .'
+                    sh 'docker build -t $DOCKER_IMAGE .'
                 }
             }
         }
 
-        stage('docker-compose') {
+        stage('Docker Compose') {
             steps {
                 script {
                     sh 'docker-compose up -d'
@@ -22,11 +26,18 @@ pipeline {
             steps {
                 script {
                     // Assuming you have already set up the necessary Docker image with Spark and your job script inside it
-                    docker.image('cluster-apache-spark:3.0.2') .inside {
+                    container('spark-container') {
                         sh '/opt/spark/bin/spark-submit /opt/spark-apps/basic_etl/job.py'
                     }
                 }
             }
+        }
+    }
+
+    post {
+        always {
+            // Clean up after the pipeline finishes, such as stopping and removing the Docker containers if needed
+            sh 'docker-compose down'
         }
     }
 }
