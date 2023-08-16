@@ -6,7 +6,7 @@ pipeline {
             steps {
                 script {
                         // Assuming you have already set up the necessary Docker image with Spark and your job script inside it
-                    container('docker-spark-cluster') {
+                    container('docker-spark-cluster-spark-master-1') {
                         sh '/opt/spark/bin/spark-submit /opt/spark-apps/basic_etl/job.py'
                     }
                 }
