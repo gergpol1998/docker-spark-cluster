@@ -5,8 +5,8 @@ pipeline {
         stage('Submit Spark Job') {
             steps {
                 script {
-                        // Assuming you have already set up the necessary Docker image with Spark and your job script inside it
-                    container('docker-spark-cluster-spark-master-1') {
+                    def sparkImage = docker.image('cluster-apache-spark:3.0.2')
+                    sparkImage.inside {
                         sh '/opt/spark/bin/spark-submit /opt/spark-apps/basic_etl/job.py'
                     }
                 }
@@ -14,6 +14,9 @@ pipeline {
         }
     }
     
+    post {
+        always {
+            sh 'docker-compose down'
+        }
+    }
 }
-
-
