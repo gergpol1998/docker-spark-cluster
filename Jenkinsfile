@@ -1,19 +1,14 @@
 pipeline {
-    agent docker
+    agent any  // You can specify the Jenkins agent here based on your requirements
 
     stages {
-        stage('shell to docker spark') {
-            steps {
-                script {
-                    sh 'docker exec -it docker-spark-cluster-spark-master-1 bash'
-                }
-            }
-        }
-
         stage('Submit Spark Job') {
             steps {
                 script {
-                    sh '/opt/spark/bin/spark-submit /opt/spark-apps/basic_etl/job.py'
+                    // Assuming you have already set up the necessary Docker image with Spark and your job script inside it
+                    docker.image('cluster-apache-spark:3.0.2') .inside {
+                        sh '/opt/spark/bin/spark-submit /opt/spark-apps/basic_etl/job.py'
+                    }
                 }
             }
         }
