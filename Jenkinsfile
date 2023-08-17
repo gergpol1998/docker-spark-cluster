@@ -4,12 +4,12 @@ pipeline {
     }
     
     stages {
-        stage('docker shell') {
+        stage('docker-compose') {
             steps {
                 script {
                     // Run the Spark job in the Docker container
                     sh """
-                        docker exec -it docker-spark-cluster-spark-master-1 bin/sh 
+                        docker-compose up -d 
                     """
                 }
             }
