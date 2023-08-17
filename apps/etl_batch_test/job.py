@@ -68,7 +68,7 @@ try:
     # # FileSystem
     # load("CSV", customer_df , "/opt/spark-data/output/customer.csv")
 
-    time.sleep(1000000)
+    time.sleep(10000)
 
 
 except Exception as e:

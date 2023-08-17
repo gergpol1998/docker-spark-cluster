@@ -1,1 +1,0 @@
-show_df = customer_df.show()
