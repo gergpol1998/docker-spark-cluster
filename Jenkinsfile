@@ -2,9 +2,9 @@ pipeline {
     agent any
     
     stages {
-        stage('docker-compose') {
+        stage('build-image') {
             steps {
-                sh 'docker-compose up -d'
+                sh 'docker build -t cluster-apache-spark:3.0.2 .'
             }
         }
     }
