@@ -1,5 +1,5 @@
 pipeline {
-    agent docker
+    agent docker { image 'cluster-apache-spark:3.0.2'}
 
     stages {
         stage('Submit Spark Job') {
