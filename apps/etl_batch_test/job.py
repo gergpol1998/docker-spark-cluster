@@ -3,7 +3,7 @@ from extract import extract
 from transform import select_col, filler_col
 from load import load
 # import paramiko
-import time
+# import time
 
 
 try:
@@ -68,7 +68,7 @@ try:
     # # FileSystem
     load("CSV", customer_df , "/opt/spark-data/output/customer.csv")
 
-    time.sleep(10000)
+    # time.sleep(10000)
 
 
 except Exception as e:
