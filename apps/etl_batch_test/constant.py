@@ -2,6 +2,6 @@ from pyspark.sql import SparkSession
 
 
 def spark_inst():
-    return SparkSession.builder.master('spark://spark-master-5688d7ff8d-4rzsf:7077') \
+    return SparkSession.builder.master('http://18.140.117.103:30080/') \
     .appName('etl_batch_test')  \
     .getOrCreate()
