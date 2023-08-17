@@ -5,7 +5,6 @@ from extract import extract
 from transform import rename_cols, join_df, specific_cols
 from load import load
 
-import time
 
 # Initiating and Calling SparkSession
 SPARK=spark_inst()
@@ -41,4 +40,3 @@ load('JDBC',country_city_language_df , "CountryCityLanguage")
 # FileSystem
 load('CSV', country_city_language_df , "/opt/spark-data/output/countrycitylanguage.csv")
 
-time.sleep(1000000)
