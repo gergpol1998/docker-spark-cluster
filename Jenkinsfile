@@ -6,12 +6,7 @@ pipeline {
     stages {
         stage('docker-compose') {
             steps {
-                script {
-                    // Run the Spark job in the Docker container
-                    sh """
-                        docker-compose up -d 
-                    """
-                }
+                sh 'docker-compose up -d'
             }
         }
     }
