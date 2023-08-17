@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-        docker { image 'cluster-apache-spark:3.0.2'}
-    }
+    agent any
     
     stages {
         stage('docker-compose') {
