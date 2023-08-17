@@ -6,8 +6,6 @@ RUN apt-get update && apt-get install -y curl vim wget software-properties-commo
 
 RUN update-alternatives --install "/usr/bin/python" "python" "$(which python3)" 1
 
-RUN pip3 install kafka-python
-
 # Fix the value of PYTHONHASHSEED
 # Note: this is needed when you use Python 3.3 or greater
 ENV SPARK_VERSION=3.0.2 \
