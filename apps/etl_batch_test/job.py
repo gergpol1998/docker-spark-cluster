@@ -2,7 +2,7 @@ from constant import spark_inst
 from extract import extract
 from transform import select_col, filler_col
 from load import load
-import paramiko
+# import paramiko
 import time
 
 
@@ -66,7 +66,7 @@ try:
     # os.remove(local_temp_file)
 
     # # FileSystem
-    # load("CSV", customer_df , "/opt/spark-data/output/customer.csv")
+    load("CSV", customer_df , "/opt/spark-data/output/customer.csv")
 
     time.sleep(10000)
 
