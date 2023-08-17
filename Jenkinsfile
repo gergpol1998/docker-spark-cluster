@@ -5,7 +5,7 @@ pipeline {
         
         stage('shell in docker') {
             steps {
-                sh 'docker exec -it docker-spark_spark-master_1 sh'
+                sh 'docker exec docker-spark_spark-master_1 sh'
             }
         }
 
