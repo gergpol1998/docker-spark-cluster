@@ -1,0 +1,5984 @@
+Customer_Age,Education_Level,Income_Category,Months_on_book
+45,High School,$60K - $80K,39
+49,Graduate,Less than $40K,44
+40,High School,Less than $40K,34
+40,Uneducated,$60K - $80K,21
+44,Graduate,$40K - $60K,36
+32,High School,$60K - $80K,27
+37,Uneducated,$60K - $80K,36
+48,Graduate,$80K - $120K,36
+42,Uneducated,$120K +,31
+35,Graduate,$60K - $80K,30
+48,Post-Graduate,$80K - $120K,36
+45,Graduate,Unknown,37
+47,Doctorate,$60K - $80K,42
+41,High School,$40K - $60K,33
+41,Graduate,Less than $40K,28
+44,Uneducated,Unknown,34
+47,High School,$40K - $60K,42
+41,Graduate,$60K - $80K,36
+42,High School,Less than $40K,36
+45,Graduate,$80K - $120K,41
+50,College,$40K - $60K,43
+49,High School,$60K - $80K,37
+38,Graduate,Unknown,28
+49,Uneducated,$80K - $120K,30
+46,High School,$80K - $120K,40
+49,Graduate,Less than $40K,36
+49,Graduate,Less than $40K,36
+44,Graduate,Unknown,35
+42,High School,$60K - $80K,34
+48,Graduate,$60K - $80K,35
+39,High School,$60K - $80K,33
+44,Post-Graduate,$120K +,32
+44,Uneducated,Less than $40K,20
+49,Graduate,$60K - $80K,32
+50,Doctorate,$80K - $120K,38
+42,Uneducated,$80K - $120K,37
+44,College,$60K - $80K,35
+44,Graduate,Less than $40K,36
+37,Uneducated,Less than $40K,29
+49,Graduate,$60K - $80K,30
+47,Graduate,$80K - $120K,38
+47,Graduate,$60K - $80K,37
+43,Uneducated,Less than $40K,35
+44,High School,$60K - $80K,31
+49,High School,$80K - $120K,38
+45,Graduate,$40K - $60K,36
+45,Graduate,$40K - $60K,35
+49,College,Unknown,43
+44,Graduate,Less than $40K,32
+44,High School,$60K - $80K,25
+43,Post-Graduate,Less than $40K,33
+44,Uneducated,$60K - $80K,36
+42,High School,$60K - $80K,36
+48,Graduate,$80K - $120K,35
+49,Graduate,$80K - $120K,36
+50,High School,$80K - $120K,39
+49,Doctorate,$60K - $80K,36
+50,Graduate,$120K +,36
+47,High School,$40K - $60K,41
+47,Graduate,$60K - $80K,36
+50,Uneducated,Less than $40K,36
+42,Graduate,Less than $40K,36
+47,Doctorate,Less than $40K,37
+44,Graduate,$40K - $60K,38
+45,College,$60K - $80K,40
+39,Post-Graduate,Less than $40K,27
+48,High School,Less than $40K,38
+48,Uneducated,Less than $40K,38
+41,Graduate,Less than $40K,32
+47,Graduate,Unknown,36
+41,High School,$80K - $120K,24
+40,High School,$80K - $120K,28
+50,Graduate,$40K - $60K,31
+47,Uneducated,$60K - $80K,41
+48,High School,$40K - $60K,38
+49,Doctorate,$120K +,38
+44,Uneducated,Unknown,35
+43,Graduate,Less than $40K,34
+46,Uneducated,$60K - $80K,36
+50,Uneducated,$40K - $60K,40
+47,Uneducated,Less than $40K,36
+46,Graduate,$80K - $120K,33
+45,Uneducated,Unknown,36
+50,High School,$80K - $120K,45
+41,High School,$40K - $60K,36
+45,Graduate,$40K - $60K,36
+45,Uneducated,$40K - $60K,34
+47,Graduate,$60K - $80K,36
+49,Uneducated,Unknown,38
+49,Post-Graduate,$80K - $120K,33
+50,High School,Less than $40K,36
+41,Post-Graduate,Unknown,31
+43,Graduate,$80K - $120K,27
+47,High School,Less than $40K,34
+41,High School,$120K +,36
+44,Graduate,$60K - $80K,32
+48,College,$80K - $120K,41
+47,Graduate,$60K - $80K,33
+47,Graduate,$60K - $80K,32
+43,High School,Less than $40K,35
+48,High School,$60K - $80K,36
+43,High School,$40K - $60K,36
+48,College,Less than $40K,36
+43,Graduate,Less than $40K,31
+41,High School,$80K - $120K,35
+44,Uneducated,Less than $40K,38
+44,Graduate,$80K - $120K,24
+48,Graduate,$40K - $60K,39
+44,Graduate,Less than $40K,27
+41,High School,$80K - $120K,28
+45,College,$60K - $80K,32
+47,Uneducated,Less than $40K,34
+41,Graduate,$120K +,29
+44,Post-Graduate,$80K - $120K,36
+43,College,$60K - $80K,37
+44,Graduate,$80K - $120K,33
+41,Uneducated,$40K - $60K,30
+39,High School,$80K - $120K,36
+49,College,$40K - $60K,45
+45,College,Less than $40K,36
+49,Uneducated,$80K - $120K,43
+46,Doctorate,Unknown,36
+46,High School,$120K +,30
+47,Graduate,$60K - $80K,38
+44,Doctorate,$60K - $80K,36
+50,Post-Graduate,$120K +,31
+45,Uneducated,$120K +,39
+45,Uneducated,$40K - $60K,35
+40,Graduate,$40K - $60K,23
+36,College,$80K - $120K,22
+41,Uneducated,$40K - $60K,32
+43,Graduate,Unknown,23
+40,Uneducated,$60K - $80K,29
+45,Graduate,$80K - $120K,40
+41,High School,$80K - $120K,36
+42,Uneducated,Less than $40K,31
+45,Graduate,$60K - $80K,36
+42,Uneducated,Less than $40K,23
+47,Uneducated,$80K - $120K,30
+48,High School,$40K - $60K,42
+43,Graduate,$80K - $120K,37
+41,High School,$80K - $120K,36
+48,High School,$120K +,36
+45,Graduate,Less than $40K,36
+44,Graduate,$60K - $80K,37
+50,Doctorate,Unknown,36
+48,Graduate,$40K - $60K,36
+45,College,$60K - $80K,33
+38,High School,Less than $40K,30
+46,High School,$40K - $60K,39
+50,High School,$120K +,45
+45,Uneducated,$60K - $80K,36
+47,Post-Graduate,$60K - $80K,37
+48,College,$60K - $80K,33
+35,Uneducated,$60K - $80K,22
+36,High School,Unknown,24
+47,Graduate,$80K - $120K,36
+43,Uneducated,Less than $40K,36
+38,Graduate,Unknown,31
+49,High School,Less than $40K,43
+45,High School,$80K - $120K,34
+48,Graduate,$80K - $120K,37
+34,High School,$60K - $80K,26
+44,Post-Graduate,Less than $40K,36
+47,Post-Graduate,$80K - $120K,36
+43,Graduate,$40K - $60K,29
+50,Graduate,Less than $40K,36
+38,Uneducated,Less than $40K,30
+43,Graduate,$120K +,31
+46,Graduate,Less than $40K,40
+49,Uneducated,$60K - $80K,44
+49,Graduate,$120K +,39
+41,High School,$60K - $80K,33
+40,High School,Less than $40K,35
+43,Graduate,$80K - $120K,26
+46,Graduate,$60K - $80K,39
+41,Uneducated,$60K - $80K,25
+49,Uneducated,$60K - $80K,32
+46,Uneducated,$80K - $120K,38
+50,Uneducated,Less than $40K,43
+40,Graduate,$80K - $120K,24
+50,Graduate,$40K - $60K,44
+47,Graduate,Less than $40K,36
+36,Graduate,$40K - $60K,36
+47,Graduate,Less than $40K,34
+46,Graduate,Less than $40K,41
+46,High School,$120K +,36
+40,Graduate,Less than $40K,27
+49,Post-Graduate,Unknown,44
+45,High School,$40K - $60K,34
+49,Graduate,$40K - $60K,41
+40,High School,Less than $40K,36
+41,Graduate,Less than $40K,33
+37,Graduate,$80K - $120K,26
+43,Post-Graduate,$80K - $120K,30
+39,College,Less than $40K,25
+42,Uneducated,$40K - $60K,36
+42,Graduate,$60K - $80K,28
+43,College,$80K - $120K,39
+46,Uneducated,$40K - $60K,27
+48,College,$80K - $120K,42
+48,High School,$120K +,36
+47,Graduate,$40K - $60K,36
+42,College,$60K - $80K,34
+41,Graduate,$60K - $80K,36
+39,Graduate,$60K - $80K,31
+47,High School,$40K - $60K,36
+49,Post-Graduate,$60K - $80K,38
+42,Graduate,Less than $40K,23
+44,Uneducated,$60K - $80K,36
+49,Graduate,Less than $40K,38
+45,Graduate,$80K - $120K,32
+44,Graduate,$80K - $120K,33
+44,College,Less than $40K,37
+40,High School,$40K - $60K,33
+39,Uneducated,$60K - $80K,36
+42,High School,$80K - $120K,30
+46,Graduate,Less than $40K,36
+50,College,Less than $40K,36
+46,Graduate,$40K - $60K,22
+47,Uneducated,$40K - $60K,36
+40,Doctorate,$60K - $80K,34
+48,Graduate,$40K - $60K,36
+48,Graduate,$80K - $120K,41
+50,Graduate,$80K - $120K,44
+49,High School,$80K - $120K,39
+39,Uneducated,Unknown,29
+41,High School,Less than $40K,31
+47,Uneducated,$80K - $120K,36
+46,Post-Graduate,Less than $40K,28
+35,Post-Graduate,$80K - $120K,29
+50,Graduate,$60K - $80K,44
+43,Uneducated,Less than $40K,24
+37,Post-Graduate,Less than $40K,25
+42,Doctorate,Unknown,23
+41,Uneducated,$120K +,29
+40,High School,$40K - $60K,36
+46,Uneducated,$80K - $120K,36
+37,Graduate,$40K - $60K,29
+46,Graduate,$80K - $120K,35
+46,Post-Graduate,Less than $40K,37
+41,Graduate,$80K - $120K,29
+48,High School,$40K - $60K,40
+49,Graduate,$40K - $60K,33
+44,Graduate,$80K - $120K,35
+39,College,Less than $40K,36
+48,High School,$80K - $120K,36
+47,High School,$80K - $120K,42
+45,Graduate,Unknown,35
+48,College,$40K - $60K,41
+41,Uneducated,$60K - $80K,36
+34,Post-Graduate,$80K - $120K,26
+45,Uneducated,Unknown,36
+38,Uneducated,Less than $40K,32
+41,Graduate,$40K - $60K,31
+33,Graduate,$60K - $80K,13
+47,College,Less than $40K,37
+49,Graduate,$40K - $60K,41
+26,Graduate,Less than $40K,13
+46,High School,$80K - $120K,42
+48,High School,$120K +,31
+42,Uneducated,$60K - $80K,32
+37,Graduate,$80K - $120K,28
+50,High School,$40K - $60K,44
+41,High School,$40K - $60K,31
+48,Graduate,Less than $40K,40
+46,College,$80K - $120K,41
+39,Doctorate,$40K - $60K,28
+45,Graduate,$60K - $80K,25
+47,Graduate,$60K - $80K,37
+41,High School,$40K - $60K,32
+48,College,$80K - $120K,36
+50,Graduate,Less than $40K,36
+39,College,Less than $40K,36
+47,Graduate,$80K - $120K,37
+44,Graduate,$120K +,33
+43,Post-Graduate,Less than $40K,37
+42,Uneducated,Unknown,31
+48,College,$60K - $80K,29
+44,Graduate,$40K - $60K,34
+45,Graduate,$60K - $80K,30
+39,Graduate,$80K - $120K,34
+40,College,$80K - $120K,25
+26,Graduate,$40K - $60K,13
+46,Graduate,$60K - $80K,38
+44,High School,$60K - $80K,32
+43,Uneducated,$120K +,24
+46,College,$80K - $120K,36
+40,High School,$60K - $80K,36
+44,Graduate,$60K - $80K,28
+47,Doctorate,Less than $40K,35
+47,Doctorate,$60K - $80K,36
+50,High School,Less than $40K,43
+50,Graduate,$80K - $120K,37
+49,Uneducated,$80K - $120K,40
+46,Doctorate,Less than $40K,41
+42,Uneducated,$80K - $120K,36
+45,High School,Less than $40K,33
+45,Uneducated,Less than $40K,38
+44,Doctorate,Less than $40K,38
+45,Doctorate,$80K - $120K,40
+31,Uneducated,$40K - $60K,22
+34,Graduate,Less than $40K,24
+35,College,Unknown,28
+44,Graduate,Less than $40K,36
+50,Graduate,$80K - $120K,45
+33,Post-Graduate,$80K - $120K,25
+50,Graduate,$60K - $80K,45
+26,College,Less than $40K,36
+42,Graduate,Less than $40K,33
+44,Graduate,Unknown,36
+38,High School,Unknown,29
+39,Post-Graduate,$40K - $60K,28
+45,Graduate,Less than $40K,31
+42,College,$60K - $80K,28
+44,College,Less than $40K,25
+37,Graduate,Unknown,24
+37,Graduate,$80K - $120K,21
+36,Graduate,Less than $40K,24
+43,College,$60K - $80K,28
+46,Graduate,$40K - $60K,32
+43,Graduate,Less than $40K,33
+50,High School,$60K - $80K,41
+43,Graduate,$40K - $60K,36
+41,Graduate,$80K - $120K,26
+48,Post-Graduate,$60K - $80K,39
+35,Graduate,$80K - $120K,24
+50,Uneducated,$80K - $120K,36
+45,College,Less than $40K,35
+34,Uneducated,$60K - $80K,36
+46,Graduate,$60K - $80K,35
+48,Uneducated,$60K - $80K,35
+39,Doctorate,$60K - $80K,29
+43,Graduate,$120K +,33
+38,High School,$80K - $120K,36
+49,High School,Less than $40K,43
+46,Post-Graduate,$40K - $60K,40
+44,Uneducated,Less than $40K,36
+44,College,$80K - $120K,35
+48,High School,$80K - $120K,42
+45,Doctorate,Less than $40K,36
+41,Post-Graduate,$60K - $80K,32
+46,High School,Less than $40K,35
+40,College,Less than $40K,35
+33,Doctorate,$60K - $80K,28
+37,Graduate,$60K - $80K,30
+49,Uneducated,$80K - $120K,41
+50,Graduate,$80K - $120K,42
+48,College,$60K - $80K,37
+47,College,$120K +,35
+41,Uneducated,$80K - $120K,24
+40,Graduate,$40K - $60K,25
+49,Post-Graduate,$40K - $60K,36
+46,Graduate,$40K - $60K,41
+36,High School,Less than $40K,36
+38,High School,$80K - $120K,23
+50,Graduate,$80K - $120K,36
+39,Uneducated,$40K - $60K,32
+38,College,$80K - $120K,23
+44,College,Less than $40K,39
+43,High School,$80K - $120K,32
+46,Uneducated,$80K - $120K,28
+39,Graduate,Less than $40K,26
+42,Graduate,Less than $40K,26
+43,College,Less than $40K,23
+47,High School,Unknown,36
+39,College,$40K - $60K,24
+50,Uneducated,$60K - $80K,45
+43,High School,$60K - $80K,36
+42,High School,$80K - $120K,36
+42,College,$80K - $120K,34
+40,Graduate,Less than $40K,28
+48,Uneducated,$80K - $120K,37
+33,High School,Less than $40K,36
+39,Graduate,Unknown,29
+36,College,$40K - $60K,25
+43,Uneducated,$60K - $80K,24
+42,Graduate,$60K - $80K,36
+49,Doctorate,$60K - $80K,44
+45,High School,$40K - $60K,36
+29,High School,$80K - $120K,15
+50,Post-Graduate,$80K - $120K,40
+50,Uneducated,Less than $40K,37
+46,Doctorate,$80K - $120K,34
+46,College,$120K +,36
+43,Graduate,$40K - $60K,33
+35,High School,$40K - $60K,21
+35,Doctorate,$40K - $60K,23
+36,High School,Less than $40K,36
+43,Doctorate,$60K - $80K,35
+39,High School,$40K - $60K,20
+47,Post-Graduate,Less than $40K,36
+30,High School,Less than $40K,23
+40,Graduate,$120K +,30
+36,Post-Graduate,Less than $40K,23
+41,High School,$60K - $80K,36
+30,High School,$60K - $80K,17
+46,Uneducated,$60K - $80K,34
+29,Post-Graduate,$40K - $60K,19
+37,Uneducated,Less than $40K,27
+31,Graduate,$40K - $60K,21
+45,Uneducated,$80K - $120K,41
+44,Graduate,$40K - $60K,27
+32,Graduate,Less than $40K,36
+42,Uneducated,Less than $40K,35
+38,College,Less than $40K,25
+37,High School,$40K - $60K,36
+48,Graduate,$40K - $60K,42
+43,Graduate,Unknown,36
+37,High School,$60K - $80K,26
+34,High School,$60K - $80K,28
+46,Graduate,Unknown,36
+46,Graduate,$80K - $120K,38
+38,College,Less than $40K,25
+31,Graduate,Less than $40K,22
+46,Graduate,Less than $40K,28
+47,High School,$60K - $80K,36
+47,Graduate,Less than $40K,36
+47,Uneducated,$60K - $80K,36
+47,Graduate,$80K - $120K,41
+42,College,$60K - $80K,29
+41,College,$80K - $120K,34
+49,Post-Graduate,$40K - $60K,41
+46,Uneducated,$120K +,36
+48,Doctorate,Less than $40K,39
+39,College,Less than $40K,22
+41,Uneducated,$80K - $120K,33
+39,Graduate,Unknown,31
+39,Uneducated,Less than $40K,35
+44,Uneducated,Less than $40K,24
+26,Graduate,$40K - $60K,20
+47,High School,$60K - $80K,33
+47,High School,$60K - $80K,34
+43,Post-Graduate,Unknown,36
+39,College,$60K - $80K,35
+34,Uneducated,$40K - $60K,28
+47,Doctorate,$80K - $120K,36
+42,Graduate,Unknown,33
+50,Graduate,$80K - $120K,35
+43,High School,$60K - $80K,36
+44,High School,Less than $40K,36
+34,Graduate,$40K - $60K,26
+49,High School,Unknown,40
+47,Graduate,$60K - $80K,36
+30,Graduate,Unknown,13
+39,High School,$40K - $60K,29
+44,Graduate,$80K - $120K,35
+46,Graduate,$60K - $80K,36
+35,High School,$80K - $120K,25
+39,College,Less than $40K,31
+40,Graduate,Less than $40K,29
+35,Uneducated,Less than $40K,36
+42,High School,$40K - $60K,35
+46,High School,Less than $40K,40
+46,Uneducated,$40K - $60K,35
+26,Graduate,Unknown,19
+46,High School,$60K - $80K,35
+32,High School,$40K - $60K,24
+37,Uneducated,Less than $40K,18
+33,High School,Unknown,29
+42,College,$80K - $120K,32
+33,Post-Graduate,$80K - $120K,22
+45,Graduate,Less than $40K,39
+38,High School,Unknown,32
+32,Graduate,Less than $40K,19
+43,Graduate,Less than $40K,37
+42,Uneducated,$60K - $80K,30
+30,Graduate,$80K - $120K,19
+43,Uneducated,Less than $40K,39
+46,High School,$40K - $60K,36
+44,College,$40K - $60K,33
+45,High School,Unknown,39
+37,Graduate,$40K - $60K,31
+48,High School,$80K - $120K,39
+37,College,$40K - $60K,30
+39,Uneducated,$60K - $80K,22
+41,Graduate,$120K +,32
+34,Graduate,$80K - $120K,36
+40,Post-Graduate,$80K - $120K,36
+45,Graduate,$60K - $80K,33
+48,College,Less than $40K,44
+34,High School,$40K - $60K,13
+49,High School,$60K - $80K,36
+34,Uneducated,$80K - $120K,36
+40,Graduate,$120K +,27
+49,College,Unknown,41
+41,High School,Less than $40K,36
+46,Graduate,Less than $40K,36
+46,Graduate,$60K - $80K,33
+30,Graduate,$60K - $80K,36
+50,Doctorate,$80K - $120K,38
+45,High School,$60K - $80K,40
+42,Doctorate,$40K - $60K,35
+46,High School,$40K - $60K,28
+33,Graduate,$60K - $80K,22
+46,Graduate,Less than $40K,38
+42,Uneducated,$40K - $60K,34
+47,Graduate,Less than $40K,39
+47,Graduate,Less than $40K,36
+46,Graduate,Less than $40K,26
+26,College,Less than $40K,36
+45,Graduate,$60K - $80K,41
+36,High School,$40K - $60K,36
+42,High School,$60K - $80K,38
+37,Graduate,$120K +,25
+47,Uneducated,$80K - $120K,34
+38,Uneducated,$60K - $80K,19
+36,High School,$80K - $120K,36
+43,College,$60K - $80K,24
+40,Graduate,$80K - $120K,22
+39,College,$80K - $120K,36
+39,Graduate,Unknown,30
+43,Uneducated,$40K - $60K,29
+31,Uneducated,Less than $40K,18
+40,High School,Unknown,31
+38,High School,Less than $40K,27
+36,Post-Graduate,$60K - $80K,29
+43,High School,$60K - $80K,36
+41,Graduate,$120K +,31
+50,High School,$120K +,37
+48,College,$80K - $120K,36
+44,Graduate,Less than $40K,39
+42,Graduate,$80K - $120K,36
+41,Uneducated,Less than $40K,31
+39,Graduate,$120K +,24
+45,Graduate,$40K - $60K,40
+46,Graduate,$80K - $120K,35
+40,Graduate,Unknown,36
+48,Graduate,$80K - $120K,40
+33,Post-Graduate,$40K - $60K,36
+44,Graduate,Less than $40K,34
+33,Graduate,Unknown,36
+36,High School,Less than $40K,26
+46,Graduate,$80K - $120K,27
+42,Graduate,$40K - $60K,37
+35,Graduate,$80K - $120K,27
+36,Post-Graduate,$120K +,27
+42,Graduate,Less than $40K,32
+40,College,$40K - $60K,22
+40,Graduate,$80K - $120K,34
+40,Graduate,$80K - $120K,31
+28,Graduate,Less than $40K,18
+38,High School,Less than $40K,28
+37,Graduate,Less than $40K,30
+41,High School,$60K - $80K,30
+39,Graduate,Unknown,21
+26,Graduate,Less than $40K,13
+35,High School,Unknown,36
+46,Graduate,$80K - $120K,40
+50,Post-Graduate,Less than $40K,43
+38,High School,$40K - $60K,28
+39,Graduate,Less than $40K,30
+39,High School,$60K - $80K,36
+49,Graduate,Less than $40K,44
+45,Graduate,Less than $40K,38
+44,Graduate,$120K +,24
+49,Post-Graduate,$40K - $60K,39
+41,Uneducated,$80K - $120K,31
+45,Graduate,Unknown,36
+35,College,$80K - $120K,27
+26,High School,Unknown,36
+38,High School,$80K - $120K,24
+47,Post-Graduate,$40K - $60K,41
+33,Graduate,Less than $40K,25
+35,Graduate,Less than $40K,18
+47,Graduate,$120K +,27
+35,College,$60K - $80K,17
+48,High School,$80K - $120K,36
+36,Doctorate,$60K - $80K,17
+44,Graduate,$80K - $120K,36
+44,College,Less than $40K,24
+36,Graduate,Less than $40K,25
+34,Graduate,Less than $40K,28
+49,Graduate,$80K - $120K,33
+37,High School,$60K - $80K,24
+32,High School,$40K - $60K,28
+27,Graduate,Less than $40K,36
+42,High School,$80K - $120K,37
+29,Graduate,$40K - $60K,36
+29,High School,$40K - $60K,13
+38,High School,$40K - $60K,32
+36,Graduate,$40K - $60K,18
+40,Post-Graduate,Less than $40K,30
+47,Post-Graduate,$60K - $80K,36
+36,High School,Unknown,30
+26,High School,$40K - $60K,36
+50,Graduate,$80K - $120K,37
+34,Graduate,$80K - $120K,21
+49,High School,$80K - $120K,42
+48,Doctorate,$120K +,36
+32,Graduate,Less than $40K,17
+38,High School,$80K - $120K,36
+43,Uneducated,$80K - $120K,32
+33,Uneducated,$120K +,16
+37,Graduate,$40K - $60K,30
+44,Graduate,Less than $40K,36
+46,High School,Unknown,36
+39,Post-Graduate,Less than $40K,36
+38,Uneducated,Less than $40K,27
+35,Post-Graduate,$40K - $60K,21
+26,College,$60K - $80K,15
+32,High School,$40K - $60K,20
+36,Uneducated,$40K - $60K,16
+48,College,$80K - $120K,38
+38,Graduate,Less than $40K,36
+43,College,Less than $40K,36
+35,Post-Graduate,$80K - $120K,29
+38,Graduate,Less than $40K,36
+48,Graduate,$60K - $80K,35
+43,College,$40K - $60K,23
+36,Post-Graduate,Less than $40K,25
+34,College,$80K - $120K,22
+43,College,Less than $40K,29
+48,Uneducated,$40K - $60K,36
+44,Graduate,$40K - $60K,38
+38,Graduate,$60K - $80K,31
+32,Graduate,Unknown,26
+43,High School,$80K - $120K,31
+40,Graduate,$60K - $80K,27
+34,High School,Less than $40K,30
+33,High School,Less than $40K,25
+36,Graduate,$80K - $120K,28
+43,High School,$40K - $60K,33
+48,College,Less than $40K,38
+39,High School,Less than $40K,36
+48,Graduate,$60K - $80K,42
+38,Graduate,Less than $40K,32
+35,Graduate,$60K - $80K,26
+46,Doctorate,Less than $40K,36
+48,College,$80K - $120K,36
+49,Uneducated,Less than $40K,37
+35,High School,$40K - $60K,27
+39,Graduate,Unknown,30
+50,High School,$80K - $120K,30
+38,Graduate,Unknown,28
+39,High School,$80K - $120K,28
+32,College,$80K - $120K,36
+44,High School,$120K +,37
+33,High School,Less than $40K,24
+47,Graduate,Less than $40K,39
+38,Graduate,Less than $40K,18
+36,Uneducated,$40K - $60K,28
+35,Uneducated,$80K - $120K,25
+38,High School,Less than $40K,27
+30,Graduate,Less than $40K,17
+47,Uneducated,$80K - $120K,38
+37,Uneducated,Less than $40K,28
+32,Post-Graduate,Less than $40K,20
+44,Uneducated,Less than $40K,33
+43,High School,$80K - $120K,33
+49,Graduate,Less than $40K,31
+26,Graduate,$40K - $60K,36
+35,High School,$80K - $120K,28
+37,High School,$60K - $80K,32
+27,Graduate,Unknown,13
+43,High School,$80K - $120K,37
+49,Graduate,$60K - $80K,36
+49,Uneducated,$80K - $120K,43
+39,Graduate,Less than $40K,32
+41,Uneducated,Less than $40K,29
+32,High School,Less than $40K,36
+37,Graduate,Less than $40K,36
+39,High School,$120K +,34
+26,Graduate,$40K - $60K,13
+46,High School,Unknown,34
+36,College,$120K +,29
+38,Uneducated,Less than $40K,23
+37,Graduate,Less than $40K,36
+47,Graduate,Less than $40K,41
+31,Uneducated,Less than $40K,36
+34,High School,$120K +,25
+33,High School,$60K - $80K,25
+38,Uneducated,Less than $40K,29
+39,High School,Unknown,27
+39,High School,Less than $40K,36
+37,High School,Less than $40K,19
+41,Graduate,Unknown,30
+41,Uneducated,Less than $40K,33
+26,High School,$60K - $80K,15
+40,Graduate,$80K - $120K,22
+37,Uneducated,Unknown,28
+37,High School,$60K - $80K,27
+46,College,$60K - $80K,36
+48,Graduate,$40K - $60K,30
+34,High School,$120K +,21
+36,Uneducated,$60K - $80K,16
+33,Graduate,$60K - $80K,36
+43,Uneducated,$40K - $60K,39
+48,College,Less than $40K,36
+36,Graduate,$60K - $80K,27
+34,Uneducated,$40K - $60K,26
+38,Graduate,$80K - $120K,19
+36,High School,Less than $40K,17
+45,High School,$40K - $60K,30
+34,College,$40K - $60K,29
+27,Graduate,$120K +,17
+43,Graduate,Less than $40K,31
+40,Uneducated,$80K - $120K,29
+39,Graduate,$80K - $120K,31
+45,Graduate,$60K - $80K,25
+37,Graduate,Less than $40K,24
+49,Graduate,Less than $40K,43
+37,High School,$40K - $60K,31
+42,High School,$40K - $60K,37
+36,Graduate,$60K - $80K,30
+40,Graduate,Unknown,29
+43,High School,$40K - $60K,36
+29,Graduate,$40K - $60K,22
+42,Graduate,$40K - $60K,36
+36,Post-Graduate,Less than $40K,24
+36,Uneducated,Less than $40K,36
+26,College,Less than $40K,36
+26,Uneducated,Less than $40K,36
+40,Graduate,$60K - $80K,25
+38,Graduate,$40K - $60K,24
+32,College,Unknown,36
+29,Graduate,$80K - $120K,14
+38,Graduate,$60K - $80K,25
+46,High School,Less than $40K,36
+42,High School,$80K - $120K,30
+37,Graduate,$40K - $60K,30
+35,High School,$40K - $60K,36
+39,Graduate,$60K - $80K,27
+37,Graduate,Less than $40K,31
+34,College,$60K - $80K,23
+46,Uneducated,$60K - $80K,36
+36,Graduate,$60K - $80K,31
+35,College,$40K - $60K,24
+46,Uneducated,Unknown,33
+26,Post-Graduate,$40K - $60K,36
+38,Graduate,Unknown,28
+37,High School,$40K - $60K,28
+33,Graduate,Less than $40K,25
+34,High School,$40K - $60K,29
+39,Post-Graduate,Unknown,26
+50,Graduate,$60K - $80K,34
+32,High School,$60K - $80K,13
+41,Doctorate,$80K - $120K,29
+39,Graduate,$40K - $60K,27
+49,Uneducated,Less than $40K,37
+40,High School,Less than $40K,36
+36,Uneducated,Less than $40K,36
+37,Doctorate,$80K - $120K,36
+36,Uneducated,Less than $40K,30
+31,Uneducated,Less than $40K,24
+42,High School,$120K +,35
+38,High School,$60K - $80K,33
+45,Graduate,$60K - $80K,32
+50,Graduate,Less than $40K,37
+35,High School,$80K - $120K,22
+42,Graduate,$60K - $80K,34
+32,College,Less than $40K,24
+35,Graduate,$120K +,30
+36,Uneducated,Unknown,18
+42,Graduate,$40K - $60K,33
+37,Graduate,Unknown,22
+38,Graduate,$80K - $120K,36
+29,High School,$40K - $60K,36
+33,Graduate,$40K - $60K,20
+49,Post-Graduate,$60K - $80K,37
+44,Graduate,Less than $40K,37
+33,College,Unknown,36
+39,Doctorate,Unknown,36
+43,College,$60K - $80K,37
+36,Post-Graduate,$60K - $80K,30
+30,Graduate,Less than $40K,20
+26,High School,Less than $40K,13
+48,High School,$40K - $60K,36
+42,High School,Unknown,30
+32,Graduate,$80K - $120K,26
+48,Uneducated,$60K - $80K,35
+48,High School,$40K - $60K,34
+35,Graduate,$60K - $80K,36
+37,Post-Graduate,$40K - $60K,27
+36,High School,$120K +,36
+26,Uneducated,$40K - $60K,15
+35,Graduate,Less than $40K,22
+40,Post-Graduate,$60K - $80K,36
+39,Graduate,Less than $40K,32
+49,High School,$60K - $80K,42
+32,Post-Graduate,$60K - $80K,26
+35,Post-Graduate,$80K - $120K,20
+39,Graduate,$40K - $60K,31
+26,Graduate,$40K - $60K,13
+32,High School,$60K - $80K,26
+36,High School,Less than $40K,27
+45,High School,Less than $40K,37
+49,Graduate,$80K - $120K,37
+44,Doctorate,$120K +,32
+32,High School,Unknown,22
+31,Post-Graduate,$60K - $80K,22
+49,Uneducated,$40K - $60K,36
+32,High School,Less than $40K,22
+49,Graduate,Unknown,35
+30,Graduate,Less than $40K,36
+34,Uneducated,$120K +,36
+41,Post-Graduate,$40K - $60K,32
+33,Uneducated,$40K - $60K,23
+36,High School,$80K - $120K,27
+35,Graduate,$60K - $80K,25
+27,Graduate,$40K - $60K,36
+46,High School,$60K - $80K,38
+48,Graduate,$60K - $80K,33
+38,Graduate,$60K - $80K,31
+36,Post-Graduate,$80K - $120K,26
+32,Doctorate,$60K - $80K,27
+36,Doctorate,$60K - $80K,30
+35,High School,Less than $40K,15
+26,College,Unknown,13
+32,High School,$60K - $80K,24
+37,Uneducated,Less than $40K,36
+38,Graduate,Less than $40K,22
+35,College,$60K - $80K,36
+48,Doctorate,$80K - $120K,36
+29,Graduate,$40K - $60K,18
+33,Graduate,$80K - $120K,28
+39,High School,$40K - $60K,34
+35,Graduate,Unknown,25
+27,High School,Less than $40K,22
+31,Graduate,$40K - $60K,25
+45,Graduate,$60K - $80K,37
+35,High School,$60K - $80K,36
+37,Graduate,Less than $40K,31
+47,College,$120K +,34
+37,Post-Graduate,$80K - $120K,26
+36,College,Less than $40K,27
+26,High School,$60K - $80K,21
+45,Graduate,Less than $40K,36
+30,Post-Graduate,Less than $40K,36
+39,High School,$60K - $80K,28
+48,College,Less than $40K,36
+39,Graduate,$60K - $80K,33
+38,Graduate,$80K - $120K,24
+47,High School,$120K +,41
+26,Graduate,Less than $40K,20
+49,College,$120K +,36
+38,High School,$80K - $120K,22
+30,Graduate,Less than $40K,21
+35,Uneducated,$60K - $80K,21
+40,Uneducated,$40K - $60K,33
+30,High School,$60K - $80K,36
+42,College,$40K - $60K,30
+50,Post-Graduate,$40K - $60K,46
+45,Graduate,$80K - $120K,36
+35,Uneducated,Less than $40K,25
+33,High School,Unknown,25
+43,Graduate,Less than $40K,38
+50,College,$60K - $80K,36
+30,High School,$120K +,13
+37,Graduate,Less than $40K,36
+37,Doctorate,$40K - $60K,29
+45,Graduate,$80K - $120K,36
+43,Graduate,$60K - $80K,37
+36,High School,$60K - $80K,36
+36,Graduate,$80K - $120K,24
+35,High School,Unknown,17
+34,Graduate,Less than $40K,24
+29,Uneducated,$60K - $80K,20
+37,Post-Graduate,Less than $40K,26
+36,College,$40K - $60K,31
+35,Uneducated,Less than $40K,26
+37,Graduate,Less than $40K,24
+50,Uneducated,$60K - $80K,36
+40,Graduate,$80K - $120K,36
+39,High School,$60K - $80K,31
+36,Uneducated,$60K - $80K,22
+35,Graduate,$40K - $60K,36
+37,High School,Less than $40K,36
+39,College,$80K - $120K,24
+38,Graduate,Less than $40K,33
+36,Graduate,Less than $40K,24
+40,Graduate,Less than $40K,24
+35,College,$40K - $60K,29
+40,Graduate,$80K - $120K,29
+26,High School,$40K - $60K,13
+46,High School,$60K - $80K,35
+29,Graduate,Unknown,19
+38,Graduate,$40K - $60K,19
+31,Graduate,$60K - $80K,25
+35,High School,$60K - $80K,21
+34,College,$80K - $120K,28
+42,Doctorate,$80K - $120K,27
+29,College,$60K - $80K,36
+32,Graduate,$40K - $60K,21
+37,High School,Less than $40K,27
+38,Graduate,$80K - $120K,29
+35,Graduate,Unknown,23
+36,Graduate,$60K - $80K,36
+27,High School,$60K - $80K,18
+26,High School,$40K - $60K,15
+33,College,$80K - $120K,26
+35,Graduate,$60K - $80K,24
+29,College,Less than $40K,23
+33,Graduate,$120K +,21
+34,Graduate,$40K - $60K,36
+48,Graduate,$60K - $80K,36
+38,High School,$80K - $120K,27
+42,High School,$60K - $80K,36
+39,Uneducated,$40K - $60K,29
+36,Graduate,Less than $40K,18
+29,College,$80K - $120K,19
+26,College,$40K - $60K,13
+36,Uneducated,Unknown,21
+41,Graduate,$40K - $60K,32
+26,Post-Graduate,Less than $40K,13
+34,Graduate,$60K - $80K,26
+37,College,$80K - $120K,30
+40,Graduate,Unknown,20
+45,High School,$80K - $120K,34
+37,High School,Less than $40K,31
+30,Graduate,$60K - $80K,36
+36,Graduate,$80K - $120K,27
+39,Graduate,$40K - $60K,35
+34,Graduate,Less than $40K,28
+47,High School,$60K - $80K,36
+42,High School,$80K - $120K,37
+31,College,$40K - $60K,22
+40,College,$80K - $120K,33
+42,Graduate,Less than $40K,32
+31,Graduate,Less than $40K,21
+45,Graduate,$40K - $60K,36
+38,Graduate,$80K - $120K,28
+42,Post-Graduate,Less than $40K,36
+35,College,$60K - $80K,28
+39,Doctorate,Unknown,36
+35,Graduate,Less than $40K,27
+47,High School,$40K - $60K,36
+38,Graduate,$80K - $120K,33
+26,High School,Less than $40K,15
+37,Graduate,Unknown,28
+39,Graduate,$120K +,25
+35,Uneducated,$60K - $80K,16
+38,Graduate,$80K - $120K,33
+36,Uneducated,$40K - $60K,31
+39,College,$80K - $120K,28
+28,High School,Less than $40K,36
+26,Uneducated,Less than $40K,20
+28,Graduate,Less than $40K,36
+30,Uneducated,Unknown,13
+31,Uneducated,Less than $40K,19
+43,High School,$40K - $60K,32
+26,Uneducated,Less than $40K,20
+39,High School,$40K - $60K,26
+33,Graduate,$80K - $120K,20
+33,Uneducated,Less than $40K,22
+26,College,Unknown,16
+37,Graduate,Less than $40K,36
+35,Uneducated,$120K +,26
+37,Uneducated,$80K - $120K,26
+38,Uneducated,$40K - $60K,31
+38,Uneducated,$80K - $120K,25
+39,High School,Unknown,27
+43,Uneducated,Less than $40K,29
+36,College,$80K - $120K,36
+38,Uneducated,Less than $40K,28
+37,Graduate,$40K - $60K,27
+37,College,$60K - $80K,30
+29,Uneducated,Less than $40K,19
+35,High School,$80K - $120K,29
+38,College,$40K - $60K,28
+33,High School,Less than $40K,27
+45,Uneducated,Less than $40K,36
+33,Uneducated,Less than $40K,16
+34,Graduate,Less than $40K,36
+38,Graduate,Less than $40K,30
+35,High School,$60K - $80K,24
+33,Post-Graduate,Unknown,36
+37,High School,$120K +,32
+50,High School,Less than $40K,43
+35,Uneducated,Less than $40K,21
+28,Post-Graduate,$40K - $60K,16
+37,Uneducated,$80K - $120K,31
+39,Graduate,$40K - $60K,28
+31,Post-Graduate,$40K - $60K,20
+37,Graduate,$60K - $80K,23
+39,Graduate,Less than $40K,32
+38,Graduate,$80K - $120K,31
+35,Graduate,$40K - $60K,30
+30,Graduate,Less than $40K,36
+48,Post-Graduate,Less than $40K,35
+33,Uneducated,Less than $40K,21
+37,High School,Less than $40K,36
+39,College,$40K - $60K,28
+43,Graduate,$60K - $80K,28
+38,Uneducated,$80K - $120K,33
+48,Post-Graduate,$40K - $60K,44
+38,Graduate,$60K - $80K,36
+35,Graduate,$40K - $60K,17
+38,Post-Graduate,$60K - $80K,36
+34,Graduate,$120K +,29
+39,High School,$60K - $80K,34
+37,Graduate,$80K - $120K,36
+33,High School,Less than $40K,26
+37,Doctorate,$60K - $80K,30
+47,Graduate,$40K - $60K,41
+34,Post-Graduate,Unknown,29
+26,Uneducated,Less than $40K,13
+45,College,$120K +,40
+47,High School,$40K - $60K,41
+34,Graduate,$60K - $80K,27
+36,College,$80K - $120K,27
+36,Uneducated,$40K - $60K,30
+29,Post-Graduate,Less than $40K,18
+37,Graduate,$80K - $120K,20
+46,Graduate,Less than $40K,36
+32,High School,$120K +,27
+39,Uneducated,$120K +,36
+38,High School,$60K - $80K,26
+38,Uneducated,$60K - $80K,36
+43,College,Less than $40K,36
+39,Graduate,Less than $40K,34
+35,High School,Unknown,24
+45,College,$80K - $120K,39
+35,Graduate,$40K - $60K,29
+48,Graduate,$40K - $60K,39
+26,High School,$40K - $60K,13
+36,College,$120K +,26
+37,College,$80K - $120K,17
+49,High School,$80K - $120K,37
+45,College,$60K - $80K,38
+34,High School,Unknown,36
+28,High School,Less than $40K,19
+26,College,Less than $40K,15
+47,Graduate,$120K +,36
+36,High School,Unknown,36
+43,Graduate,$80K - $120K,33
+37,College,$60K - $80K,26
+33,Graduate,$80K - $120K,36
+38,College,$40K - $60K,25
+36,Graduate,$80K - $120K,36
+40,Graduate,Unknown,28
+37,Graduate,$120K +,30
+26,High School,Unknown,13
+45,High School,$60K - $80K,35
+26,High School,Less than $40K,13
+42,Graduate,$40K - $60K,30
+33,College,$80K - $120K,36
+40,Uneducated,$80K - $120K,36
+32,High School,Less than $40K,23
+26,Graduate,$60K - $80K,13
+37,High School,Less than $40K,26
+47,High School,Unknown,43
+47,Graduate,$80K - $120K,34
+48,Graduate,Unknown,43
+49,Uneducated,Less than $40K,36
+35,Graduate,$80K - $120K,20
+36,Graduate,$60K - $80K,17
+30,Graduate,Less than $40K,23
+46,Graduate,$40K - $60K,41
+43,Graduate,$80K - $120K,34
+34,Graduate,$120K +,28
+44,Graduate,$80K - $120K,33
+34,Graduate,$80K - $120K,29
+40,Graduate,$60K - $80K,31
+42,College,$60K - $80K,36
+36,Graduate,$40K - $60K,28
+26,High School,Less than $40K,13
+42,High School,$40K - $60K,32
+41,College,$120K +,28
+35,Graduate,Less than $40K,23
+34,Graduate,$120K +,27
+37,High School,$80K - $120K,31
+46,Uneducated,$60K - $80K,32
+26,College,$40K - $60K,21
+47,Graduate,Less than $40K,36
+40,High School,$80K - $120K,28
+33,Graduate,Less than $40K,20
+33,High School,$80K - $120K,28
+41,Uneducated,Unknown,33
+29,Graduate,Less than $40K,20
+43,Doctorate,Unknown,38
+40,High School,$80K - $120K,29
+37,Graduate,Less than $40K,36
+32,High School,Less than $40K,14
+36,Graduate,$60K - $80K,27
+36,Uneducated,$120K +,25
+26,Uneducated,$40K - $60K,18
+38,Graduate,$40K - $60K,20
+32,High School,$40K - $60K,22
+37,Graduate,Less than $40K,31
+32,Graduate,Unknown,27
+47,High School,$80K - $120K,36
+32,Graduate,Less than $40K,26
+34,Doctorate,Less than $40K,13
+43,High School,$80K - $120K,36
+31,College,Less than $40K,21
+48,College,$40K - $60K,36
+33,Uneducated,$60K - $80K,28
+26,Post-Graduate,Less than $40K,15
+30,Uneducated,Less than $40K,24
+49,Graduate,Less than $40K,43
+39,Uneducated,$120K +,26
+34,College,$60K - $80K,23
+32,Graduate,$40K - $60K,21
+39,Graduate,$80K - $120K,22
+48,Graduate,Unknown,40
+36,Graduate,$80K - $120K,32
+39,College,$40K - $60K,34
+31,Graduate,Less than $40K,36
+31,Graduate,$40K - $60K,36
+36,Graduate,$60K - $80K,36
+47,Graduate,Less than $40K,42
+37,College,$60K - $80K,19
+39,Graduate,$80K - $120K,27
+37,Graduate,$40K - $60K,36
+37,Graduate,$40K - $60K,36
+45,Uneducated,Less than $40K,39
+36,Graduate,Unknown,26
+34,College,Less than $40K,30
+35,Graduate,$80K - $120K,24
+32,Graduate,$40K - $60K,18
+38,Uneducated,Less than $40K,27
+37,Uneducated,$80K - $120K,28
+37,High School,Unknown,36
+47,Graduate,Less than $40K,36
+33,College,Less than $40K,23
+49,Graduate,$60K - $80K,43
+37,Doctorate,$120K +,22
+31,Uneducated,$40K - $60K,24
+43,Graduate,$120K +,31
+39,Uneducated,$80K - $120K,26
+38,High School,$40K - $60K,36
+39,High School,Unknown,27
+30,College,$40K - $60K,22
+46,Doctorate,$80K - $120K,39
+39,College,$60K - $80K,31
+34,Uneducated,$120K +,36
+39,Uneducated,$60K - $80K,28
+36,Graduate,Less than $40K,28
+38,High School,$40K - $60K,32
+28,Graduate,Less than $40K,23
+37,High School,Unknown,36
+48,Graduate,Less than $40K,36
+38,Uneducated,$60K - $80K,25
+37,High School,$60K - $80K,30
+27,High School,Less than $40K,19
+32,High School,Less than $40K,26
+45,Graduate,$60K - $80K,37
+36,Post-Graduate,Less than $40K,25
+39,Graduate,$40K - $60K,29
+39,Graduate,$40K - $60K,30
+34,High School,$80K - $120K,21
+36,Graduate,$60K - $80K,28
+37,High School,$120K +,24
+27,Uneducated,$40K - $60K,15
+42,Graduate,Unknown,34
+30,College,Unknown,13
+38,High School,$60K - $80K,32
+47,Uneducated,Unknown,35
+33,Graduate,$40K - $60K,24
+33,High School,$60K - $80K,23
+44,Doctorate,Less than $40K,39
+34,Uneducated,$80K - $120K,25
+37,High School,Less than $40K,31
+39,Post-Graduate,$60K - $80K,36
+39,High School,$80K - $120K,34
+37,Graduate,$120K +,25
+45,Graduate,Less than $40K,36
+37,Graduate,$60K - $80K,23
+29,Uneducated,Less than $40K,23
+37,Graduate,$80K - $120K,27
+43,High School,$60K - $80K,23
+29,Post-Graduate,Less than $40K,17
+38,High School,$120K +,29
+26,Graduate,$40K - $60K,17
+46,High School,Less than $40K,39
+39,Uneducated,Less than $40K,34
+31,Graduate,$40K - $60K,20
+37,High School,$40K - $60K,36
+36,High School,$40K - $60K,32
+26,High School,Less than $40K,36
+35,College,$80K - $120K,36
+37,Graduate,$80K - $120K,24
+38,High School,$60K - $80K,26
+37,Uneducated,$60K - $80K,36
+33,Graduate,$120K +,21
+38,College,$80K - $120K,24
+30,Post-Graduate,Less than $40K,17
+31,Graduate,$60K - $80K,24
+26,College,$40K - $60K,36
+29,Graduate,Less than $40K,18
+35,High School,Less than $40K,36
+35,Uneducated,$120K +,29
+35,Uneducated,Unknown,27
+35,Uneducated,$40K - $60K,36
+32,High School,$60K - $80K,13
+49,College,Less than $40K,43
+36,Graduate,$120K +,29
+35,High School,Less than $40K,21
+39,Graduate,$40K - $60K,26
+39,Uneducated,Less than $40K,36
+34,Graduate,Less than $40K,23
+26,High School,Unknown,13
+32,College,$80K - $120K,21
+49,High School,$60K - $80K,39
+39,Uneducated,Less than $40K,26
+32,Graduate,$40K - $60K,22
+30,College,Less than $40K,19
+37,Uneducated,$80K - $120K,36
+38,Uneducated,$40K - $60K,36
+46,Uneducated,$120K +,33
+36,Uneducated,$60K - $80K,36
+33,Post-Graduate,$80K - $120K,36
+46,Doctorate,$120K +,36
+50,High School,$120K +,40
+41,College,$60K - $80K,33
+36,Graduate,Less than $40K,30
+45,College,$120K +,40
+36,High School,$80K - $120K,27
+45,Graduate,$40K - $60K,32
+38,Graduate,$40K - $60K,27
+35,High School,Less than $40K,22
+48,College,Less than $40K,37
+37,College,Unknown,20
+33,Doctorate,Unknown,21
+31,College,$80K - $120K,36
+40,College,Less than $40K,26
+43,High School,$80K - $120K,37
+31,High School,Less than $40K,22
+36,Uneducated,$80K - $120K,25
+34,High School,$60K - $80K,27
+46,Graduate,$40K - $60K,31
+45,College,$60K - $80K,35
+40,High School,Less than $40K,32
+46,Uneducated,Less than $40K,36
+36,Graduate,Less than $40K,25
+44,Graduate,$40K - $60K,33
+37,Uneducated,Less than $40K,30
+35,Graduate,$80K - $120K,25
+37,High School,$40K - $60K,19
+45,Uneducated,Unknown,26
+41,Uneducated,$40K - $60K,36
+37,High School,$60K - $80K,29
+29,College,Unknown,15
+42,College,$60K - $80K,25
+47,Graduate,Less than $40K,36
+44,Graduate,Less than $40K,36
+34,High School,Less than $40K,28
+37,Graduate,Unknown,32
+33,Graduate,Unknown,21
+40,Uneducated,$80K - $120K,23
+46,Graduate,$80K - $120K,35
+27,Graduate,$40K - $60K,16
+37,High School,Less than $40K,30
+34,Doctorate,Unknown,25
+34,Graduate,$40K - $60K,17
+35,Uneducated,Less than $40K,36
+45,Uneducated,$40K - $60K,36
+26,Graduate,Less than $40K,13
+34,High School,$80K - $120K,23
+39,Uneducated,$60K - $80K,36
+36,Graduate,$120K +,36
+48,Doctorate,$80K - $120K,28
+50,Uneducated,Unknown,34
+39,Uneducated,Less than $40K,26
+45,High School,Less than $40K,36
+34,Uneducated,$120K +,28
+37,Graduate,$40K - $60K,36
+44,Graduate,Less than $40K,36
+26,Graduate,Less than $40K,15
+26,High School,Unknown,13
+34,Uneducated,$60K - $80K,24
+30,Graduate,$80K - $120K,23
+35,Post-Graduate,$80K - $120K,27
+32,Graduate,$40K - $60K,27
+32,Uneducated,Less than $40K,23
+35,Graduate,Less than $40K,25
+31,Graduate,Less than $40K,26
+45,Graduate,$40K - $60K,34
+31,Uneducated,Less than $40K,20
+37,Graduate,$60K - $80K,36
+41,Post-Graduate,$60K - $80K,34
+45,Graduate,$40K - $60K,39
+41,High School,$40K - $60K,36
+40,High School,Less than $40K,31
+47,High School,$80K - $120K,36
+42,Uneducated,Less than $40K,36
+39,Graduate,$80K - $120K,34
+39,Graduate,$60K - $80K,34
+36,Graduate,$120K +,29
+36,Uneducated,$60K - $80K,21
+29,Graduate,Less than $40K,19
+37,Graduate,Less than $40K,28
+36,High School,$60K - $80K,36
+46,Graduate,$60K - $80K,36
+31,High School,Less than $40K,22
+33,Doctorate,$40K - $60K,25
+50,High School,Less than $40K,38
+48,High School,$40K - $60K,29
+50,Graduate,$40K - $60K,40
+39,Graduate,$80K - $120K,31
+39,College,$60K - $80K,26
+37,Graduate,$80K - $120K,26
+50,Uneducated,Unknown,45
+38,Graduate,$40K - $60K,36
+38,Graduate,$40K - $60K,22
+41,College,$80K - $120K,35
+28,Post-Graduate,Unknown,13
+44,Graduate,Unknown,31
+28,High School,Unknown,21
+35,Graduate,Less than $40K,21
+46,College,Less than $40K,38
+50,Uneducated,Unknown,44
+31,Uneducated,$40K - $60K,21
+50,College,Less than $40K,32
+44,High School,Less than $40K,39
+41,Graduate,$80K - $120K,35
+48,College,Less than $40K,38
+35,High School,$120K +,36
+30,Post-Graduate,Less than $40K,18
+37,High School,$80K - $120K,24
+37,Graduate,$60K - $80K,27
+48,Doctorate,Less than $40K,43
+37,Graduate,$40K - $60K,17
+35,High School,$60K - $80K,26
+35,Graduate,Less than $40K,27
+49,High School,$40K - $60K,38
+26,High School,Unknown,13
+29,Uneducated,Unknown,18
+33,College,$80K - $120K,23
+36,Graduate,$40K - $60K,28
+47,Doctorate,Less than $40K,36
+41,Graduate,Less than $40K,29
+46,Graduate,$60K - $80K,40
+39,Uneducated,Unknown,34
+49,Graduate,$80K - $120K,39
+35,High School,Less than $40K,23
+47,College,$120K +,27
+38,Graduate,$60K - $80K,34
+38,High School,$60K - $80K,25
+46,College,$80K - $120K,39
+37,High School,$40K - $60K,25
+38,College,$80K - $120K,27
+45,Doctorate,Unknown,39
+26,College,$40K - $60K,36
+48,Uneducated,$120K +,36
+48,Graduate,Less than $40K,43
+33,Graduate,$80K - $120K,36
+40,Graduate,Less than $40K,29
+46,High School,$40K - $60K,41
+47,Graduate,$60K - $80K,34
+45,Graduate,$60K - $80K,36
+48,Uneducated,$40K - $60K,38
+43,Post-Graduate,$60K - $80K,37
+43,College,$40K - $60K,31
+43,Graduate,$80K - $120K,37
+38,Graduate,$60K - $80K,32
+34,College,Less than $40K,36
+36,High School,$40K - $60K,20
+36,College,$40K - $60K,36
+35,Graduate,Unknown,27
+48,Graduate,Less than $40K,36
+37,Uneducated,$40K - $60K,19
+45,Uneducated,$80K - $120K,39
+38,High School,$60K - $80K,30
+35,College,Less than $40K,18
+36,Uneducated,Less than $40K,30
+33,Post-Graduate,$120K +,14
+28,High School,Less than $40K,14
+36,Uneducated,$40K - $60K,26
+34,College,Less than $40K,27
+44,Graduate,Less than $40K,39
+39,High School,$80K - $120K,28
+37,High School,$40K - $60K,25
+47,Graduate,$40K - $60K,36
+33,College,$40K - $60K,26
+30,Graduate,$60K - $80K,22
+36,High School,Less than $40K,36
+46,High School,Less than $40K,28
+31,Uneducated,Less than $40K,25
+36,Post-Graduate,$40K - $60K,31
+33,Graduate,Less than $40K,36
+30,Post-Graduate,$40K - $60K,16
+41,College,$120K +,32
+45,Uneducated,$40K - $60K,36
+50,Graduate,Less than $40K,40
+35,Graduate,$60K - $80K,25
+33,College,Less than $40K,24
+38,Uneducated,$80K - $120K,33
+31,High School,Less than $40K,22
+37,Graduate,$60K - $80K,27
+36,Uneducated,$80K - $120K,30
+39,Graduate,Unknown,36
+39,Graduate,Less than $40K,34
+50,Uneducated,Less than $40K,40
+33,High School,$40K - $60K,24
+48,High School,Unknown,36
+41,Graduate,$60K - $80K,36
+34,Post-Graduate,$80K - $120K,28
+38,Graduate,$80K - $120K,27
+35,Doctorate,$40K - $60K,24
+35,Graduate,$120K +,27
+35,Doctorate,$60K - $80K,18
+36,Graduate,Unknown,36
+33,Graduate,$40K - $60K,36
+37,Uneducated,Less than $40K,29
+35,Graduate,$120K +,28
+48,High School,$40K - $60K,30
+37,Graduate,$40K - $60K,17
+50,College,$60K - $80K,40
+48,Graduate,$60K - $80K,37
+40,Graduate,$60K - $80K,30
+48,Graduate,$80K - $120K,39
+50,Uneducated,Less than $40K,36
+36,High School,$80K - $120K,30
+46,High School,$120K +,32
+28,Uneducated,Unknown,36
+44,High School,$40K - $60K,38
+37,Uneducated,$80K - $120K,36
+46,High School,$60K - $80K,40
+45,High School,Unknown,36
+33,High School,$120K +,20
+39,Graduate,$120K +,36
+37,High School,Less than $40K,28
+32,Uneducated,$40K - $60K,36
+26,Uneducated,Unknown,13
+37,Graduate,$80K - $120K,18
+43,Graduate,Less than $40K,35
+34,Uneducated,$120K +,17
+26,Graduate,Less than $40K,21
+35,Uneducated,Less than $40K,23
+41,Graduate,$60K - $80K,28
+36,Uneducated,Less than $40K,32
+36,High School,$80K - $120K,26
+42,Graduate,$60K - $80K,32
+27,College,Less than $40K,14
+29,High School,Less than $40K,23
+33,College,$40K - $60K,14
+35,Graduate,$80K - $120K,36
+33,Graduate,Less than $40K,36
+46,Graduate,$80K - $120K,40
+42,College,$120K +,36
+50,Graduate,$120K +,42
+48,College,$40K - $60K,40
+34,Graduate,Less than $40K,27
+48,Uneducated,Less than $40K,42
+45,College,$40K - $60K,37
+47,Uneducated,$80K - $120K,32
+33,Post-Graduate,Less than $40K,15
+49,Post-Graduate,Unknown,36
+49,Graduate,$40K - $60K,35
+36,High School,$80K - $120K,31
+36,Graduate,$60K - $80K,36
+46,Graduate,$40K - $60K,36
+30,College,Less than $40K,24
+46,Graduate,$120K +,36
+41,Uneducated,$80K - $120K,36
+50,Uneducated,$40K - $60K,45
+49,High School,Less than $40K,43
+41,High School,$80K - $120K,36
+44,College,$120K +,34
+38,Graduate,Less than $40K,34
+26,College,Less than $40K,13
+27,Post-Graduate,Less than $40K,22
+32,Uneducated,$60K - $80K,14
+45,Uneducated,Less than $40K,30
+48,High School,Less than $40K,28
+38,Post-Graduate,$60K - $80K,36
+40,Graduate,Less than $40K,30
+35,Uneducated,Less than $40K,26
+31,College,$80K - $120K,36
+40,College,$40K - $60K,24
+48,Graduate,$80K - $120K,29
+49,High School,$80K - $120K,39
+40,High School,$40K - $60K,32
+45,Graduate,$40K - $60K,41
+36,Graduate,$80K - $120K,17
+37,Graduate,Less than $40K,36
+44,College,$40K - $60K,34
+42,High School,Less than $40K,36
+49,Post-Graduate,$80K - $120K,45
+30,Graduate,Less than $40K,17
+50,Uneducated,$60K - $80K,45
+32,High School,$60K - $80K,26
+32,Graduate,Less than $40K,28
+49,Post-Graduate,$60K - $80K,44
+37,Doctorate,$120K +,32
+42,College,Unknown,31
+48,Uneducated,$60K - $80K,40
+33,Post-Graduate,$40K - $60K,28
+36,College,$60K - $80K,24
+36,High School,Less than $40K,36
+28,High School,Less than $40K,36
+31,Uneducated,Less than $40K,19
+44,Uneducated,Less than $40K,33
+34,Doctorate,Less than $40K,28
+37,Uneducated,$60K - $80K,36
+46,Graduate,$40K - $60K,37
+47,Uneducated,Less than $40K,32
+36,High School,Less than $40K,28
+37,Graduate,$60K - $80K,31
+47,College,$40K - $60K,36
+48,Graduate,$80K - $120K,38
+35,Uneducated,$60K - $80K,30
+49,Uneducated,$80K - $120K,36
+41,College,$60K - $80K,28
+37,High School,$60K - $80K,36
+30,High School,Less than $40K,21
+45,Post-Graduate,$80K - $120K,35
+46,Graduate,$60K - $80K,40
+36,College,Less than $40K,36
+48,Doctorate,$120K +,41
+44,Graduate,$60K - $80K,34
+46,Graduate,$40K - $60K,41
+48,Graduate,$80K - $120K,40
+41,High School,$80K - $120K,36
+37,High School,$40K - $60K,22
+29,High School,Less than $40K,13
+49,Doctorate,Less than $40K,44
+47,Doctorate,Less than $40K,35
+33,Graduate,$60K - $80K,21
+34,Graduate,$60K - $80K,27
+28,Graduate,Unknown,15
+36,Graduate,$40K - $60K,28
+30,Graduate,Less than $40K,18
+34,High School,$40K - $60K,21
+38,College,$40K - $60K,36
+39,Post-Graduate,Less than $40K,22
+32,Graduate,Unknown,26
+36,Doctorate,$40K - $60K,26
+37,High School,Unknown,28
+45,Uneducated,$60K - $80K,33
+38,Uneducated,Less than $40K,33
+31,Graduate,$40K - $60K,24
+43,College,Unknown,36
+37,Graduate,$60K - $80K,31
+27,Uneducated,$60K - $80K,36
+34,High School,$40K - $60K,36
+32,College,Less than $40K,36
+49,Uneducated,Less than $40K,39
+27,Post-Graduate,Unknown,22
+30,Uneducated,Unknown,22
+39,High School,$80K - $120K,25
+42,Doctorate,$80K - $120K,32
+47,Graduate,Less than $40K,41
+26,High School,$40K - $60K,36
+37,High School,$40K - $60K,24
+45,Uneducated,$40K - $60K,35
+37,Graduate,$120K +,28
+36,Graduate,Less than $40K,31
+36,High School,Less than $40K,36
+39,High School,$60K - $80K,28
+47,Uneducated,$60K - $80K,36
+49,Graduate,$120K +,36
+36,Uneducated,Less than $40K,26
+26,College,$40K - $60K,13
+34,Graduate,$80K - $120K,23
+43,Graduate,$120K +,31
+47,Uneducated,Unknown,42
+42,High School,Less than $40K,19
+38,College,$80K - $120K,30
+28,College,Unknown,36
+29,Post-Graduate,Less than $40K,36
+48,Doctorate,$60K - $80K,38
+43,Uneducated,$80K - $120K,36
+49,Post-Graduate,Less than $40K,36
+43,High School,$80K - $120K,23
+41,Uneducated,$40K - $60K,36
+43,Graduate,$80K - $120K,31
+37,Doctorate,$80K - $120K,30
+37,College,$40K - $60K,24
+49,High School,$80K - $120K,36
+36,Uneducated,$80K - $120K,25
+50,Graduate,Less than $40K,43
+36,College,Unknown,30
+45,High School,$120K +,35
+41,Graduate,$80K - $120K,36
+47,Graduate,$80K - $120K,37
+39,Post-Graduate,$80K - $120K,31
+36,Doctorate,$120K +,31
+39,Graduate,$40K - $60K,34
+50,High School,Less than $40K,38
+38,Graduate,$60K - $80K,32
+41,Uneducated,$40K - $60K,28
+40,Graduate,Less than $40K,27
+40,Doctorate,Unknown,36
+46,Uneducated,Less than $40K,35
+49,Graduate,Less than $40K,36
+49,Graduate,$80K - $120K,39
+38,Graduate,$80K - $120K,24
+40,Graduate,$80K - $120K,34
+36,Uneducated,$80K - $120K,31
+34,College,$60K - $80K,20
+39,College,Unknown,36
+50,Graduate,$120K +,42
+36,Uneducated,$120K +,28
+44,Graduate,$40K - $60K,30
+45,College,Less than $40K,32
+36,Graduate,$120K +,28
+44,Uneducated,Less than $40K,36
+50,Graduate,Less than $40K,37
+27,College,Less than $40K,15
+31,College,Unknown,27
+41,High School,$60K - $80K,28
+28,Uneducated,$60K - $80K,18
+43,Uneducated,$80K - $120K,31
+46,Graduate,$60K - $80K,34
+44,High School,Less than $40K,33
+40,Graduate,$60K - $80K,36
+32,High School,$40K - $60K,18
+48,Uneducated,$40K - $60K,37
+37,High School,Less than $40K,25
+41,Uneducated,$80K - $120K,30
+49,Post-Graduate,$120K +,36
+36,High School,Unknown,23
+35,Graduate,$40K - $60K,25
+36,Post-Graduate,Less than $40K,23
+33,Graduate,Less than $40K,22
+33,Graduate,$80K - $120K,26
+44,Graduate,$80K - $120K,34
+38,Doctorate,$80K - $120K,29
+41,Uneducated,$80K - $120K,32
+44,Uneducated,Less than $40K,26
+37,Post-Graduate,$80K - $120K,27
+37,Graduate,$40K - $60K,27
+46,Graduate,$80K - $120K,33
+50,High School,Less than $40K,39
+48,High School,Unknown,36
+47,High School,Less than $40K,38
+43,Graduate,Less than $40K,32
+41,Uneducated,$80K - $120K,36
+34,Post-Graduate,$60K - $80K,23
+33,College,Less than $40K,17
+49,High School,$60K - $80K,36
+44,Doctorate,$120K +,35
+36,Uneducated,$80K - $120K,28
+37,High School,$80K - $120K,31
+50,Uneducated,$120K +,30
+40,Graduate,$60K - $80K,30
+40,High School,Less than $40K,31
+48,Graduate,$60K - $80K,38
+45,Graduate,Less than $40K,35
+30,Graduate,Less than $40K,17
+41,High School,$40K - $60K,32
+46,Graduate,$120K +,42
+31,College,Less than $40K,21
+48,High School,$60K - $80K,40
+45,Graduate,$40K - $60K,36
+46,Graduate,$120K +,34
+34,Graduate,$80K - $120K,22
+39,Uneducated,Less than $40K,28
+34,High School,Unknown,22
+44,Doctorate,$40K - $60K,25
+49,High School,$120K +,42
+26,Graduate,Unknown,36
+35,College,$60K - $80K,26
+48,Graduate,$80K - $120K,30
+38,Uneducated,$60K - $80K,18
+50,College,Less than $40K,45
+46,Uneducated,Less than $40K,33
+48,Graduate,$80K - $120K,35
+36,Graduate,$60K - $80K,28
+41,Post-Graduate,Less than $40K,35
+45,High School,Unknown,36
+36,College,$60K - $80K,25
+49,Graduate,Less than $40K,36
+43,High School,$120K +,36
+46,High School,$80K - $120K,36
+50,Graduate,$80K - $120K,36
+43,Graduate,$60K - $80K,25
+46,College,$80K - $120K,32
+48,Graduate,$80K - $120K,38
+49,High School,$80K - $120K,38
+47,Uneducated,$40K - $60K,33
+41,Post-Graduate,Less than $40K,33
+44,High School,$80K - $120K,36
+35,Uneducated,Less than $40K,36
+32,High School,Less than $40K,13
+38,College,$60K - $80K,34
+39,High School,$120K +,22
+48,Graduate,Less than $40K,31
+49,Graduate,$60K - $80K,36
+46,Graduate,Less than $40K,39
+38,Doctorate,Less than $40K,26
+48,High School,$80K - $120K,36
+45,Graduate,Less than $40K,34
+43,Doctorate,$40K - $60K,34
+41,Graduate,$40K - $60K,36
+50,Post-Graduate,$120K +,36
+35,High School,Less than $40K,30
+38,Graduate,$60K - $80K,25
+40,Graduate,Unknown,23
+48,Graduate,$80K - $120K,43
+42,High School,Less than $40K,31
+50,Graduate,$120K +,43
+38,High School,$60K - $80K,33
+46,High School,$60K - $80K,36
+49,Doctorate,Unknown,36
+50,Uneducated,$60K - $80K,39
+40,Graduate,Less than $40K,27
+32,High School,$60K - $80K,36
+49,Graduate,$60K - $80K,32
+43,Uneducated,$120K +,33
+42,Doctorate,Less than $40K,36
+48,Uneducated,$120K +,38
+49,High School,$120K +,45
+44,Graduate,$40K - $60K,36
+43,Graduate,$60K - $80K,30
+33,High School,$40K - $60K,25
+50,Graduate,$80K - $120K,36
+48,Post-Graduate,$120K +,35
+47,High School,Less than $40K,40
+35,Uneducated,Less than $40K,24
+31,Graduate,Less than $40K,20
+50,Uneducated,$80K - $120K,40
+38,Graduate,$80K - $120K,31
+39,Graduate,$60K - $80K,29
+49,Graduate,$40K - $60K,41
+49,Uneducated,$40K - $60K,33
+44,High School,$60K - $80K,36
+36,Graduate,$120K +,20
+44,Graduate,$60K - $80K,39
+35,Uneducated,$60K - $80K,28
+45,Graduate,$80K - $120K,36
+37,Graduate,Less than $40K,19
+48,Uneducated,Less than $40K,38
+43,Graduate,Unknown,33
+46,Post-Graduate,$60K - $80K,41
+44,Doctorate,Unknown,36
+44,Graduate,$60K - $80K,31
+38,Graduate,$60K - $80K,30
+42,Graduate,Less than $40K,36
+49,Uneducated,Less than $40K,36
+31,Graduate,Less than $40K,22
+47,High School,Less than $40K,31
+30,Graduate,Less than $40K,19
+45,High School,Less than $40K,33
+28,Uneducated,Less than $40K,20
+44,High School,Less than $40K,31
+49,Graduate,$60K - $80K,36
+34,High School,Less than $40K,24
+42,Graduate,$80K - $120K,35
+32,High School,$40K - $60K,26
+35,Graduate,$60K - $80K,22
+45,Graduate,$80K - $120K,36
+45,College,$80K - $120K,35
+43,Graduate,Less than $40K,30
+38,Graduate,$60K - $80K,33
+39,Uneducated,Less than $40K,36
+44,High School,$80K - $120K,36
+39,Graduate,$60K - $80K,34
+36,High School,$120K +,24
+42,College,Less than $40K,36
+40,Graduate,Less than $40K,36
+40,College,Less than $40K,33
+44,High School,$60K - $80K,34
+43,Graduate,$120K +,36
+45,Graduate,$60K - $80K,33
+34,Graduate,Unknown,29
+38,College,$60K - $80K,18
+36,Graduate,$80K - $120K,27
+49,Uneducated,$40K - $60K,39
+37,High School,$120K +,32
+44,Graduate,$80K - $120K,36
+49,High School,Unknown,35
+37,High School,$60K - $80K,29
+46,Uneducated,Unknown,28
+39,Graduate,Less than $40K,36
+36,High School,$80K - $120K,28
+39,Graduate,$80K - $120K,21
+50,High School,Less than $40K,42
+38,Uneducated,Unknown,36
+45,Uneducated,$60K - $80K,39
+47,Graduate,$40K - $60K,34
+40,Graduate,Less than $40K,32
+48,Graduate,Unknown,38
+46,College,$60K - $80K,39
+45,Graduate,$60K - $80K,36
+47,Uneducated,$120K +,42
+40,Graduate,$40K - $60K,32
+36,Uneducated,Unknown,31
+41,High School,$60K - $80K,29
+38,Post-Graduate,$80K - $120K,22
+44,High School,$40K - $60K,25
+42,Uneducated,Less than $40K,33
+48,Graduate,Less than $40K,36
+34,Uneducated,$120K +,13
+50,Uneducated,Less than $40K,36
+41,Uneducated,$80K - $120K,34
+50,Graduate,$40K - $60K,38
+49,High School,$120K +,42
+45,Graduate,Less than $40K,25
+47,High School,$60K - $80K,35
+43,Graduate,$80K - $120K,33
+39,Uneducated,$40K - $60K,25
+36,Uneducated,$120K +,23
+41,High School,Less than $40K,33
+42,Graduate,$40K - $60K,34
+48,Doctorate,$80K - $120K,41
+46,Graduate,$80K - $120K,36
+46,Uneducated,Unknown,33
+46,Graduate,$40K - $60K,38
+41,High School,$80K - $120K,31
+41,Graduate,$60K - $80K,28
+44,Graduate,$120K +,32
+49,High School,$60K - $80K,39
+44,College,$60K - $80K,32
+49,Graduate,$60K - $80K,36
+35,High School,$80K - $120K,30
+45,College,$40K - $60K,39
+36,College,$60K - $80K,22
+42,Post-Graduate,$40K - $60K,29
+46,Graduate,$120K +,30
+49,Uneducated,$40K - $60K,44
+50,High School,$40K - $60K,29
+46,Graduate,Unknown,36
+38,College,$40K - $60K,20
+35,Graduate,Less than $40K,36
+48,Doctorate,$60K - $80K,41
+47,Graduate,$80K - $120K,43
+37,College,$40K - $60K,28
+48,Uneducated,Less than $40K,30
+49,High School,Unknown,36
+49,Post-Graduate,$60K - $80K,36
+48,Graduate,Less than $40K,36
+44,Uneducated,$40K - $60K,27
+45,Post-Graduate,Less than $40K,36
+44,Graduate,$40K - $60K,35
+42,Doctorate,$80K - $120K,36
+43,Graduate,$80K - $120K,36
+46,Graduate,$40K - $60K,38
+42,Graduate,$80K - $120K,31
+39,College,$80K - $120K,31
+43,Doctorate,$80K - $120K,36
+48,Uneducated,Less than $40K,38
+40,College,Unknown,36
+48,High School,$80K - $120K,35
+36,Doctorate,$40K - $60K,31
+49,High School,$60K - $80K,36
+40,High School,$80K - $120K,32
+40,Uneducated,$120K +,36
+44,Uneducated,Less than $40K,36
+44,High School,$80K - $120K,38
+36,College,Less than $40K,36
+45,Graduate,$40K - $60K,39
+44,Uneducated,Less than $40K,35
+35,Doctorate,$40K - $60K,24
+43,Graduate,Less than $40K,39
+49,Graduate,$80K - $120K,36
+46,High School,$60K - $80K,39
+46,Graduate,$80K - $120K,34
+48,Uneducated,$40K - $60K,34
+45,High School,$60K - $80K,40
+45,Graduate,$40K - $60K,37
+50,High School,Less than $40K,36
+40,Post-Graduate,$60K - $80K,30
+38,High School,$120K +,27
+36,Graduate,Less than $40K,23
+50,High School,$60K - $80K,40
+50,High School,$80K - $120K,38
+41,High School,$80K - $120K,29
+46,Graduate,$60K - $80K,36
+44,High School,Unknown,33
+50,Graduate,$120K +,32
+45,Graduate,$80K - $120K,33
+40,College,Less than $40K,36
+46,Uneducated,Less than $40K,36
+47,High School,$40K - $60K,40
+42,Graduate,$80K - $120K,38
+43,Graduate,Unknown,33
+49,Graduate,Unknown,44
+46,Graduate,Unknown,38
+45,Graduate,$40K - $60K,36
+40,Graduate,$80K - $120K,36
+40,Graduate,$80K - $120K,28
+49,Graduate,$40K - $60K,45
+43,Graduate,Unknown,36
+45,Graduate,$80K - $120K,39
+38,College,$80K - $120K,26
+40,Uneducated,Unknown,29
+49,College,$40K - $60K,43
+45,Graduate,Less than $40K,36
+43,Graduate,$40K - $60K,39
+50,High School,$40K - $60K,39
+47,High School,Less than $40K,36
+30,Post-Graduate,Less than $40K,36
+41,Doctorate,$60K - $80K,30
+38,Graduate,Less than $40K,34
+44,High School,Less than $40K,32
+50,Uneducated,$80K - $120K,39
+46,College,Less than $40K,36
+50,College,$80K - $120K,36
+46,High School,Unknown,32
+44,Uneducated,$60K - $80K,39
+33,Graduate,$60K - $80K,36
+40,Uneducated,$40K - $60K,28
+39,Graduate,$60K - $80K,36
+46,College,$60K - $80K,36
+44,Graduate,$40K - $60K,40
+47,Graduate,$40K - $60K,41
+45,Graduate,$80K - $120K,40
+42,Graduate,$60K - $80K,33
+47,Graduate,$40K - $60K,36
+41,Graduate,Less than $40K,36
+47,Doctorate,$40K - $60K,36
+42,Graduate,$40K - $60K,26
+39,Graduate,Less than $40K,36
+45,Graduate,Less than $40K,33
+48,High School,$80K - $120K,36
+46,High School,$60K - $80K,39
+50,Graduate,Less than $40K,36
+50,Uneducated,Less than $40K,41
+39,Post-Graduate,$40K - $60K,32
+45,Doctorate,Unknown,36
+49,Graduate,Unknown,37
+48,High School,$60K - $80K,44
+43,High School,$60K - $80K,38
+49,Doctorate,$80K - $120K,36
+37,Uneducated,Less than $40K,36
+40,Graduate,$80K - $120K,27
+46,Graduate,$80K - $120K,26
+50,Graduate,Less than $40K,36
+50,High School,$80K - $120K,40
+44,Uneducated,Unknown,38
+48,Graduate,$40K - $60K,43
+49,High School,Less than $40K,45
+45,Graduate,$40K - $60K,37
+50,Graduate,Unknown,41
+46,Graduate,Less than $40K,42
+46,College,$60K - $80K,34
+47,Uneducated,Less than $40K,27
+47,High School,$40K - $60K,31
+39,Graduate,Less than $40K,36
+40,Graduate,$40K - $60K,36
+45,Uneducated,Less than $40K,36
+37,Doctorate,$80K - $120K,36
+42,Graduate,$60K - $80K,27
+42,High School,$80K - $120K,36
+46,High School,$120K +,26
+28,High School,Less than $40K,36
+47,Graduate,$40K - $60K,31
+49,Uneducated,Less than $40K,34
+48,Graduate,$60K - $80K,37
+43,Graduate,Less than $40K,35
+48,High School,$60K - $80K,41
+47,Doctorate,$40K - $60K,40
+50,Graduate,$80K - $120K,38
+47,Graduate,Less than $40K,36
+48,High School,Less than $40K,36
+40,Graduate,$60K - $80K,27
+41,Graduate,$80K - $120K,26
+43,High School,Less than $40K,37
+42,Graduate,$60K - $80K,31
+39,Graduate,$120K +,36
+50,Doctorate,$40K - $60K,36
+50,Uneducated,$80K - $120K,38
+50,College,$120K +,36
+47,Doctorate,Less than $40K,36
+42,High School,Less than $40K,33
+42,Graduate,$60K - $80K,33
+45,Graduate,$80K - $120K,36
+50,Doctorate,$60K - $80K,33
+45,College,$80K - $120K,33
+47,High School,$80K - $120K,37
+38,Graduate,$120K +,36
+45,Graduate,Less than $40K,38
+43,Graduate,Unknown,34
+47,Graduate,Unknown,34
+42,Graduate,Less than $40K,35
+48,Post-Graduate,Less than $40K,40
+44,Post-Graduate,$40K - $60K,36
+40,High School,Less than $40K,34
+50,Doctorate,Unknown,38
+42,College,Less than $40K,31
+43,Uneducated,$60K - $80K,37
+44,Graduate,$60K - $80K,25
+40,High School,$60K - $80K,29
+46,Doctorate,$60K - $80K,39
+50,Uneducated,$120K +,44
+50,Graduate,$120K +,40
+46,Uneducated,$60K - $80K,36
+42,Graduate,Less than $40K,38
+47,High School,$80K - $120K,32
+39,High School,$60K - $80K,32
+39,Graduate,$80K - $120K,32
+45,Uneducated,$40K - $60K,36
+45,Uneducated,Unknown,36
+45,College,$40K - $60K,39
+41,Graduate,$40K - $60K,30
+39,Uneducated,$80K - $120K,30
+46,College,Less than $40K,42
+44,Uneducated,Unknown,36
+40,Graduate,$40K - $60K,33
+42,High School,$60K - $80K,33
+45,Graduate,$80K - $120K,34
+44,Uneducated,$40K - $60K,33
+45,Graduate,$60K - $80K,36
+33,Graduate,Less than $40K,24
+46,Graduate,$80K - $120K,38
+41,Graduate,Less than $40K,36
+42,Graduate,Less than $40K,36
+45,Post-Graduate,$80K - $120K,39
+45,Graduate,Less than $40K,33
+36,College,$120K +,36
+39,Graduate,Less than $40K,24
+50,Graduate,$80K - $120K,30
+43,Post-Graduate,$60K - $80K,33
+49,High School,$40K - $60K,39
+44,Uneducated,$80K - $120K,39
+44,High School,$60K - $80K,36
+47,Graduate,Unknown,36
+49,High School,Less than $40K,45
+45,Graduate,$40K - $60K,35
+35,Graduate,$40K - $60K,16
+49,Graduate,$80K - $120K,36
+45,Graduate,Less than $40K,37
+50,High School,$60K - $80K,40
+44,High School,Less than $40K,31
+47,Doctorate,Less than $40K,28
+46,High School,$40K - $60K,32
+40,Graduate,Less than $40K,34
+47,Uneducated,$40K - $60K,39
+46,High School,$60K - $80K,41
+49,Post-Graduate,$60K - $80K,35
+50,Uneducated,Less than $40K,33
+40,Graduate,$80K - $120K,31
+41,Graduate,$40K - $60K,32
+32,College,$80K - $120K,36
+47,Uneducated,Unknown,36
+39,Doctorate,$60K - $80K,27
+45,Graduate,$60K - $80K,41
+43,High School,Less than $40K,38
+47,High School,$80K - $120K,29
+37,Uneducated,$40K - $60K,36
+44,College,$40K - $60K,36
+41,Graduate,$40K - $60K,29
+39,Post-Graduate,$60K - $80K,36
+40,Uneducated,$120K +,34
+46,High School,$120K +,34
+50,Graduate,$40K - $60K,33
+32,College,Less than $40K,36
+43,High School,$80K - $120K,34
+47,High School,Less than $40K,33
+43,Graduate,Less than $40K,29
+46,Doctorate,$120K +,38
+47,Graduate,Less than $40K,42
+48,Graduate,Less than $40K,43
+44,College,$40K - $60K,24
+40,High School,$80K - $120K,32
+46,Post-Graduate,Less than $40K,41
+43,College,Less than $40K,32
+42,Graduate,Less than $40K,37
+43,Graduate,Less than $40K,29
+40,High School,$60K - $80K,27
+40,Doctorate,$40K - $60K,36
+47,Graduate,$80K - $120K,36
+26,High School,Unknown,13
+50,Graduate,Less than $40K,38
+37,College,Less than $40K,36
+49,Graduate,$40K - $60K,38
+37,Uneducated,$80K - $120K,30
+44,Graduate,$120K +,36
+43,Uneducated,$60K - $80K,37
+44,High School,Unknown,38
+49,Graduate,Less than $40K,36
+48,Post-Graduate,$40K - $60K,36
+41,High School,Less than $40K,28
+41,High School,Less than $40K,36
+37,Uneducated,Less than $40K,29
+50,College,Unknown,39
+47,Uneducated,$40K - $60K,36
+40,Graduate,$60K - $80K,36
+45,High School,$80K - $120K,26
+29,Post-Graduate,Unknown,36
+44,High School,$80K - $120K,29
+41,Doctorate,$80K - $120K,32
+39,College,Less than $40K,27
+39,High School,$80K - $120K,30
+44,High School,$80K - $120K,36
+50,Uneducated,$40K - $60K,40
+50,Uneducated,$60K - $80K,40
+43,High School,$40K - $60K,35
+38,High School,Unknown,36
+49,Uneducated,Unknown,36
+47,Uneducated,Less than $40K,36
+47,Uneducated,$80K - $120K,36
+47,Uneducated,Less than $40K,38
+35,College,$80K - $120K,16
+42,High School,$80K - $120K,29
+35,Graduate,Less than $40K,27
+50,Uneducated,$80K - $120K,42
+40,High School,$60K - $80K,36
+45,Uneducated,$60K - $80K,39
+45,Uneducated,$60K - $80K,36
+43,Graduate,$80K - $120K,32
+41,Post-Graduate,Less than $40K,36
+38,Graduate,Unknown,24
+38,Graduate,Less than $40K,32
+41,Uneducated,$80K - $120K,33
+46,Graduate,Less than $40K,40
+46,Graduate,Unknown,34
+32,High School,Unknown,22
+34,High School,Less than $40K,21
+45,College,Less than $40K,39
+49,Uneducated,Less than $40K,38
+42,Doctorate,$60K - $80K,35
+38,Uneducated,$60K - $80K,31
+38,Graduate,$60K - $80K,36
+47,High School,$80K - $120K,40
+40,High School,$80K - $120K,36
+40,Graduate,$40K - $60K,31
+49,High School,$60K - $80K,38
+50,High School,Less than $40K,40
+48,Graduate,Less than $40K,41
+42,College,Unknown,34
+44,Uneducated,Less than $40K,39
+45,Uneducated,Less than $40K,37
+48,Graduate,$40K - $60K,40
+47,Post-Graduate,Unknown,36
+43,Graduate,$40K - $60K,38
+40,Graduate,$120K +,27
+40,College,$60K - $80K,34
+39,Uneducated,$40K - $60K,19
+39,Graduate,$60K - $80K,36
+45,Post-Graduate,Less than $40K,37
+48,High School,$60K - $80K,30
+38,Graduate,$60K - $80K,34
+48,Graduate,Less than $40K,36
+47,Graduate,$80K - $120K,31
+45,Post-Graduate,Less than $40K,28
+49,Uneducated,Less than $40K,39
+48,Graduate,$80K - $120K,36
+44,Post-Graduate,Less than $40K,40
+45,Graduate,$120K +,36
+49,Graduate,Less than $40K,39
+38,Graduate,Unknown,27
+42,Doctorate,Less than $40K,27
+44,Uneducated,$80K - $120K,13
+46,Graduate,Less than $40K,37
+40,Graduate,Unknown,29
+50,Graduate,Unknown,39
+46,Uneducated,Less than $40K,38
+35,High School,$40K - $60K,36
+49,Graduate,$60K - $80K,37
+45,Uneducated,$40K - $60K,37
+39,High School,$60K - $80K,26
+43,Graduate,$120K +,36
+44,Graduate,Less than $40K,40
+40,Graduate,Less than $40K,36
+49,Uneducated,$80K - $120K,44
+49,Uneducated,Unknown,39
+47,Doctorate,$40K - $60K,35
+44,Graduate,Unknown,39
+48,Uneducated,Less than $40K,39
+42,Uneducated,$80K - $120K,35
+37,High School,$40K - $60K,31
+46,High School,Unknown,39
+35,Uneducated,Less than $40K,30
+41,Doctorate,$60K - $80K,34
+41,Graduate,$60K - $80K,29
+43,Graduate,Less than $40K,36
+44,Graduate,Less than $40K,36
+46,Post-Graduate,$60K - $80K,42
+44,Uneducated,Unknown,36
+38,College,Less than $40K,21
+50,Graduate,$60K - $80K,39
+46,Graduate,Less than $40K,36
+47,Graduate,$120K +,35
+49,High School,$60K - $80K,34
+49,Graduate,Unknown,31
+47,Uneducated,$60K - $80K,42
+37,High School,$60K - $80K,21
+50,Doctorate,$80K - $120K,41
+45,High School,Less than $40K,26
+42,Post-Graduate,$40K - $60K,34
+45,High School,$80K - $120K,40
+41,Graduate,$60K - $80K,31
+44,Uneducated,Less than $40K,36
+41,College,$80K - $120K,24
+43,Uneducated,Less than $40K,34
+46,Uneducated,$40K - $60K,40
+37,High School,Less than $40K,18
+46,Graduate,Less than $40K,40
+48,Graduate,$80K - $120K,37
+48,High School,$40K - $60K,36
+38,Doctorate,Less than $40K,31
+44,Graduate,$120K +,32
+50,Uneducated,$40K - $60K,36
+43,Uneducated,$80K - $120K,30
+47,High School,$80K - $120K,34
+42,Uneducated,$80K - $120K,37
+41,Uneducated,$60K - $80K,13
+50,Uneducated,$40K - $60K,22
+41,Post-Graduate,$40K - $60K,30
+48,Graduate,Unknown,40
+49,Uneducated,Less than $40K,31
+41,High School,$120K +,36
+37,High School,Less than $40K,26
+44,Graduate,Less than $40K,36
+44,College,Less than $40K,30
+48,High School,Less than $40K,35
+41,Graduate,$80K - $120K,31
+43,Post-Graduate,Less than $40K,23
+46,Uneducated,Less than $40K,38
+42,High School,$40K - $60K,36
+42,High School,$80K - $120K,35
+47,Post-Graduate,Less than $40K,41
+50,Graduate,Unknown,41
+43,Graduate,Less than $40K,36
+49,College,$60K - $80K,43
+43,Graduate,Less than $40K,25
+46,Uneducated,$60K - $80K,36
+47,Graduate,Unknown,33
+38,Post-Graduate,Less than $40K,26
+41,High School,Less than $40K,33
+48,Post-Graduate,$120K +,38
+43,Graduate,$80K - $120K,30
+42,College,Less than $40K,36
+48,Doctorate,Less than $40K,40
+40,Graduate,Less than $40K,34
+47,Graduate,$60K - $80K,34
+39,Graduate,$40K - $60K,32
+41,High School,Unknown,32
+42,Graduate,$80K - $120K,35
+45,Uneducated,$80K - $120K,38
+50,Uneducated,$120K +,36
+44,Post-Graduate,Less than $40K,30
+40,High School,$80K - $120K,36
+50,Uneducated,Less than $40K,33
+38,High School,$40K - $60K,25
+45,Graduate,$60K - $80K,40
+49,Uneducated,Less than $40K,36
+43,High School,$40K - $60K,36
+48,College,Less than $40K,36
+47,Uneducated,$60K - $80K,36
+49,College,Less than $40K,33
+46,Post-Graduate,$40K - $60K,38
+50,High School,Less than $40K,31
+46,High School,$80K - $120K,27
+42,Graduate,$60K - $80K,32
+49,High School,Unknown,36
+45,High School,Less than $40K,34
+46,Graduate,$80K - $120K,35
+47,Uneducated,Unknown,42
+44,Post-Graduate,$120K +,35
+50,Graduate,$60K - $80K,44
+40,Uneducated,$80K - $120K,25
+43,High School,Less than $40K,39
+38,Graduate,Unknown,30
+46,Graduate,$80K - $120K,37
+44,High School,$80K - $120K,36
+44,Doctorate,$80K - $120K,34
+40,Post-Graduate,$60K - $80K,35
+43,High School,$60K - $80K,30
+47,College,$60K - $80K,35
+49,Graduate,$120K +,36
+42,High School,$120K +,36
+45,Graduate,Unknown,38
+48,Graduate,Less than $40K,35
+50,High School,$40K - $60K,31
+41,Uneducated,Less than $40K,36
+47,Graduate,$60K - $80K,36
+47,Uneducated,$60K - $80K,40
+41,Graduate,$40K - $60K,29
+38,Graduate,$40K - $60K,31
+41,Graduate,Less than $40K,36
+40,College,$80K - $120K,36
+43,Graduate,Less than $40K,35
+36,College,Less than $40K,17
+48,Post-Graduate,Less than $40K,40
+41,Graduate,$40K - $60K,33
+47,Graduate,$40K - $60K,29
+44,High School,$80K - $120K,36
+46,Graduate,Less than $40K,35
+47,High School,Unknown,40
+44,College,$80K - $120K,34
+46,Doctorate,$80K - $120K,29
+39,Graduate,$120K +,28
+45,High School,Unknown,35
+49,Graduate,Less than $40K,42
+47,Uneducated,$120K +,37
+44,College,$80K - $120K,39
+41,Post-Graduate,$120K +,29
+48,Graduate,Unknown,41
+48,College,$80K - $120K,32
+50,College,$60K - $80K,44
+43,Graduate,$60K - $80K,35
+45,Graduate,Unknown,41
+40,Graduate,$60K - $80K,36
+48,Post-Graduate,$40K - $60K,29
+44,Graduate,Less than $40K,30
+42,Uneducated,$60K - $80K,30
+40,College,Unknown,36
+50,Doctorate,Unknown,37
+48,College,$40K - $60K,35
+43,College,Less than $40K,31
+46,Graduate,$80K - $120K,41
+44,Uneducated,Less than $40K,39
+45,Uneducated,Less than $40K,39
+48,Graduate,$40K - $60K,43
+39,Graduate,Less than $40K,36
+47,High School,$60K - $80K,38
+44,Uneducated,Less than $40K,36
+42,High School,$60K - $80K,35
+49,High School,$80K - $120K,36
+38,College,$60K - $80K,25
+42,Graduate,$80K - $120K,33
+38,Graduate,Less than $40K,26
+46,High School,$40K - $60K,41
+42,Doctorate,Less than $40K,32
+48,High School,$120K +,39
+50,High School,$60K - $80K,32
+41,Graduate,$80K - $120K,30
+46,College,Less than $40K,36
+49,High School,$60K - $80K,38
+31,Graduate,Unknown,26
+43,Graduate,Less than $40K,31
+44,High School,$80K - $120K,35
+44,High School,$40K - $60K,33
+42,High School,$40K - $60K,37
+43,Graduate,$80K - $120K,33
+41,Graduate,$40K - $60K,36
+45,Graduate,$60K - $80K,35
+46,College,$80K - $120K,26
+49,College,$80K - $120K,37
+50,Graduate,$40K - $60K,40
+50,High School,Less than $40K,44
+27,Graduate,Less than $40K,17
+37,Graduate,Less than $40K,36
+42,Post-Graduate,Less than $40K,31
+37,Uneducated,Less than $40K,28
+49,High School,Less than $40K,42
+42,Uneducated,$40K - $60K,32
+48,High School,$40K - $60K,42
+49,High School,$80K - $120K,37
+38,College,$40K - $60K,19
+50,High School,$40K - $60K,39
+50,College,$40K - $60K,36
+46,College,$80K - $120K,38
+43,High School,$60K - $80K,36
+42,Graduate,$120K +,24
+45,High School,$40K - $60K,36
+50,Post-Graduate,Unknown,41
+50,Graduate,$60K - $80K,42
+45,Graduate,Unknown,36
+45,High School,$40K - $60K,31
+39,Graduate,Less than $40K,28
+45,High School,Less than $40K,27
+33,Graduate,Less than $40K,21
+40,Graduate,$40K - $60K,36
+48,High School,$40K - $60K,39
+50,Graduate,$60K - $80K,38
+50,Graduate,$40K - $60K,37
+45,Graduate,$60K - $80K,35
+45,Doctorate,Less than $40K,36
+50,Post-Graduate,Less than $40K,39
+50,Uneducated,$40K - $60K,36
+46,Uneducated,Less than $40K,36
+40,Uneducated,$120K +,24
+50,Graduate,Unknown,43
+45,College,$120K +,32
+40,Graduate,$40K - $60K,20
+36,Uneducated,$40K - $60K,25
+35,Graduate,$40K - $60K,36
+47,High School,Less than $40K,35
+45,College,Less than $40K,36
+48,High School,$80K - $120K,32
+44,College,$60K - $80K,28
+38,Post-Graduate,$80K - $120K,32
+43,Graduate,$60K - $80K,35
+31,Graduate,Unknown,36
+50,Doctorate,Less than $40K,39
+45,High School,Unknown,37
+45,High School,$60K - $80K,37
+47,High School,$80K - $120K,37
+49,Graduate,$80K - $120K,36
+43,Uneducated,Less than $40K,30
+43,Graduate,$60K - $80K,31
+48,Doctorate,$80K - $120K,40
+42,Doctorate,Less than $40K,18
+50,High School,$60K - $80K,43
+45,Graduate,Less than $40K,34
+49,High School,$60K - $80K,40
+46,Uneducated,Less than $40K,36
+49,Doctorate,Less than $40K,29
+48,High School,$40K - $60K,40
+50,Uneducated,$60K - $80K,46
+50,Post-Graduate,$40K - $60K,36
+45,College,$80K - $120K,36
+50,Graduate,Less than $40K,38
+42,High School,$40K - $60K,37
+37,College,$80K - $120K,36
+43,Graduate,$80K - $120K,36
+46,College,$60K - $80K,41
+46,High School,Less than $40K,37
+50,College,Unknown,37
+48,Doctorate,$60K - $80K,36
+50,High School,Less than $40K,45
+46,High School,$80K - $120K,37
+49,Graduate,$120K +,36
+49,Graduate,$60K - $80K,39
+40,Doctorate,Unknown,24
+45,High School,Unknown,35
+44,Doctorate,Less than $40K,36
+41,Uneducated,Less than $40K,33
+47,College,Less than $40K,36
+38,Graduate,$80K - $120K,36
+41,High School,Less than $40K,28
+40,Graduate,$60K - $80K,29
+45,Post-Graduate,Unknown,38
+48,Graduate,$40K - $60K,41
+49,High School,Unknown,36
+50,Graduate,Unknown,41
+40,Graduate,Less than $40K,29
+44,Graduate,Less than $40K,25
+49,Uneducated,Unknown,36
+49,College,Less than $40K,41
+42,Graduate,$60K - $80K,30
+50,High School,$120K +,37
+42,Graduate,$80K - $120K,34
+41,College,Unknown,36
+48,Graduate,$120K +,39
+47,College,$80K - $120K,33
+46,High School,$80K - $120K,38
+41,High School,$60K - $80K,33
+43,Graduate,$40K - $60K,28
+45,Graduate,Less than $40K,40
+49,Uneducated,$60K - $80K,34
+46,Graduate,$80K - $120K,36
+45,Graduate,Less than $40K,28
+43,High School,Unknown,35
+49,High School,$80K - $120K,36
+33,Graduate,Less than $40K,13
+40,Uneducated,Less than $40K,28
+44,Post-Graduate,Less than $40K,31
+38,Uneducated,Less than $40K,26
+50,High School,Unknown,39
+48,College,$60K - $80K,39
+48,Uneducated,$40K - $60K,36
+50,Graduate,Less than $40K,41
+46,Post-Graduate,$120K +,36
+50,Graduate,Less than $40K,36
+47,Uneducated,$80K - $120K,40
+47,Graduate,Less than $40K,42
+44,Graduate,Less than $40K,31
+35,High School,Less than $40K,26
+50,College,$80K - $120K,44
+43,High School,$80K - $120K,36
+43,Doctorate,Unknown,33
+49,Uneducated,$60K - $80K,41
+45,Graduate,Unknown,36
+49,Uneducated,Less than $40K,44
+49,High School,$80K - $120K,40
+46,High School,$40K - $60K,33
+49,Uneducated,$120K +,37
+36,High School,Less than $40K,31
+45,Uneducated,Less than $40K,40
+49,High School,$80K - $120K,37
+43,Graduate,$60K - $80K,34
+50,Uneducated,$60K - $80K,45
+46,High School,$120K +,37
+45,High School,Less than $40K,40
+50,High School,Unknown,42
+33,Graduate,$60K - $80K,27
+40,High School,$60K - $80K,25
+49,College,Less than $40K,29
+29,Graduate,Unknown,36
+45,Doctorate,Less than $40K,33
+40,Graduate,Less than $40K,27
+42,College,$40K - $60K,36
+45,High School,Less than $40K,36
+47,Graduate,Less than $40K,36
+47,College,$40K - $60K,35
+43,Graduate,$120K +,36
+43,Post-Graduate,$60K - $80K,38
+48,Graduate,Less than $40K,36
+38,Doctorate,Unknown,32
+44,Graduate,Unknown,36
+50,Uneducated,$120K +,36
+41,Graduate,$60K - $80K,30
+43,Graduate,$80K - $120K,30
+45,Graduate,Unknown,36
+48,High School,$60K - $80K,39
+46,Doctorate,Unknown,26
+38,Graduate,Less than $40K,29
+47,Graduate,Unknown,33
+33,Graduate,Unknown,15
+46,Uneducated,Unknown,36
+40,High School,$40K - $60K,28
+49,High School,$80K - $120K,32
+40,Post-Graduate,Less than $40K,36
+43,College,$40K - $60K,33
+48,Graduate,$80K - $120K,41
+50,Graduate,$120K +,38
+48,High School,$80K - $120K,36
+46,Graduate,Unknown,39
+46,Graduate,$60K - $80K,37
+46,High School,Less than $40K,38
+42,Graduate,Less than $40K,28
+49,Graduate,Unknown,39
+44,Uneducated,Less than $40K,37
+46,Uneducated,$60K - $80K,36
+45,Graduate,Less than $40K,34
+37,High School,$80K - $120K,28
+45,Graduate,Less than $40K,40
+47,Graduate,$120K +,41
+42,College,Unknown,32
+46,Graduate,Less than $40K,36
+35,Graduate,$80K - $120K,24
+37,Graduate,$80K - $120K,24
+43,Graduate,$120K +,31
+43,Graduate,$60K - $80K,31
+46,High School,$40K - $60K,36
+40,Uneducated,Unknown,36
+49,Uneducated,$80K - $120K,37
+44,Graduate,$80K - $120K,33
+46,Graduate,$40K - $60K,36
+43,High School,Less than $40K,36
+28,Graduate,Less than $40K,36
+49,Uneducated,$40K - $60K,40
+48,Graduate,Unknown,41
+42,High School,Less than $40K,36
+43,Graduate,Less than $40K,38
+48,Post-Graduate,$60K - $80K,35
+37,High School,Unknown,36
+40,Uneducated,Less than $40K,29
+44,Graduate,$60K - $80K,36
+47,Graduate,Less than $40K,36
+48,Uneducated,$80K - $120K,43
+46,Graduate,$60K - $80K,40
+33,High School,$40K - $60K,28
+47,High School,Less than $40K,34
+48,Uneducated,$80K - $120K,42
+41,Uneducated,$60K - $80K,36
+39,Doctorate,$60K - $80K,33
+46,Uneducated,$40K - $60K,36
+49,Graduate,Less than $40K,44
+46,Doctorate,$80K - $120K,38
+46,Graduate,Less than $40K,35
+48,High School,Less than $40K,38
+37,Graduate,$40K - $60K,28
+42,High School,Less than $40K,31
+48,Graduate,Less than $40K,35
+40,High School,$120K +,27
+39,Uneducated,$40K - $60K,34
+42,Graduate,$40K - $60K,36
+41,High School,$40K - $60K,37
+49,High School,$40K - $60K,33
+29,High School,Less than $40K,20
+48,High School,Less than $40K,37
+36,Uneducated,Unknown,23
+45,High School,$60K - $80K,27
+41,Graduate,$80K - $120K,37
+45,Graduate,$80K - $120K,36
+40,Graduate,$40K - $60K,32
+48,Graduate,Less than $40K,44
+43,Uneducated,Less than $40K,39
+38,Uneducated,$40K - $60K,30
+49,College,Less than $40K,41
+39,College,Less than $40K,30
+50,Uneducated,Unknown,41
+38,High School,Less than $40K,28
+42,Graduate,Less than $40K,18
+50,High School,Less than $40K,36
+45,High School,$40K - $60K,33
+37,High School,$40K - $60K,30
+42,Uneducated,$60K - $80K,30
+43,Uneducated,Less than $40K,39
+40,Graduate,$80K - $120K,31
+43,Uneducated,Unknown,38
+42,Uneducated,Less than $40K,35
+39,Graduate,$40K - $60K,36
+47,Post-Graduate,$40K - $60K,36
+49,Doctorate,Less than $40K,37
+46,College,Less than $40K,36
+38,High School,Less than $40K,31
+43,Graduate,Less than $40K,35
+45,Graduate,Less than $40K,25
+43,Graduate,$60K - $80K,24
+44,Uneducated,Unknown,31
+50,Uneducated,Less than $40K,37
+31,High School,Less than $40K,13
+50,High School,$40K - $60K,36
+38,Graduate,Less than $40K,30
+49,Uneducated,$60K - $80K,43
+37,Uneducated,$80K - $120K,36
+47,Graduate,Less than $40K,39
+47,Graduate,$40K - $60K,42
+46,High School,Unknown,36
+43,College,$120K +,37
+32,Uneducated,Less than $40K,23
+48,High School,$60K - $80K,37
+49,High School,$120K +,44
+49,Graduate,$80K - $120K,36
+35,Graduate,Less than $40K,23
+48,Post-Graduate,Unknown,36
+49,Graduate,Unknown,40
+43,Uneducated,Less than $40K,36
+43,High School,Less than $40K,37
+34,Graduate,Unknown,13
+49,Post-Graduate,$80K - $120K,36
+39,Graduate,Less than $40K,36
+37,Uneducated,$40K - $60K,36
+40,Graduate,Less than $40K,33
+46,Uneducated,$80K - $120K,28
+40,Uneducated,Unknown,32
+49,Uneducated,Less than $40K,38
+42,Post-Graduate,$60K - $80K,26
+48,Doctorate,$40K - $60K,42
+45,Doctorate,$80K - $120K,36
+47,Graduate,$60K - $80K,36
+44,Uneducated,Less than $40K,36
+43,Graduate,$80K - $120K,33
+35,Doctorate,$40K - $60K,27
+49,High School,$40K - $60K,38
+44,Graduate,$80K - $120K,25
+48,Graduate,Unknown,36
+42,High School,$120K +,30
+39,Graduate,Less than $40K,26
+44,Graduate,$60K - $80K,37
+46,College,$80K - $120K,38
+50,College,$60K - $80K,37
+43,College,$60K - $80K,33
+45,Uneducated,Less than $40K,30
+39,Graduate,Less than $40K,31
+45,High School,Less than $40K,29
+49,College,Less than $40K,35
+46,Graduate,Less than $40K,37
+42,Graduate,Less than $40K,36
+45,Graduate,$80K - $120K,28
+49,Graduate,Less than $40K,36
+47,Graduate,Less than $40K,42
+48,College,Less than $40K,36
+46,College,$80K - $120K,41
+50,High School,Less than $40K,36
+46,Graduate,$40K - $60K,39
+39,Uneducated,Less than $40K,35
+50,Graduate,Less than $40K,35
+50,College,$80K - $120K,37
+45,High School,$60K - $80K,36
+42,College,$80K - $120K,36
+50,High School,Less than $40K,43
+50,Graduate,Less than $40K,36
+48,Post-Graduate,Less than $40K,31
+43,High School,$120K +,36
+37,High School,Less than $40K,23
+45,High School,$80K - $120K,34
+44,High School,Less than $40K,36
+42,Graduate,$40K - $60K,28
+44,Graduate,$60K - $80K,36
+39,Graduate,$60K - $80K,23
+44,College,$60K - $80K,27
+30,Uneducated,Unknown,24
+47,Graduate,Unknown,37
+47,Graduate,$80K - $120K,42
+49,Post-Graduate,Less than $40K,35
+42,Graduate,$40K - $60K,31
+44,High School,$40K - $60K,37
+45,Uneducated,Less than $40K,38
+37,Graduate,$80K - $120K,18
+46,Graduate,Unknown,40
+50,High School,Less than $40K,46
+45,Graduate,Less than $40K,34
+43,High School,$80K - $120K,36
+50,High School,Less than $40K,36
+42,College,$40K - $60K,36
+49,Graduate,$80K - $120K,42
+50,Graduate,$40K - $60K,43
+49,College,$40K - $60K,36
+43,Graduate,$80K - $120K,36
+49,Graduate,$40K - $60K,42
+42,College,$40K - $60K,37
+42,College,$80K - $120K,26
+43,Graduate,$120K +,23
+42,Doctorate,Less than $40K,36
+43,Uneducated,$60K - $80K,36
+47,High School,$60K - $80K,29
+43,High School,Less than $40K,39
+47,Graduate,Unknown,34
+44,Graduate,$60K - $80K,37
+42,High School,Less than $40K,36
+49,High School,Less than $40K,39
+48,High School,$80K - $120K,44
+44,Doctorate,$120K +,31
+42,Doctorate,Less than $40K,30
+50,Uneducated,Less than $40K,43
+35,High School,Less than $40K,26
+47,High School,$60K - $80K,39
+41,Post-Graduate,$80K - $120K,33
+43,College,$120K +,37
+42,Graduate,Less than $40K,34
+49,Doctorate,$40K - $60K,43
+46,Uneducated,$120K +,27
+47,Graduate,$60K - $80K,38
+47,High School,$60K - $80K,36
+40,Post-Graduate,$40K - $60K,25
+43,Graduate,Less than $40K,30
+48,Graduate,Less than $40K,41
+41,Graduate,Less than $40K,30
+40,College,$40K - $60K,20
+33,Doctorate,$120K +,23
+47,High School,Less than $40K,39
+46,College,$60K - $80K,38
+44,Doctorate,Less than $40K,36
+48,Graduate,Less than $40K,36
+48,Graduate,Less than $40K,42
+48,Uneducated,Unknown,44
+50,College,Unknown,36
+35,High School,$40K - $60K,19
+35,Graduate,Less than $40K,22
+50,High School,Less than $40K,36
+31,Post-Graduate,Less than $40K,19
+42,Graduate,$60K - $80K,22
+45,Post-Graduate,Unknown,37
+45,Graduate,Less than $40K,33
+45,High School,$40K - $60K,26
+38,Uneducated,$40K - $60K,31
+47,Graduate,Less than $40K,39
+38,Graduate,$80K - $120K,25
+42,High School,Less than $40K,36
+35,College,Less than $40K,25
+48,College,Less than $40K,36
+41,High School,$120K +,28
+49,Graduate,$40K - $60K,36
+39,Uneducated,Unknown,27
+47,High School,$40K - $60K,32
+42,High School,Less than $40K,24
+50,Graduate,Less than $40K,37
+48,Post-Graduate,$60K - $80K,34
+47,Doctorate,Less than $40K,37
+45,Doctorate,Unknown,33
+37,High School,$60K - $80K,21
+50,Graduate,Less than $40K,43
+39,Graduate,Less than $40K,29
+40,Uneducated,Less than $40K,27
+39,College,$120K +,30
+32,Graduate,Less than $40K,36
+47,Post-Graduate,$40K - $60K,40
+48,Graduate,$60K - $80K,42
+45,College,$80K - $120K,31
+45,High School,Less than $40K,33
+41,Graduate,$40K - $60K,33
+50,High School,$120K +,38
+46,Uneducated,$60K - $80K,33
+42,Uneducated,Less than $40K,22
+41,Uneducated,Less than $40K,32
+36,Uneducated,Unknown,23
+46,Graduate,Less than $40K,27
+42,Uneducated,Less than $40K,38
+38,Graduate,$40K - $60K,36
+29,Uneducated,Less than $40K,18
+45,Graduate,Less than $40K,36
+47,Doctorate,Less than $40K,37
+43,High School,Less than $40K,31
+40,Uneducated,Less than $40K,35
+45,Graduate,Less than $40K,34
+43,Graduate,Less than $40K,36
+39,High School,$40K - $60K,28
+40,High School,$40K - $60K,28
+38,High School,Unknown,27
+38,Graduate,$120K +,29
+40,Uneducated,Less than $40K,34
+45,Graduate,$60K - $80K,36
+41,Graduate,$40K - $60K,36
+44,College,Less than $40K,34
+39,Graduate,$40K - $60K,36
+50,Uneducated,Less than $40K,37
+44,Graduate,Less than $40K,36
+40,Graduate,Less than $40K,29
+44,Uneducated,Less than $40K,36
+40,Uneducated,Unknown,36
+41,Graduate,$120K +,35
+45,High School,Less than $40K,36
+40,Post-Graduate,Less than $40K,32
+49,High School,Less than $40K,36
+47,Graduate,$80K - $120K,40
+42,Graduate,Less than $40K,36
+41,Graduate,Less than $40K,28
+43,High School,$120K +,37
+40,Graduate,Less than $40K,20
+45,High School,Less than $40K,35
+43,High School,$120K +,23
+48,Graduate,Unknown,40
+46,Uneducated,$40K - $60K,30
+41,Doctorate,Less than $40K,36
+38,Post-Graduate,Less than $40K,32
+44,Graduate,Unknown,36
+35,Uneducated,Less than $40K,36
+49,Graduate,Less than $40K,39
+47,Graduate,Less than $40K,35
+48,High School,$80K - $120K,36
+50,Graduate,Less than $40K,44
+44,Uneducated,$60K - $80K,36
+37,Graduate,$40K - $60K,36
+47,High School,Unknown,41
+35,Graduate,Unknown,36
+36,Graduate,$40K - $60K,18
+32,Uneducated,Unknown,36
+50,High School,Less than $40K,32
+39,Post-Graduate,$40K - $60K,36
+43,College,$80K - $120K,25
+41,Graduate,Less than $40K,29
+49,Graduate,Less than $40K,29
+41,Graduate,$40K - $60K,31
+48,Graduate,Unknown,29
+50,Uneducated,$60K - $80K,43
+43,Graduate,$60K - $80K,28
+34,Graduate,$40K - $60K,27
+49,Graduate,Less than $40K,38
+44,Graduate,Less than $40K,40
+46,College,Less than $40K,36
+39,Graduate,$60K - $80K,36
+49,Doctorate,Less than $40K,40
+40,High School,$80K - $120K,34
+49,College,Less than $40K,36
+46,Graduate,$60K - $80K,36
+45,Graduate,Less than $40K,36
+44,Graduate,Less than $40K,36
+49,Graduate,$40K - $60K,36
+41,Graduate,Less than $40K,24
+41,High School,$80K - $120K,29
+39,Uneducated,$80K - $120K,27
+41,Graduate,Less than $40K,23
+44,Graduate,Less than $40K,37
+43,Graduate,$80K - $120K,29
+38,Graduate,$80K - $120K,25
+48,High School,Less than $40K,37
+50,High School,$80K - $120K,36
+30,Graduate,Less than $40K,36
+41,Uneducated,$80K - $120K,31
+43,Post-Graduate,Less than $40K,30
+48,Graduate,$60K - $80K,38
+41,Post-Graduate,$40K - $60K,29
+47,High School,Less than $40K,36
+47,College,Less than $40K,38
+44,High School,Unknown,31
+47,High School,Less than $40K,36
+49,College,$60K - $80K,41
+35,Uneducated,Less than $40K,36
+40,Graduate,Less than $40K,29
+44,College,$60K - $80K,30
+46,Uneducated,$60K - $80K,34
+40,High School,$80K - $120K,36
+41,High School,Unknown,28
+43,High School,$40K - $60K,25
+42,Uneducated,Less than $40K,29
+50,High School,Less than $40K,40
+46,Graduate,$40K - $60K,34
+39,College,$80K - $120K,29
+44,Graduate,$80K - $120K,31
+43,Uneducated,Less than $40K,36
+48,College,Less than $40K,36
+41,High School,Unknown,36
+47,Graduate,$80K - $120K,41
+50,College,Less than $40K,41
+47,College,Less than $40K,36
+47,College,$60K - $80K,41
+47,High School,Unknown,39
+47,Doctorate,$60K - $80K,36
+44,Uneducated,$80K - $120K,29
+41,Uneducated,Less than $40K,30
+47,Uneducated,Less than $40K,36
+47,Uneducated,$40K - $60K,36
+41,Graduate,$60K - $80K,36
+44,Graduate,$80K - $120K,36
+44,Doctorate,Unknown,39
+44,High School,Less than $40K,38
+49,Uneducated,$60K - $80K,44
+47,Post-Graduate,$40K - $60K,33
+44,High School,Less than $40K,36
+42,Uneducated,$40K - $60K,30
+42,High School,$60K - $80K,36
+40,Uneducated,$40K - $60K,28
+47,Graduate,Less than $40K,43
+44,Uneducated,$40K - $60K,30
+41,High School,$40K - $60K,26
+42,Uneducated,Less than $40K,38
+45,College,Less than $40K,36
+49,High School,$60K - $80K,40
+42,Post-Graduate,Less than $40K,26
+48,Doctorate,Unknown,24
+45,Graduate,Less than $40K,38
+41,Uneducated,Less than $40K,30
+45,College,$60K - $80K,29
+44,High School,Less than $40K,37
+47,Uneducated,$40K - $60K,30
+50,High School,$120K +,37
+43,Graduate,$120K +,31
+46,Graduate,Less than $40K,28
+49,Uneducated,Unknown,36
+31,Post-Graduate,Less than $40K,36
+40,Graduate,Less than $40K,29
+32,Post-Graduate,$40K - $60K,24
+45,High School,$40K - $60K,37
+34,Uneducated,$40K - $60K,27
+49,Graduate,Less than $40K,39
+40,College,$80K - $120K,36
+49,High School,$40K - $60K,39
+44,Graduate,$80K - $120K,37
+47,Graduate,$60K - $80K,39
+47,High School,Less than $40K,41
+41,High School,$60K - $80K,36
+33,Post-Graduate,Unknown,25
+47,Doctorate,$60K - $80K,36
+46,High School,Unknown,36
+43,Graduate,Less than $40K,36
+39,High School,$60K - $80K,32
+42,High School,Unknown,37
+45,Graduate,Less than $40K,26
+45,Post-Graduate,Less than $40K,36
+41,Doctorate,Less than $40K,31
+49,Uneducated,Less than $40K,44
+48,Uneducated,$40K - $60K,36
+39,High School,$40K - $60K,28
+48,Uneducated,$40K - $60K,36
+39,Uneducated,$40K - $60K,34
+48,College,Unknown,38
+33,Uneducated,$40K - $60K,15
+48,Graduate,Less than $40K,36
+49,Uneducated,$60K - $80K,35
+43,Doctorate,Less than $40K,29
+42,Graduate,$40K - $60K,27
+42,Graduate,Less than $40K,37
+45,Doctorate,$120K +,36
+39,High School,Less than $40K,32
+38,Uneducated,$120K +,30
+45,Uneducated,Less than $40K,38
+42,Uneducated,Less than $40K,36
+49,Doctorate,Less than $40K,42
+44,Uneducated,Less than $40K,32
+48,College,Unknown,37
+46,Graduate,Unknown,36
+37,Graduate,Less than $40K,36
+44,High School,$120K +,33
+48,Uneducated,Less than $40K,37
+47,College,$80K - $120K,38
+46,High School,$40K - $60K,37
+46,Doctorate,Less than $40K,34
+43,Uneducated,Less than $40K,25
+44,College,$40K - $60K,34
+50,High School,$60K - $80K,35
+49,College,$120K +,41
+46,Graduate,Unknown,36
+48,College,Less than $40K,35
+39,Graduate,Less than $40K,33
+45,High School,Unknown,34
+40,Graduate,$80K - $120K,21
+43,College,$80K - $120K,24
+33,High School,Unknown,15
+45,Uneducated,$60K - $80K,35
+49,High School,Less than $40K,39
+38,Doctorate,Less than $40K,26
+43,Uneducated,$120K +,31
+42,Uneducated,Less than $40K,36
+42,Uneducated,Less than $40K,32
+39,Doctorate,Less than $40K,36
+48,Uneducated,$40K - $60K,44
+39,Uneducated,Less than $40K,36
+39,Graduate,$40K - $60K,26
+48,Graduate,$40K - $60K,31
+44,High School,Less than $40K,34
+41,College,$40K - $60K,37
+42,High School,$80K - $120K,36
+49,High School,$60K - $80K,29
+38,High School,Less than $40K,22
+33,Uneducated,$40K - $60K,18
+45,Graduate,Less than $40K,32
+41,Doctorate,Less than $40K,36
+40,High School,$40K - $60K,28
+34,College,Less than $40K,16
+42,Uneducated,$60K - $80K,36
+38,High School,$40K - $60K,31
+41,Uneducated,Less than $40K,31
+45,Graduate,$40K - $60K,36
+41,Graduate,Less than $40K,27
+50,College,$80K - $120K,33
+47,Graduate,$80K - $120K,41
+41,Graduate,Less than $40K,32
+46,High School,Less than $40K,39
+48,Graduate,Less than $40K,40
+46,Uneducated,$40K - $60K,36
+46,High School,Less than $40K,36
+49,High School,$40K - $60K,33
+47,Uneducated,Less than $40K,36
+42,Uneducated,$80K - $120K,36
+41,Graduate,$80K - $120K,35
+39,College,$40K - $60K,28
+42,High School,$40K - $60K,30
+40,Uneducated,$80K - $120K,29
+48,Uneducated,Less than $40K,38
+48,Graduate,$80K - $120K,37
+50,Graduate,Unknown,36
+37,Graduate,Less than $40K,30
+39,High School,Unknown,36
+47,High School,$80K - $120K,36
+30,Uneducated,Less than $40K,19
+34,Graduate,Unknown,24
+49,Uneducated,Less than $40K,36
+50,High School,$80K - $120K,36
+32,Post-Graduate,Less than $40K,16
+50,Post-Graduate,Unknown,36
+40,Graduate,$80K - $120K,36
+34,Graduate,Less than $40K,29
+45,College,$60K - $80K,26
+45,High School,Unknown,25
+45,College,Less than $40K,37
+43,Uneducated,Less than $40K,36
+47,Graduate,Less than $40K,37
+42,Uneducated,Less than $40K,23
+44,High School,$80K - $120K,37
+43,Post-Graduate,$120K +,36
+44,Graduate,Less than $40K,36
+50,Post-Graduate,$40K - $60K,41
+42,Graduate,Less than $40K,35
+49,Uneducated,Unknown,36
+42,Graduate,Unknown,36
+44,Graduate,Less than $40K,27
+47,Graduate,Less than $40K,37
+44,Graduate,Less than $40K,36
+37,Graduate,$80K - $120K,29
+49,Graduate,Less than $40K,38
+38,High School,$40K - $60K,31
+49,Graduate,Less than $40K,36
+41,Graduate,$80K - $120K,27
+39,Uneducated,$80K - $120K,36
+38,High School,$80K - $120K,29
+50,Uneducated,$120K +,40
+44,Graduate,Unknown,37
+47,Graduate,Less than $40K,36
+42,Uneducated,Unknown,30
+45,Graduate,Less than $40K,36
+42,College,Less than $40K,36
+50,Graduate,$80K - $120K,31
+49,Uneducated,Less than $40K,36
+38,Graduate,Less than $40K,25
+49,Graduate,Unknown,38
+43,Graduate,Less than $40K,38
+43,Graduate,$80K - $120K,28
+43,High School,Unknown,36
+43,Post-Graduate,$40K - $60K,24
+49,Uneducated,$60K - $80K,42
+46,High School,Less than $40K,41
+46,Graduate,$40K - $60K,34
+33,Graduate,Less than $40K,20
+41,High School,$40K - $60K,33
+41,Graduate,Less than $40K,29
+50,Uneducated,Less than $40K,37
+36,Graduate,Less than $40K,36
+39,High School,Less than $40K,27
+38,Uneducated,Less than $40K,26
+46,Graduate,Less than $40K,39
+40,High School,Less than $40K,36
+43,Uneducated,Less than $40K,36
+29,Uneducated,Less than $40K,36
+48,Doctorate,$40K - $60K,35
+44,College,Unknown,36
+35,Uneducated,Unknown,29
+48,Uneducated,Less than $40K,36
+26,Graduate,Less than $40K,36
+39,Graduate,Less than $40K,29
+38,College,$80K - $120K,36
+37,Uneducated,Less than $40K,36
+39,Uneducated,Less than $40K,36
+36,High School,$40K - $60K,30
+39,Uneducated,Unknown,36
+46,Graduate,$80K - $120K,31
+40,Graduate,Unknown,25
+42,High School,$40K - $60K,29
+43,Graduate,Less than $40K,38
+43,Post-Graduate,$60K - $80K,37
+47,Graduate,Less than $40K,27
+49,Graduate,Unknown,42
+48,Uneducated,Less than $40K,41
+47,Graduate,Less than $40K,34
+48,Post-Graduate,$40K - $60K,36
+36,High School,$40K - $60K,36
+49,Uneducated,Less than $40K,36
+43,Graduate,Less than $40K,37
+49,Graduate,$40K - $60K,38
+50,Doctorate,Unknown,46
+46,High School,Less than $40K,41
+35,Uneducated,Unknown,29
+44,Graduate,Unknown,36
+35,College,Less than $40K,31
+45,Graduate,$80K - $120K,36
+50,High School,$40K - $60K,43
+37,High School,Unknown,28
+44,College,$60K - $80K,36
+35,Graduate,Less than $40K,21
+42,Uneducated,$120K +,37
+48,College,$40K - $60K,37
+47,Doctorate,Less than $40K,36
+39,Uneducated,Less than $40K,34
+39,High School,$40K - $60K,30
+48,High School,Less than $40K,34
+34,Graduate,Unknown,19
+47,Post-Graduate,Unknown,29
+43,College,$40K - $60K,36
+50,Graduate,Less than $40K,32
+50,Post-Graduate,$40K - $60K,38
+44,Graduate,Less than $40K,25
+40,College,Less than $40K,22
+40,Graduate,$60K - $80K,36
+41,High School,Unknown,31
+41,Graduate,Less than $40K,35
+48,Uneducated,$40K - $60K,32
+41,High School,$80K - $120K,35
+38,Graduate,Less than $40K,36
+50,Doctorate,$80K - $120K,36
+40,Graduate,Less than $40K,30
+39,Uneducated,Less than $40K,36
+40,High School,Less than $40K,30
+41,Graduate,$60K - $80K,34
+35,Graduate,Less than $40K,36
+48,Uneducated,$40K - $60K,43
+43,High School,$40K - $60K,38
+35,Graduate,Less than $40K,36
+40,Graduate,Less than $40K,31
+46,High School,Less than $40K,37
+48,High School,$40K - $60K,36
+32,Graduate,Less than $40K,20
+42,Uneducated,Less than $40K,28
+45,High School,$120K +,33
+42,Graduate,Less than $40K,32
+40,Uneducated,Less than $40K,24
+40,High School,$40K - $60K,35
+42,Graduate,$40K - $60K,37
+49,Doctorate,$40K - $60K,39
+43,Doctorate,$60K - $80K,28
+48,Uneducated,Unknown,40
+43,Graduate,Less than $40K,30
+45,Graduate,Less than $40K,36
+40,High School,Less than $40K,36
+39,High School,Less than $40K,36
+39,High School,$60K - $80K,27
+40,Post-Graduate,$120K +,36
+46,Graduate,Less than $40K,34
+44,College,Less than $40K,39
+44,Uneducated,Less than $40K,38
+44,Graduate,$40K - $60K,36
+50,Uneducated,Unknown,34
+39,Graduate,Less than $40K,27
+37,High School,Less than $40K,22
+36,Graduate,$40K - $60K,22
+37,Doctorate,$60K - $80K,31
+39,Uneducated,$40K - $60K,36
+40,Uneducated,Less than $40K,26
+41,Doctorate,Less than $40K,31
+46,Uneducated,$40K - $60K,35
+45,High School,Less than $40K,36
+38,Graduate,Unknown,21
+37,Graduate,Unknown,30
+39,College,Unknown,35
+49,Post-Graduate,$80K - $120K,39
+50,Uneducated,$120K +,23
+44,Doctorate,Less than $40K,34
+50,High School,$60K - $80K,46
+49,Graduate,$40K - $60K,40
+37,High School,$40K - $60K,27
+41,College,Unknown,35
+40,High School,Unknown,30
+41,Graduate,Less than $40K,37
+38,High School,Less than $40K,28
+37,Graduate,$40K - $60K,24
+41,Graduate,$40K - $60K,24
+49,College,$60K - $80K,36
+43,Graduate,$60K - $80K,34
+47,College,Less than $40K,40
+33,Graduate,Less than $40K,26
+49,High School,Less than $40K,43
+30,High School,Less than $40K,20
+42,College,Less than $40K,28
+48,College,$80K - $120K,31
+43,High School,Less than $40K,36
+45,Graduate,$80K - $120K,34
+41,High School,Less than $40K,31
+40,High School,$40K - $60K,29
+48,Post-Graduate,$60K - $80K,36
+44,Graduate,$40K - $60K,33
+42,High School,$80K - $120K,32
+46,Uneducated,Less than $40K,30
+42,Graduate,Unknown,36
+44,Graduate,Less than $40K,34
+43,College,Less than $40K,36
+50,Graduate,Less than $40K,38
+43,High School,$40K - $60K,36
+48,Doctorate,$40K - $60K,34
+46,Post-Graduate,$60K - $80K,32
+50,College,$40K - $60K,41
+34,Uneducated,Unknown,21
+47,High School,$40K - $60K,39
+49,Uneducated,$80K - $120K,41
+47,Graduate,Less than $40K,36
+35,High School,Unknown,23
+42,Post-Graduate,Less than $40K,34
+49,Graduate,$120K +,29
+41,Uneducated,$80K - $120K,33
+44,Graduate,Less than $40K,33
+48,College,$40K - $60K,37
+46,Graduate,Less than $40K,38
+44,Graduate,$40K - $60K,38
+49,Graduate,$40K - $60K,35
+48,Graduate,Less than $40K,36
+48,College,$60K - $80K,30
+38,Graduate,Unknown,33
+34,Post-Graduate,Less than $40K,26
+45,Graduate,$60K - $80K,34
+33,Graduate,Less than $40K,17
+43,High School,$40K - $60K,34
+47,High School,$40K - $60K,34
+41,College,Unknown,22
+45,Uneducated,Less than $40K,40
+50,College,$40K - $60K,45
+45,College,Unknown,33
+50,Graduate,Less than $40K,40
+40,High School,Unknown,33
+46,High School,Less than $40K,36
+47,College,Less than $40K,36
+50,Post-Graduate,$40K - $60K,43
+43,Doctorate,$60K - $80K,33
+46,College,$120K +,30
+38,Doctorate,Less than $40K,28
+49,College,Less than $40K,38
+47,College,$60K - $80K,36
+41,Uneducated,$40K - $60K,26
+45,High School,$40K - $60K,35
+44,Graduate,$40K - $60K,29
+38,College,$60K - $80K,36
+50,High School,$40K - $60K,45
+48,Graduate,$60K - $80K,40
+36,Uneducated,Unknown,36
+45,Post-Graduate,Unknown,29
+47,Doctorate,Less than $40K,36
+40,College,Less than $40K,20
+43,Post-Graduate,$60K - $80K,31
+50,Graduate,Less than $40K,39
+47,Graduate,$40K - $60K,35
+34,Graduate,$40K - $60K,28
+39,College,$40K - $60K,29
+47,Graduate,Less than $40K,37
+47,Uneducated,Less than $40K,41
+37,High School,$40K - $60K,26
+41,Uneducated,$40K - $60K,29
+50,Graduate,Less than $40K,36
+46,College,Unknown,35
+41,Doctorate,Less than $40K,30
+38,Graduate,Less than $40K,29
+40,Doctorate,Less than $40K,30
+41,Graduate,$80K - $120K,28
+33,Graduate,Less than $40K,24
+38,Graduate,Less than $40K,22
+42,Post-Graduate,Less than $40K,36
+44,High School,Less than $40K,29
+44,Graduate,Less than $40K,32
+47,College,Unknown,42
+41,Uneducated,$80K - $120K,37
+47,Uneducated,$120K +,36
+48,Graduate,$80K - $120K,42
+33,Uneducated,$40K - $60K,22
+44,College,Less than $40K,31
+43,Graduate,$40K - $60K,35
+41,Graduate,$40K - $60K,36
+50,Post-Graduate,$80K - $120K,36
+33,High School,$80K - $120K,23
+45,High School,$80K - $120K,36
+44,High School,Less than $40K,31
+48,Graduate,Less than $40K,38
+49,College,$60K - $80K,39
+47,Uneducated,$60K - $80K,36
+50,Graduate,$80K - $120K,31
+48,Doctorate,Unknown,37
+46,College,Less than $40K,36
+49,High School,Less than $40K,36
+44,College,Unknown,38
+40,High School,$80K - $120K,21
+44,Doctorate,$120K +,39
+39,Graduate,$120K +,28
+43,Uneducated,$80K - $120K,34
+37,High School,Unknown,18
+35,Doctorate,$80K - $120K,30
+49,Graduate,Less than $40K,35
+49,Graduate,Less than $40K,39
+41,Graduate,Less than $40K,31
+43,High School,$60K - $80K,31
+48,Graduate,Less than $40K,41
+41,Graduate,$40K - $60K,32
+40,High School,$40K - $60K,32
+44,Uneducated,Unknown,37
+48,College,Less than $40K,36
+34,College,Less than $40K,20
+44,Uneducated,Less than $40K,36
+41,Graduate,Less than $40K,30
+34,College,Less than $40K,22
+41,Graduate,Less than $40K,33
+37,Graduate,Less than $40K,28
+49,Graduate,Unknown,38
+40,Graduate,Unknown,27
+36,College,Less than $40K,36
+46,Graduate,$40K - $60K,26
+47,Graduate,$80K - $120K,36
+44,Doctorate,Less than $40K,34
+46,High School,$40K - $60K,38
+37,Graduate,$40K - $60K,24
+47,Uneducated,$60K - $80K,36
+46,High School,Less than $40K,33
+45,Graduate,Unknown,37
+50,Graduate,$120K +,43
+43,Graduate,$40K - $60K,39
+36,Post-Graduate,Less than $40K,26
+46,College,$40K - $60K,34
+40,High School,Less than $40K,27
+42,Graduate,$60K - $80K,35
+43,Graduate,Unknown,25
+40,Uneducated,Less than $40K,30
+49,Post-Graduate,Less than $40K,36
+42,Graduate,Less than $40K,32
+45,High School,Unknown,36
+44,Graduate,$40K - $60K,38
+46,High School,$80K - $120K,36
+45,Uneducated,Less than $40K,39
+42,Graduate,$60K - $80K,36
+49,College,$120K +,43
+44,Uneducated,$40K - $60K,28
+37,High School,Less than $40K,36
+43,High School,Less than $40K,33
+38,High School,Unknown,24
+44,High School,$60K - $80K,40
+37,High School,$40K - $60K,27
+48,Graduate,Less than $40K,43
+39,Uneducated,Unknown,25
+42,High School,Less than $40K,35
+44,High School,$40K - $60K,35
+36,Uneducated,Less than $40K,36
+49,Graduate,$40K - $60K,36
+42,High School,Less than $40K,31
+48,Graduate,$80K - $120K,37
+36,College,Unknown,26
+45,Uneducated,Less than $40K,32
+40,Graduate,$40K - $60K,28
+48,Post-Graduate,Less than $40K,43
+32,Post-Graduate,$40K - $60K,26
+34,Uneducated,Less than $40K,36
+46,College,Less than $40K,31
+47,Uneducated,$40K - $60K,39
+48,Graduate,$40K - $60K,38
+45,Uneducated,$120K +,36
+36,Graduate,Less than $40K,22
+42,High School,Less than $40K,33
+39,Graduate,Less than $40K,27
+43,Uneducated,Less than $40K,36
+48,Doctorate,Less than $40K,36
+45,Graduate,Less than $40K,38
+42,Graduate,Unknown,34
+49,Graduate,Less than $40K,34
+42,Uneducated,Less than $40K,36
+43,Uneducated,Less than $40K,36
+49,High School,Less than $40K,42
+44,High School,$60K - $80K,36
+48,Graduate,$40K - $60K,33
+44,High School,Unknown,37
+46,High School,$60K - $80K,29
+49,High School,$40K - $60K,43
+35,Doctorate,Less than $40K,30
+50,Uneducated,$120K +,36
+47,Graduate,$120K +,36
+45,High School,$80K - $120K,36
+41,High School,Less than $40K,30
+28,Graduate,Less than $40K,23
+50,College,Less than $40K,36
+44,Graduate,Less than $40K,36
+46,Graduate,Unknown,40
+48,Uneducated,$60K - $80K,42
+48,Graduate,$40K - $60K,41
+43,Graduate,$40K - $60K,31
+41,Graduate,$60K - $80K,31
+35,Doctorate,Less than $40K,36
+48,High School,Less than $40K,36
+45,High School,$40K - $60K,36
+35,Uneducated,Less than $40K,36
+48,Graduate,Less than $40K,35
+46,College,Unknown,27
+39,Graduate,$60K - $80K,26
+41,College,Less than $40K,37
+45,Doctorate,Less than $40K,27
+40,Graduate,Less than $40K,36
+45,Graduate,$40K - $60K,36
+43,Graduate,$60K - $80K,25
+44,Post-Graduate,Less than $40K,36
+49,High School,Less than $40K,44
+39,High School,Less than $40K,23
+49,College,$40K - $60K,44
+44,Graduate,$40K - $60K,30
+42,Graduate,Less than $40K,36
+45,Doctorate,Less than $40K,31
+38,Post-Graduate,Less than $40K,29
+46,College,Unknown,40
+50,Graduate,$120K +,42
+43,Post-Graduate,Less than $40K,31
+40,Graduate,Less than $40K,28
+31,Post-Graduate,Unknown,13
+49,Graduate,$40K - $60K,41
+40,Uneducated,$80K - $120K,34
+45,Graduate,Unknown,35
+49,High School,$80K - $120K,41
+36,Graduate,$40K - $60K,36
+46,High School,Less than $40K,37
+42,Doctorate,Less than $40K,24
+46,Graduate,Unknown,39
+45,Uneducated,Less than $40K,33
+37,Uneducated,$120K +,23
+49,High School,Less than $40K,40
+41,High School,$60K - $80K,28
+47,Post-Graduate,$40K - $60K,27
+42,High School,$60K - $80K,36
+31,Graduate,Less than $40K,17
+50,Post-Graduate,$80K - $120K,45
+47,Graduate,Less than $40K,40
+40,Post-Graduate,$40K - $60K,30
+47,High School,Less than $40K,29
+46,Graduate,Unknown,30
+50,Post-Graduate,$60K - $80K,36
+43,Graduate,Less than $40K,31
+47,Uneducated,Unknown,42
+35,Graduate,Less than $40K,23
+41,College,Less than $40K,32
+48,Uneducated,Unknown,36
+43,High School,Less than $40K,29
+39,Graduate,Less than $40K,25
+47,Uneducated,Less than $40K,36
+44,High School,$60K - $80K,36
+42,College,Unknown,23
+44,College,$40K - $60K,40
+47,High School,Less than $40K,31
+47,High School,$80K - $120K,37
+44,College,Unknown,34
+45,Graduate,Less than $40K,34
+37,Uneducated,Unknown,22
+49,High School,$40K - $60K,44
+47,Doctorate,$120K +,41
+47,High School,Less than $40K,39
+50,Graduate,Less than $40K,36
+50,College,Unknown,36
+46,College,$80K - $120K,36
+40,High School,$120K +,36
+42,High School,Less than $40K,32
+29,Graduate,Less than $40K,25
+50,High School,$80K - $120K,45
+43,Graduate,Less than $40K,36
+40,Uneducated,$120K +,36
+45,Graduate,Unknown,40
+35,Doctorate,Less than $40K,30
+46,High School,$40K - $60K,37
+50,High School,Less than $40K,42
+47,High School,Less than $40K,36
+50,High School,Less than $40K,33
+48,Graduate,$40K - $60K,43
+38,Graduate,Less than $40K,28
+46,High School,$40K - $60K,34
+49,Post-Graduate,Unknown,39
+48,Uneducated,$80K - $120K,38
+36,Doctorate,Unknown,23
+36,College,$120K +,24
+38,High School,Less than $40K,30
+44,Uneducated,$120K +,39
+41,Doctorate,Less than $40K,36
+40,Graduate,$60K - $80K,36
+46,College,$80K - $120K,34
+45,Graduate,$60K - $80K,34
+49,Graduate,$80K - $120K,45
+41,High School,$40K - $60K,35
+41,Graduate,$80K - $120K,28
+41,Graduate,$60K - $80K,36
+46,Graduate,Less than $40K,40
+39,Uneducated,$40K - $60K,36
+46,Uneducated,$60K - $80K,36
+43,High School,$40K - $60K,34
+50,Graduate,$120K +,38
+37,Uneducated,$40K - $60K,27
+33,Doctorate,Less than $40K,36
+44,Post-Graduate,$60K - $80K,36
+44,Uneducated,$80K - $120K,34
+47,High School,$60K - $80K,39
+45,Graduate,Unknown,36
+39,Graduate,Unknown,28
+47,Graduate,Less than $40K,36
+47,Uneducated,Unknown,40
+49,Graduate,Less than $40K,40
+39,High School,$120K +,36
+35,High School,$40K - $60K,25
+39,Graduate,Less than $40K,26
+34,Graduate,$60K - $80K,36
+49,Uneducated,Less than $40K,35
+46,Uneducated,$40K - $60K,40
+45,Uneducated,$80K - $120K,38
+37,Graduate,Less than $40K,36
+48,High School,$40K - $60K,38
+44,High School,Less than $40K,31
+45,Graduate,Less than $40K,34
+43,Uneducated,Unknown,36
+34,Graduate,Unknown,21
+33,Graduate,Less than $40K,36
+45,Graduate,Unknown,27
+44,Uneducated,$60K - $80K,34
+30,High School,Unknown,25
+46,Uneducated,$80K - $120K,33
+34,High School,$80K - $120K,22
+43,Graduate,Unknown,30
+40,Uneducated,$80K - $120K,36
+46,High School,Less than $40K,35
+50,Doctorate,Less than $40K,43
+35,Graduate,$40K - $60K,25
+45,Graduate,$40K - $60K,34
+50,Post-Graduate,Unknown,41
+43,Uneducated,Less than $40K,31
+41,Graduate,Less than $40K,26
+42,Graduate,$60K - $80K,26
+45,Uneducated,Less than $40K,32
+37,High School,$40K - $60K,36
+48,Post-Graduate,$40K - $60K,34
+40,Post-Graduate,Unknown,29
+43,Uneducated,Less than $40K,36
+36,High School,Less than $40K,36
+49,Doctorate,$60K - $80K,37
+43,High School,$60K - $80K,36
+44,High School,$40K - $60K,34
+37,Post-Graduate,Less than $40K,36
+34,Uneducated,$60K - $80K,25
+50,Graduate,$80K - $120K,45
+50,High School,Less than $40K,36
+49,Doctorate,$60K - $80K,39
+41,Graduate,Unknown,33
+50,High School,Less than $40K,38
+37,Graduate,$40K - $60K,29
+50,Graduate,Unknown,44
+46,Graduate,$80K - $120K,36
+47,Uneducated,$60K - $80K,32
+42,Doctorate,$60K - $80K,36
+43,College,$80K - $120K,24
+48,College,$80K - $120K,36
+41,College,$40K - $60K,15
+44,College,Less than $40K,31
+48,Graduate,Less than $40K,37
+34,High School,$40K - $60K,25
+41,College,$40K - $60K,22
+39,Graduate,Less than $40K,36
+50,Graduate,Less than $40K,30
+46,High School,Unknown,35
+49,Graduate,$40K - $60K,39
+49,High School,$80K - $120K,43
+42,Graduate,Less than $40K,36
+43,Graduate,Less than $40K,23
+38,College,Unknown,28
+39,High School,$40K - $60K,28
+48,High School,$40K - $60K,40
+46,Uneducated,$80K - $120K,41
+44,College,$80K - $120K,37
+44,High School,Less than $40K,36
+41,High School,Less than $40K,36
+47,Post-Graduate,Less than $40K,39
+40,High School,$80K - $120K,36
+42,Graduate,Less than $40K,36
+39,College,$40K - $60K,31
+41,College,Less than $40K,31
+33,High School,Unknown,27
+49,High School,$40K - $60K,40
+41,College,$40K - $60K,29
+46,College,$40K - $60K,38
+46,High School,Unknown,30
+34,Uneducated,Less than $40K,24
+27,Graduate,Unknown,36
+41,High School,$80K - $120K,36
+48,Graduate,Less than $40K,38
+45,Graduate,Less than $40K,38
+39,Graduate,Less than $40K,28
+46,Doctorate,Less than $40K,38
+45,Graduate,Less than $40K,33
+49,Uneducated,$80K - $120K,40
+40,Graduate,Less than $40K,35
+45,Post-Graduate,$60K - $80K,37
+34,High School,Less than $40K,36
+44,Graduate,$80K - $120K,36
+42,Graduate,$60K - $80K,33
+47,High School,Unknown,40
+42,Graduate,$80K - $120K,36
+44,College,$60K - $80K,33
+47,College,Less than $40K,34
+50,Uneducated,Unknown,30
+47,College,Less than $40K,38
+47,High School,Less than $40K,36
+48,High School,Unknown,27
+49,Post-Graduate,$40K - $60K,36
+35,Graduate,Less than $40K,29
+34,Graduate,$40K - $60K,25
+50,Doctorate,$40K - $60K,42
+49,Graduate,Less than $40K,41
+47,Uneducated,$40K - $60K,36
+38,Uneducated,Less than $40K,31
+34,Graduate,Unknown,23
+47,Graduate,Unknown,36
+43,Graduate,Unknown,36
+44,College,Less than $40K,36
+39,College,Less than $40K,30
+37,College,Less than $40K,27
+46,Doctorate,Less than $40K,29
+38,High School,Less than $40K,26
+34,High School,Less than $40K,21
+44,College,Less than $40K,36
+39,Uneducated,$60K - $80K,26
+40,Graduate,Less than $40K,25
+41,Uneducated,Unknown,30
+43,High School,$40K - $60K,35
+50,Graduate,Less than $40K,40
+47,Post-Graduate,$40K - $60K,36
+49,Doctorate,Unknown,42
+43,College,$60K - $80K,36
+45,Graduate,Less than $40K,36
+46,Doctorate,$80K - $120K,38
+49,Uneducated,$40K - $60K,41
+43,Post-Graduate,Less than $40K,26
+40,Graduate,Less than $40K,36
+48,Post-Graduate,$60K - $80K,30
+39,Graduate,Less than $40K,30
+45,Graduate,Less than $40K,28
+45,College,Less than $40K,33
+47,High School,Less than $40K,40
+48,Graduate,$60K - $80K,34
+30,Graduate,Less than $40K,36
+35,College,Less than $40K,18
+38,Graduate,Less than $40K,36
+44,Graduate,Less than $40K,36
+43,College,Unknown,38
+43,Graduate,$40K - $60K,34
+48,High School,$40K - $60K,42
+31,Uneducated,Unknown,36
+41,Doctorate,$40K - $60K,32
+47,Uneducated,Less than $40K,36
+43,High School,Less than $40K,36
+50,High School,Less than $40K,36
+40,High School,Less than $40K,35
+50,Graduate,Less than $40K,32
+41,College,$40K - $60K,36
+37,Doctorate,$40K - $60K,18
+47,High School,$60K - $80K,30
+44,Post-Graduate,Less than $40K,26
+38,Graduate,$80K - $120K,19
+45,Graduate,Less than $40K,36
+47,College,Less than $40K,27
+39,High School,Less than $40K,33
+48,Graduate,Less than $40K,41
+41,High School,Less than $40K,34
+38,Uneducated,Less than $40K,36
+36,Post-Graduate,Less than $40K,25
+46,Post-Graduate,Less than $40K,35
+44,High School,Less than $40K,34
+42,Post-Graduate,Less than $40K,36
+42,Uneducated,$80K - $120K,36
+45,Uneducated,Less than $40K,35
+44,Uneducated,Unknown,32
+41,Graduate,Unknown,33
+48,Doctorate,Less than $40K,39
+43,Post-Graduate,$40K - $60K,36
+36,Doctorate,Less than $40K,36
+44,Doctorate,$40K - $60K,36
+43,College,Less than $40K,28
+43,High School,$60K - $80K,25
+48,High School,Less than $40K,43
+50,High School,$120K +,40
+49,Graduate,$80K - $120K,39
+42,High School,Less than $40K,36
+43,Graduate,Less than $40K,30
+46,Graduate,$80K - $120K,36
+38,Graduate,Less than $40K,32
+47,Graduate,$40K - $60K,37
+37,Uneducated,$60K - $80K,26
+47,Post-Graduate,$40K - $60K,36
+43,Uneducated,$60K - $80K,35
+43,Graduate,$60K - $80K,36
+45,Graduate,Unknown,36
+47,Uneducated,Less than $40K,32
+43,Graduate,Unknown,33
+44,Graduate,$60K - $80K,34
+43,High School,Unknown,25
+40,Graduate,$40K - $60K,28
+43,High School,$60K - $80K,35
+42,High School,Unknown,31
+40,Uneducated,$60K - $80K,29
+41,High School,$60K - $80K,36
+47,Post-Graduate,Less than $40K,29
+46,High School,$60K - $80K,36
+50,Graduate,Unknown,40
+33,Uneducated,$80K - $120K,36
+45,High School,Less than $40K,34
+36,Graduate,$80K - $120K,30
+42,Post-Graduate,Less than $40K,36
+44,Graduate,Less than $40K,36
+47,Post-Graduate,$60K - $80K,36
+43,Post-Graduate,Less than $40K,27
+44,Post-Graduate,Less than $40K,32
+46,Graduate,Less than $40K,33
+45,Graduate,$60K - $80K,39
+35,Graduate,Unknown,26
+46,Doctorate,Less than $40K,37
+43,Graduate,$60K - $80K,33
+35,Doctorate,$80K - $120K,27
+44,High School,$80K - $120K,34
+48,High School,$60K - $80K,30
+36,College,Unknown,24
+43,Graduate,$80K - $120K,33
+42,Graduate,$40K - $60K,19
+48,High School,$40K - $60K,28
+50,Uneducated,$80K - $120K,36
+42,High School,Unknown,30
+44,High School,Unknown,39
+33,Uneducated,Less than $40K,13
+48,Graduate,$40K - $60K,43
+48,Uneducated,$60K - $80K,38
+39,Post-Graduate,Less than $40K,19
+41,High School,$120K +,24
+37,Uneducated,Less than $40K,26
+48,Graduate,Unknown,42
+41,Graduate,$40K - $60K,25
+48,Graduate,$80K - $120K,42
+49,Uneducated,Less than $40K,39
+34,High School,Unknown,15
+35,Graduate,$40K - $60K,22
+46,Post-Graduate,Less than $40K,37
+50,Graduate,$40K - $60K,36
+43,College,$80K - $120K,36
+48,Uneducated,Less than $40K,41
+49,Doctorate,$40K - $60K,39
+45,High School,Less than $40K,36
+44,High School,Unknown,35
+43,High School,Unknown,31
+49,Post-Graduate,$40K - $60K,36
+44,Graduate,$60K - $80K,37
+37,Graduate,$40K - $60K,36
+47,College,Less than $40K,35
+40,Uneducated,Less than $40K,28
+42,Graduate,Less than $40K,31
+42,High School,Less than $40K,32
+47,Graduate,Less than $40K,34
+46,High School,$40K - $60K,36
+26,Graduate,Less than $40K,14
+42,Graduate,Less than $40K,36
+47,Graduate,$120K +,41
+48,Graduate,Less than $40K,31
+44,Uneducated,$80K - $120K,27
+43,Graduate,Less than $40K,30
+40,Uneducated,$80K - $120K,27
+38,Graduate,Less than $40K,28
+40,Graduate,Less than $40K,36
+48,Graduate,$40K - $60K,36
+46,High School,$80K - $120K,35
+43,High School,$80K - $120K,30
+49,Uneducated,Unknown,36
+49,Graduate,Unknown,42
+42,College,$60K - $80K,36
+46,Graduate,Less than $40K,28
+42,Graduate,$40K - $60K,27
+45,College,$40K - $60K,37
+33,High School,$80K - $120K,22
+50,Graduate,$60K - $80K,39
+48,Graduate,$80K - $120K,35
+33,High School,Unknown,36
+44,High School,Less than $40K,28
+40,Graduate,Less than $40K,27
+41,High School,$60K - $80K,28
+43,Post-Graduate,$60K - $80K,36
+46,Graduate,$40K - $60K,36
+43,Graduate,$40K - $60K,26
+40,High School,Less than $40K,29
+39,Doctorate,$40K - $60K,29
+47,Doctorate,Less than $40K,40
+35,High School,Less than $40K,28
+46,Graduate,Less than $40K,41
+41,High School,Less than $40K,36
+48,Graduate,$40K - $60K,33
+37,Uneducated,$40K - $60K,25
+42,Graduate,$40K - $60K,36
+47,High School,Unknown,41
+42,College,$40K - $60K,30
+36,Graduate,$40K - $60K,23
+33,College,Unknown,15
+47,High School,$40K - $60K,29
+41,High School,Less than $40K,34
+44,Post-Graduate,$80K - $120K,38
+49,Uneducated,Less than $40K,42
+50,Doctorate,Less than $40K,41
+40,Uneducated,$120K +,28
+49,College,$40K - $60K,30
+43,Graduate,Less than $40K,36
+42,Uneducated,Less than $40K,37
+47,Graduate,Less than $40K,40
+49,Graduate,Less than $40K,42
+45,Post-Graduate,$40K - $60K,39
+48,Doctorate,$60K - $80K,39
+48,High School,$60K - $80K,36
+46,Post-Graduate,$60K - $80K,36
+42,High School,$60K - $80K,37
+49,Uneducated,Less than $40K,31
+48,Post-Graduate,$60K - $80K,38
+44,High School,$60K - $80K,36
+38,High School,Less than $40K,26
+45,Doctorate,$40K - $60K,36
+38,College,Less than $40K,33
+42,Graduate,Less than $40K,36
+43,Graduate,Less than $40K,30
+42,College,Less than $40K,23
+34,Graduate,$40K - $60K,29
+48,High School,Less than $40K,36
+41,High School,Less than $40K,36
+46,Graduate,$60K - $80K,36
+50,High School,Less than $40K,21
+38,Graduate,$40K - $60K,26
+44,College,Less than $40K,28
+48,High School,Less than $40K,36
+46,High School,Less than $40K,37
+50,High School,Less than $40K,36
+44,Graduate,$60K - $80K,36
+50,Graduate,$120K +,41
+45,High School,Less than $40K,36
+49,Uneducated,$60K - $80K,44
+38,Graduate,Less than $40K,18
+47,Graduate,$40K - $60K,42
+41,Uneducated,Unknown,29
+39,Graduate,$80K - $120K,30
+43,Graduate,$40K - $60K,33
+32,Post-Graduate,Less than $40K,36
+33,College,$80K - $120K,36
+50,College,$80K - $120K,39
+44,Uneducated,$40K - $60K,33
+46,Uneducated,$80K - $120K,36
+44,College,Less than $40K,34
+46,Graduate,Less than $40K,36
+42,Uneducated,$60K - $80K,25
+39,Graduate,Less than $40K,30
+45,High School,Less than $40K,35
+46,Doctorate,$120K +,34
+40,Graduate,$120K +,28
+39,Graduate,Less than $40K,29
+48,Post-Graduate,$120K +,41
+44,Uneducated,Less than $40K,34
+43,Post-Graduate,Less than $40K,35
+41,Doctorate,$120K +,26
+47,Doctorate,Less than $40K,37
+34,High School,Less than $40K,13
+44,College,Less than $40K,34
+46,Graduate,$40K - $60K,39
+36,Uneducated,Unknown,36
+30,High School,Less than $40K,36
+39,High School,Unknown,34
+32,Graduate,Unknown,13
+45,High School,$80K - $120K,35
+49,High School,$60K - $80K,30
+42,College,$40K - $60K,28
+44,Graduate,Less than $40K,26
+43,Uneducated,$40K - $60K,31
+27,Graduate,Less than $40K,36
+46,Graduate,Unknown,39
+48,High School,Unknown,36
+47,Graduate,Less than $40K,38
+45,Graduate,Less than $40K,35
+46,Graduate,$40K - $60K,27
+42,Graduate,Less than $40K,33
+49,Graduate,Less than $40K,37
+47,High School,Less than $40K,41
+37,Post-Graduate,$80K - $120K,31
+48,High School,Less than $40K,36
+46,Graduate,Unknown,42
+44,Graduate,Less than $40K,38
+47,Post-Graduate,$40K - $60K,36
+46,Uneducated,$80K - $120K,38
+43,Graduate,Unknown,34
+46,High School,$80K - $120K,36
+47,Graduate,$40K - $60K,30
+39,High School,Less than $40K,31
+49,High School,Less than $40K,36
+46,Graduate,$40K - $60K,33
+39,Post-Graduate,$40K - $60K,35
+43,Uneducated,$40K - $60K,36
+39,Graduate,Unknown,34
+42,Graduate,$40K - $60K,23
+46,Graduate,Unknown,40
+41,Graduate,Less than $40K,26
+36,Uneducated,Unknown,28
+37,Graduate,$80K - $120K,28
+43,Graduate,Less than $40K,36
+46,Graduate,$60K - $80K,29
+39,Uneducated,$80K - $120K,36
+49,Uneducated,Less than $40K,40
+39,Graduate,Less than $40K,23
+41,College,$60K - $80K,35
+46,Graduate,Unknown,36
+46,Post-Graduate,Unknown,38
+38,Post-Graduate,Less than $40K,33
+49,High School,Unknown,36
+42,Doctorate,$40K - $60K,29
+45,High School,$40K - $60K,36
+50,Post-Graduate,$40K - $60K,39
+42,High School,Less than $40K,35
+48,Graduate,$80K - $120K,44
+43,High School,$40K - $60K,34
+45,Graduate,Less than $40K,36
+39,High School,Unknown,34
+45,Graduate,$120K +,31
+50,Uneducated,Unknown,40
+44,College,Unknown,35
+49,Graduate,$60K - $80K,29
+50,Graduate,Less than $40K,44
+36,Graduate,Less than $40K,36
+35,Graduate,Unknown,36
+46,Post-Graduate,$40K - $60K,40
+40,High School,Less than $40K,34
+50,Uneducated,Less than $40K,43
+49,Uneducated,Unknown,34
+50,Graduate,Less than $40K,36
+49,Doctorate,$40K - $60K,32
+47,Graduate,$40K - $60K,35
+41,Graduate,Less than $40K,33
+43,High School,Unknown,28
+49,High School,Less than $40K,34
+44,High School,$60K - $80K,35
+46,Graduate,$60K - $80K,37
+41,Uneducated,Less than $40K,36
+49,Graduate,Less than $40K,36
+44,Uneducated,Less than $40K,36
+46,Graduate,Less than $40K,38
+41,Post-Graduate,$40K - $60K,27
+49,Post-Graduate,$40K - $60K,44
+47,High School,Less than $40K,36
+40,High School,Less than $40K,30
+46,High School,Less than $40K,34
+43,College,Less than $40K,33
+50,College,$40K - $60K,36
+45,Post-Graduate,$40K - $60K,35
+48,Graduate,$40K - $60K,41
+47,High School,Less than $40K,36
+39,Graduate,Less than $40K,34
+45,Graduate,$40K - $60K,34
+46,Uneducated,Unknown,42
+44,Graduate,$40K - $60K,40
+41,Uneducated,Less than $40K,36
+41,Post-Graduate,Less than $40K,36
+37,Graduate,$40K - $60K,36
+47,Uneducated,$40K - $60K,35
+42,College,Unknown,33
+42,Uneducated,$80K - $120K,29
+49,Uneducated,Unknown,41
+36,High School,Unknown,26
+45,College,$80K - $120K,37
+41,Graduate,Less than $40K,36
+39,Graduate,Less than $40K,36
+44,Graduate,Less than $40K,36
+43,High School,Less than $40K,36
+41,Uneducated,$40K - $60K,36
+43,Graduate,$60K - $80K,25
+39,Graduate,Less than $40K,25
+44,College,$60K - $80K,38
+43,Uneducated,Less than $40K,32
+43,Graduate,Less than $40K,32
+37,College,$40K - $60K,32
+46,Graduate,$40K - $60K,41
+50,High School,Less than $40K,36
+38,High School,Less than $40K,36
+44,Graduate,$40K - $60K,29
+37,High School,Less than $40K,36
+40,Post-Graduate,$40K - $60K,31
+40,Uneducated,$80K - $120K,36
+40,Graduate,$80K - $120K,36
+50,Graduate,Less than $40K,36
+42,Uneducated,Unknown,24
+43,Graduate,$40K - $60K,24
+46,Doctorate,$80K - $120K,35
+42,College,Less than $40K,37
+41,College,Less than $40K,36
+50,High School,Less than $40K,43
+42,Graduate,Less than $40K,28
+43,Post-Graduate,$40K - $60K,32
+40,High School,Less than $40K,33
+41,Graduate,$40K - $60K,36
+36,Graduate,Less than $40K,23
+43,Graduate,Less than $40K,33
+49,Post-Graduate,Unknown,39
+45,Graduate,$40K - $60K,39
+40,College,$80K - $120K,31
+49,Graduate,Less than $40K,36
+47,High School,$40K - $60K,41
+40,College,$40K - $60K,36
+43,Uneducated,Less than $40K,36
+40,Graduate,Less than $40K,28
+36,High School,Unknown,22
+45,Graduate,$40K - $60K,36
+48,Uneducated,Unknown,38
+49,Doctorate,Unknown,39
+50,Doctorate,$120K +,45
+43,College,$40K - $60K,32
+41,High School,$40K - $60K,36
+41,High School,$40K - $60K,22
+47,Post-Graduate,Unknown,42
+42,Doctorate,$40K - $60K,36
+43,Uneducated,Less than $40K,32
+40,Graduate,Less than $40K,36
+38,Uneducated,$40K - $60K,36
+36,Graduate,Less than $40K,36
+41,High School,Less than $40K,31
+28,College,Unknown,17
+41,Post-Graduate,Less than $40K,36
+42,Graduate,Less than $40K,23
+39,Graduate,$40K - $60K,34
+49,Uneducated,Less than $40K,36
+40,College,Less than $40K,26
+50,College,$80K - $120K,39
+44,Uneducated,Less than $40K,38
+34,Uneducated,$60K - $80K,20
+41,Graduate,$60K - $80K,27
+38,Graduate,$60K - $80K,22
+39,Graduate,$40K - $60K,33
+38,Graduate,Less than $40K,25
+46,Graduate,$60K - $80K,39
+36,Uneducated,Less than $40K,31
+47,Graduate,$40K - $60K,28
+44,Graduate,Unknown,36
+41,High School,$80K - $120K,36
+49,Post-Graduate,Less than $40K,35
+39,High School,Less than $40K,33
+45,College,$40K - $60K,27
+48,College,Less than $40K,30
+31,Post-Graduate,Unknown,18
+43,College,$40K - $60K,31
+41,High School,Unknown,30
+43,Uneducated,Less than $40K,30
+27,Post-Graduate,Less than $40K,13
+39,Graduate,$40K - $60K,33
+40,Uneducated,Less than $40K,36
+47,Uneducated,Less than $40K,36
+42,High School,$80K - $120K,28
+38,High School,Less than $40K,36
+49,Doctorate,$40K - $60K,37
+40,Graduate,$60K - $80K,35
+47,Uneducated,Less than $40K,42
+45,Uneducated,$40K - $60K,37
+47,Uneducated,$60K - $80K,43
+50,Graduate,Less than $40K,36
+34,Graduate,Less than $40K,23
+48,College,Less than $40K,36
+43,Graduate,$40K - $60K,33
+39,High School,Less than $40K,36
+41,Graduate,$40K - $60K,30
+47,Uneducated,Less than $40K,36
+34,Uneducated,Less than $40K,25
+38,Graduate,Less than $40K,31
+44,High School,$40K - $60K,39
+42,Graduate,$60K - $80K,37
+41,High School,Less than $40K,30
+33,Graduate,Less than $40K,16
+41,Graduate,$40K - $60K,32
+46,High School,Less than $40K,42
+45,College,$80K - $120K,36
+42,Doctorate,$40K - $60K,36
+39,Post-Graduate,$80K - $120K,29
+50,Graduate,$40K - $60K,39
+40,Graduate,Unknown,30
+46,Graduate,Less than $40K,39
+38,College,$60K - $80K,36
+43,Uneducated,Less than $40K,32
+39,Doctorate,Less than $40K,33
+41,High School,$120K +,35
+45,Uneducated,Unknown,39
+45,Uneducated,Less than $40K,36
+36,College,Less than $40K,23
+50,Graduate,Less than $40K,42
+42,Graduate,Less than $40K,27
+43,Graduate,$40K - $60K,32
+33,High School,$40K - $60K,28
+38,High School,Less than $40K,20
+46,College,$40K - $60K,34
+44,Graduate,Less than $40K,33
+49,Uneducated,$40K - $60K,37
+50,Uneducated,Less than $40K,36
+41,College,Unknown,36
+36,Graduate,Less than $40K,26
+36,College,Less than $40K,36
+37,High School,Less than $40K,36
+39,Graduate,$40K - $60K,29
+45,High School,$120K +,37
+46,High School,Less than $40K,34
+38,High School,Less than $40K,27
+44,Post-Graduate,$80K - $120K,37
+42,Graduate,$40K - $60K,36
+49,High School,Less than $40K,45
+39,Graduate,Less than $40K,31
+48,Post-Graduate,Unknown,37
+42,Graduate,$80K - $120K,36
+43,College,$80K - $120K,23
+35,Graduate,$40K - $60K,28
+37,Uneducated,Less than $40K,30
+45,Graduate,$80K - $120K,35
+36,High School,Less than $40K,28
+45,Graduate,$60K - $80K,34
+50,Doctorate,$80K - $120K,41
+46,College,Less than $40K,39
+44,College,Less than $40K,40
+39,Post-Graduate,$120K +,29
+46,Graduate,$120K +,36
+41,High School,Unknown,24
+47,Uneducated,Less than $40K,33
+50,High School,Unknown,41
+31,Graduate,Less than $40K,20
+42,Graduate,Less than $40K,33
+42,High School,Less than $40K,31
+48,Uneducated,Less than $40K,41
+50,Graduate,$80K - $120K,38
+46,Graduate,$40K - $60K,34
+50,Uneducated,Less than $40K,44
+50,High School,$80K - $120K,41
+50,Graduate,$40K - $60K,39
+48,High School,Less than $40K,38
+46,Graduate,$40K - $60K,39
+40,Graduate,$120K +,27
+40,College,Less than $40K,36
+37,Doctorate,Less than $40K,36
+38,High School,$40K - $60K,27
+42,High School,$40K - $60K,29
+42,College,Less than $40K,22
+45,College,Less than $40K,36
+43,High School,$80K - $120K,38
+45,Graduate,$40K - $60K,41
+49,College,Less than $40K,41
+41,Graduate,$120K +,36
+44,Graduate,Unknown,34
+46,Uneducated,Unknown,40
+39,Graduate,Less than $40K,36
+46,Graduate,$80K - $120K,37
+47,Graduate,Less than $40K,42
+36,Uneducated,$40K - $60K,31
+45,Graduate,$40K - $60K,36
+50,Post-Graduate,Unknown,36
+37,Graduate,Less than $40K,25
+47,High School,Less than $40K,37
+45,Graduate,$40K - $60K,34
+40,High School,$40K - $60K,20
+47,College,$60K - $80K,42
+38,Graduate,$40K - $60K,27
+43,College,$60K - $80K,36
+43,High School,Less than $40K,36
+37,High School,Unknown,30
+41,High School,$40K - $60K,30
+45,High School,Less than $40K,34
+40,High School,$40K - $60K,27
+40,Graduate,$120K +,33
+39,High School,Unknown,36
+42,High School,$80K - $120K,36
+50,Uneducated,Less than $40K,38
+47,Doctorate,$80K - $120K,32
+46,High School,$60K - $80K,36
+34,Uneducated,Less than $40K,25
+46,High School,$80K - $120K,30
+47,High School,$40K - $60K,36
+40,Uneducated,$80K - $120K,29
+46,Graduate,Less than $40K,34
+38,Graduate,Less than $40K,36
+47,High School,Less than $40K,36
+44,Uneducated,$40K - $60K,35
+36,Graduate,$80K - $120K,21
+40,Graduate,$60K - $80K,36
+49,Graduate,Less than $40K,30
+45,Graduate,Less than $40K,40
+38,High School,Less than $40K,33
+43,Uneducated,Less than $40K,38
+48,Graduate,$40K - $60K,31
+47,Graduate,Unknown,36
+48,Uneducated,$40K - $60K,39
+34,Graduate,Less than $40K,23
+46,College,Less than $40K,23
+49,Post-Graduate,Less than $40K,44
+48,College,Less than $40K,37
+42,Graduate,$40K - $60K,33
+47,Graduate,$60K - $80K,29
+45,Graduate,$80K - $120K,39
+41,High School,$40K - $60K,29
+45,High School,$40K - $60K,29
+49,Uneducated,Less than $40K,39
+50,Uneducated,Less than $40K,45
+44,Uneducated,Unknown,24
+40,Uneducated,Unknown,36
+37,Graduate,Less than $40K,32
+39,Graduate,Less than $40K,28
+37,Post-Graduate,Less than $40K,36
+43,Uneducated,$40K - $60K,36
+48,Graduate,Less than $40K,43
+44,Doctorate,Unknown,33
+39,Graduate,$80K - $120K,35
+47,College,$80K - $120K,31
+48,High School,$60K - $80K,42
+35,College,Less than $40K,36
+42,Uneducated,Less than $40K,23
+43,Uneducated,Less than $40K,36
+50,College,$120K +,36
+40,High School,Less than $40K,36
+45,Post-Graduate,Less than $40K,36
+44,College,Unknown,37
+44,Graduate,$40K - $60K,36
+34,Graduate,Unknown,25
+42,High School,$40K - $60K,34
+47,High School,$60K - $80K,36
+48,Graduate,Less than $40K,35
+39,Uneducated,$40K - $60K,28
+48,Graduate,Less than $40K,35
+46,Post-Graduate,Unknown,37
+46,Graduate,Less than $40K,40
+44,Graduate,Unknown,37
+45,High School,Unknown,40
+44,Graduate,$60K - $80K,39
+49,Graduate,$80K - $120K,38
+44,High School,Unknown,37
+38,Graduate,$40K - $60K,36
+48,Graduate,$80K - $120K,36
+43,College,Less than $40K,30
+40,Post-Graduate,$80K - $120K,36
+36,Uneducated,Less than $40K,21
+47,Doctorate,$40K - $60K,36
+37,Graduate,Unknown,31
+42,Doctorate,Less than $40K,35
+42,Uneducated,Unknown,38
+45,Uneducated,Unknown,37
+46,Graduate,Less than $40K,35
+47,College,Less than $40K,36
+26,High School,Less than $40K,18
+44,Graduate,Less than $40K,39
+33,Graduate,$60K - $80K,36
+46,Uneducated,Less than $40K,29
+48,High School,$40K - $60K,43
+45,Doctorate,$120K +,38
+48,Graduate,Unknown,35
+44,Graduate,$60K - $80K,32
+43,Uneducated,$40K - $60K,38
+50,Graduate,Less than $40K,41
+50,Uneducated,Unknown,38
+40,Doctorate,Less than $40K,21
+37,High School,Less than $40K,29
+47,Uneducated,Less than $40K,36
+40,Uneducated,Less than $40K,31
+43,Uneducated,Less than $40K,36
+43,High School,Less than $40K,36
+50,Uneducated,Less than $40K,45
+27,Uneducated,Less than $40K,16
+44,College,Less than $40K,36
+49,Uneducated,Unknown,38
+43,Uneducated,Less than $40K,33
+44,Graduate,$40K - $60K,29
+45,High School,$40K - $60K,39
+49,High School,Less than $40K,45
+38,Doctorate,Less than $40K,28
+45,Graduate,$120K +,26
+48,Graduate,Unknown,40
+36,Uneducated,Less than $40K,36
+40,High School,Less than $40K,28
+41,High School,$40K - $60K,31
+37,Graduate,Less than $40K,21
+43,Graduate,Less than $40K,36
+39,College,Less than $40K,32
+40,Uneducated,Less than $40K,27
+34,College,Less than $40K,23
+48,Uneducated,Less than $40K,43
+44,Doctorate,$40K - $60K,40
+47,High School,Less than $40K,37
+45,Uneducated,Less than $40K,36
+47,Graduate,Unknown,40
+35,Graduate,$40K - $60K,27
+42,College,Less than $40K,27
+47,Uneducated,$40K - $60K,29
+47,Uneducated,Unknown,34
+47,College,$40K - $60K,43
+50,Uneducated,$40K - $60K,35
+45,College,Less than $40K,35
+42,High School,$60K - $80K,36
+45,College,$40K - $60K,39
+48,Graduate,$40K - $60K,36
+43,High School,Less than $40K,28
+39,College,$40K - $60K,29
+40,Graduate,$40K - $60K,30
+48,Post-Graduate,Less than $40K,35
+41,Graduate,$60K - $80K,26
+50,High School,Less than $40K,32
+47,High School,Unknown,39
+50,Graduate,Less than $40K,31
+47,Graduate,$60K - $80K,29
+48,High School,Unknown,37
+42,Post-Graduate,$80K - $120K,30
+44,High School,Less than $40K,30
+38,High School,$60K - $80K,33
+50,Graduate,Less than $40K,46
+41,High School,Unknown,36
+47,Graduate,Less than $40K,35
+41,Graduate,$60K - $80K,31
+43,High School,Less than $40K,24
+42,Graduate,Less than $40K,27
+32,Uneducated,Unknown,25
+45,Graduate,Less than $40K,41
+39,Uneducated,$40K - $60K,27
+48,High School,$60K - $80K,42
+48,Graduate,Unknown,35
+42,Graduate,Less than $40K,36
+46,Graduate,Less than $40K,31
+46,College,Less than $40K,40
+41,Uneducated,$40K - $60K,36
+49,Graduate,Less than $40K,36
+47,College,Less than $40K,36
+42,Graduate,$40K - $60K,33
+35,College,Less than $40K,25
+44,Graduate,Less than $40K,33
+32,High School,Unknown,25
+50,Post-Graduate,$80K - $120K,42
+46,Graduate,Less than $40K,38
+44,High School,Less than $40K,33
+43,Graduate,Less than $40K,32
+47,Graduate,$60K - $80K,36
+50,Graduate,Less than $40K,40
+44,Graduate,Less than $40K,39
+49,Graduate,Less than $40K,39
+46,High School,$120K +,36
+36,Uneducated,Less than $40K,22
+50,Post-Graduate,$60K - $80K,36
+41,High School,Less than $40K,36
+50,Doctorate,Less than $40K,38
+46,College,Less than $40K,36
+46,Graduate,Less than $40K,40
+46,Graduate,Unknown,24
+38,College,Unknown,36
+44,Graduate,$40K - $60K,38
+45,Graduate,$40K - $60K,38
+48,College,Less than $40K,38
+37,High School,Less than $40K,36
+46,College,$40K - $60K,33
+50,Uneducated,$40K - $60K,41
+43,Uneducated,Unknown,32
+47,High School,Unknown,43
+49,Graduate,Unknown,43
+42,College,Less than $40K,33
+35,High School,Less than $40K,25
+38,Graduate,Unknown,31
+37,College,$40K - $60K,26
+42,Graduate,Less than $40K,37
+50,High School,Unknown,38
+43,College,$40K - $60K,39
+44,Graduate,$80K - $120K,36
+44,College,Less than $40K,33
+48,Doctorate,Unknown,39
+41,Graduate,$40K - $60K,36
+47,Uneducated,$40K - $60K,34
+42,Uneducated,Unknown,37
+47,High School,Unknown,32
+43,Graduate,$40K - $60K,33
+44,Graduate,Unknown,37
+44,High School,Unknown,36
+45,Doctorate,Less than $40K,34
+40,Graduate,Less than $40K,26
+50,College,$40K - $60K,37
+46,High School,$60K - $80K,42
+37,College,Less than $40K,28
+50,Graduate,Unknown,31
+34,Graduate,Less than $40K,36
+43,Graduate,$40K - $60K,34
+40,Graduate,Less than $40K,30
+30,College,Unknown,18
+38,Uneducated,Unknown,36
+40,Doctorate,$40K - $60K,36
+44,Graduate,Less than $40K,30
+42,Graduate,Less than $40K,36
+42,Graduate,$40K - $60K,33
+45,High School,$60K - $80K,37
+34,Graduate,$40K - $60K,17
+34,Graduate,Less than $40K,18
+35,College,Unknown,29
+43,College,$80K - $120K,34
+50,Graduate,$120K +,42
+40,College,Less than $40K,29
+40,High School,$60K - $80K,36
+49,High School,Less than $40K,36
+50,Graduate,$60K - $80K,38
+39,Graduate,$60K - $80K,36
+33,Doctorate,Unknown,21
+42,High School,Less than $40K,35
+49,Graduate,$80K - $120K,40
+44,Uneducated,$40K - $60K,34
+39,College,$40K - $60K,36
+45,Post-Graduate,Less than $40K,38
+47,Graduate,$60K - $80K,30
+46,College,$60K - $80K,36
+48,High School,Less than $40K,37
+42,Uneducated,Unknown,29
+49,Graduate,$40K - $60K,36
+46,Uneducated,$40K - $60K,34
+34,High School,$40K - $60K,28
+44,High School,$40K - $60K,31
+39,Graduate,$80K - $120K,30
+47,Post-Graduate,$40K - $60K,36
+49,Uneducated,Less than $40K,41
+46,Graduate,Unknown,31
+42,High School,$80K - $120K,38
+31,High School,Less than $40K,23
+48,Post-Graduate,Unknown,38
+39,Graduate,$40K - $60K,26
+46,College,$60K - $80K,36
+45,Uneducated,Less than $40K,33
+45,Graduate,$40K - $60K,37
+41,Uneducated,Unknown,36
+46,High School,Less than $40K,36
+48,Graduate,Unknown,39
+37,High School,$120K +,36
+41,College,Less than $40K,36
+47,Uneducated,$80K - $120K,34
+30,Graduate,Less than $40K,18
+47,Graduate,$40K - $60K,37
+34,Uneducated,$60K - $80K,23
+41,High School,Unknown,31
+36,College,$80K - $120K,31
+47,Graduate,Less than $40K,36
+49,College,$80K - $120K,37
+46,Graduate,Unknown,40
+26,Graduate,Less than $40K,22
+40,High School,Unknown,36
+39,Graduate,Less than $40K,28
+40,Uneducated,$40K - $60K,32
+43,Graduate,Less than $40K,34
+46,Uneducated,$40K - $60K,40
+46,High School,$120K +,28
+46,Graduate,$60K - $80K,41
+50,Graduate,$80K - $120K,44
+37,College,Unknown,24
+48,High School,Less than $40K,40
+46,Graduate,$60K - $80K,27
+49,Uneducated,Less than $40K,42
+44,Graduate,Unknown,37
+42,Graduate,$60K - $80K,35
+41,High School,Less than $40K,23
+48,Graduate,Less than $40K,38
+42,Uneducated,Unknown,31
+43,High School,Less than $40K,13
+42,Graduate,$60K - $80K,31
+49,College,$80K - $120K,38
+50,Graduate,Less than $40K,40
+48,Graduate,Less than $40K,36
+48,Graduate,$120K +,37
+49,College,Less than $40K,43
+46,Graduate,Less than $40K,38
+38,High School,Less than $40K,28
+47,Uneducated,Unknown,36
+41,Post-Graduate,$80K - $120K,30
+48,Graduate,Less than $40K,21
+40,High School,$80K - $120K,36
+38,Uneducated,$80K - $120K,32
+43,Graduate,Unknown,36
+48,Graduate,$40K - $60K,36
+38,College,$80K - $120K,30
+40,Uneducated,Unknown,28
+48,Post-Graduate,$40K - $60K,38
+46,Graduate,$80K - $120K,33
+44,Graduate,Unknown,27
+42,College,Less than $40K,28
+39,Uneducated,$60K - $80K,29
+40,Post-Graduate,Unknown,27
+36,Graduate,$80K - $120K,36
+43,Graduate,Less than $40K,36
+38,High School,Less than $40K,34
+36,College,Unknown,18
+40,Graduate,Less than $40K,22
+43,Graduate,Unknown,34
+43,Graduate,Less than $40K,34
+42,Graduate,Less than $40K,38
+34,Graduate,Less than $40K,28
+40,High School,Less than $40K,22
+40,Doctorate,$40K - $60K,27
+35,High School,Less than $40K,36
+43,Graduate,Less than $40K,36
+46,High School,$40K - $60K,40
+37,High School,$120K +,26
+47,College,Unknown,38
+45,High School,Less than $40K,34
+50,Doctorate,Unknown,40
+46,Graduate,Unknown,36
+49,Graduate,$40K - $60K,40
+47,Graduate,Less than $40K,36
+46,College,$120K +,40
+47,Post-Graduate,Unknown,31
+46,Post-Graduate,Less than $40K,41
+42,Graduate,Less than $40K,32
+44,College,$40K - $60K,39
+46,Graduate,Less than $40K,33
+45,Graduate,Less than $40K,33
+42,Graduate,Less than $40K,36
+40,College,$40K - $60K,34
+40,Uneducated,Less than $40K,24
+43,High School,$40K - $60K,24
+44,High School,Less than $40K,35
+48,Doctorate,Unknown,44
+34,College,Less than $40K,36
+45,Uneducated,$80K - $120K,25
+42,Uneducated,Less than $40K,35
+34,Uneducated,Less than $40K,26
+42,High School,$60K - $80K,33
+44,Uneducated,Less than $40K,36
+45,Graduate,Less than $40K,36
+44,High School,Less than $40K,36
+40,High School,Less than $40K,31
+42,Post-Graduate,Less than $40K,35
+45,Uneducated,Less than $40K,35
+40,Graduate,$120K +,30
+46,High School,Less than $40K,26
+49,High School,Less than $40K,35
+31,Graduate,Unknown,22
+46,Uneducated,Unknown,40
+38,Graduate,Unknown,27
+43,High School,Less than $40K,36
+42,College,$40K - $60K,36
+33,Doctorate,$40K - $60K,36
+49,College,Less than $40K,29
+46,College,Less than $40K,41
+38,Graduate,Unknown,29
+50,Uneducated,Unknown,36
+45,College,Unknown,32
+41,Graduate,$80K - $120K,31
+42,Uneducated,Unknown,32
+48,College,Less than $40K,41
+44,High School,Unknown,32
+45,Graduate,Less than $40K,39
+45,Graduate,$40K - $60K,36
+49,Graduate,Unknown,43
+43,High School,Unknown,36
+45,High School,Unknown,39
+44,Uneducated,Unknown,36
+48,High School,$40K - $60K,43
+48,Doctorate,Less than $40K,33
+34,Graduate,$40K - $60K,26
+43,High School,$60K - $80K,36
+44,High School,Less than $40K,38
+49,College,Unknown,37
+49,Graduate,$80K - $120K,41
+41,Uneducated,$60K - $80K,30
+43,Graduate,Unknown,33
+40,Uneducated,Less than $40K,25
+50,Uneducated,$40K - $60K,41
+39,Uneducated,Less than $40K,30
+33,Graduate,Less than $40K,20
+43,Uneducated,Less than $40K,36
+47,Uneducated,$40K - $60K,36
+42,College,Less than $40K,36
+45,Doctorate,$80K - $120K,35
+48,High School,$40K - $60K,36
+50,Graduate,Less than $40K,41
+37,Graduate,$40K - $60K,36
+39,Graduate,Less than $40K,29
+38,Graduate,Less than $40K,36
+38,Post-Graduate,$40K - $60K,28
+42,College,$60K - $80K,35
+35,High School,Less than $40K,24
+42,Uneducated,$120K +,34
+37,Uneducated,Unknown,24
+43,College,Less than $40K,36
+43,High School,$120K +,30
+48,Post-Graduate,$40K - $60K,42
+46,College,Less than $40K,36
+40,College,Unknown,28
+50,Uneducated,Less than $40K,36
+46,Uneducated,$40K - $60K,39
+36,College,Less than $40K,36
+49,Uneducated,Less than $40K,36
+38,College,Less than $40K,31
+40,Uneducated,Less than $40K,28
+44,Post-Graduate,Less than $40K,36
+45,High School,Less than $40K,34
+48,High School,$80K - $120K,36
+40,High School,Less than $40K,31
+40,College,$80K - $120K,34
+33,High School,Less than $40K,21
+46,High School,$80K - $120K,39
+40,High School,$40K - $60K,32
+37,High School,Unknown,36
+47,Graduate,Less than $40K,39
+38,Graduate,Less than $40K,36
+42,Graduate,Less than $40K,31
+38,Graduate,Less than $40K,31
+47,Post-Graduate,Less than $40K,37
+45,High School,$80K - $120K,37
+44,Graduate,$40K - $60K,38
+47,Graduate,$80K - $120K,32
+42,College,$40K - $60K,36
+42,Graduate,$40K - $60K,36
+44,High School,$60K - $80K,36
+46,Graduate,Less than $40K,36
+39,High School,$60K - $80K,32
+50,Graduate,Less than $40K,37
+50,Uneducated,Less than $40K,44
+38,High School,$40K - $60K,27
+38,Graduate,$80K - $120K,29
+38,Graduate,$40K - $60K,33
+47,Doctorate,Unknown,42
+50,High School,$80K - $120K,39
+48,Uneducated,Less than $40K,36
+33,Graduate,Less than $40K,19
+44,Graduate,$120K +,31
+41,Graduate,$60K - $80K,37
+50,High School,Less than $40K,37
+39,High School,$120K +,33
+42,College,Less than $40K,35
+33,Doctorate,Less than $40K,26
+44,College,Less than $40K,34
+42,Graduate,$40K - $60K,36
+43,High School,Less than $40K,32
+46,Graduate,$40K - $60K,28
+40,Graduate,Less than $40K,31
+45,Graduate,Unknown,36
+49,Graduate,Less than $40K,43
+42,High School,$60K - $80K,32
+42,High School,$40K - $60K,36
+50,Post-Graduate,Less than $40K,45
+34,Post-Graduate,Less than $40K,29
+42,Graduate,Unknown,32
+48,High School,Less than $40K,37
+46,High School,$120K +,35
+47,Uneducated,Less than $40K,36
+42,Graduate,$40K - $60K,34
+45,Post-Graduate,$60K - $80K,36
+44,Graduate,Less than $40K,40
+42,Uneducated,$60K - $80K,30
+38,High School,$40K - $60K,19
+41,High School,Less than $40K,15
+46,Graduate,Unknown,32
+47,College,Less than $40K,36
+47,Graduate,Less than $40K,34
+35,Graduate,Less than $40K,30
+42,Uneducated,Unknown,36
+48,Uneducated,Unknown,35
+40,Doctorate,Less than $40K,21
+46,Graduate,Unknown,40
+41,Graduate,$40K - $60K,28
+48,Graduate,Unknown,37
+41,Graduate,Less than $40K,36
+38,Graduate,$40K - $60K,20
+48,Graduate,Less than $40K,41
+38,Uneducated,Unknown,28
+45,Doctorate,Less than $40K,36
+45,Graduate,Less than $40K,33
+38,Graduate,$40K - $60K,36
+45,Doctorate,Less than $40K,36
+46,Graduate,$40K - $60K,36
+41,College,$80K - $120K,22
+31,College,Less than $40K,21
+49,College,Unknown,36
+33,Graduate,Less than $40K,20
+46,High School,Less than $40K,36
+43,Graduate,Unknown,32
+42,High School,Unknown,34
+46,Graduate,$120K +,34
+45,College,$40K - $60K,37
+39,College,$80K - $120K,30
+41,College,Less than $40K,36
+49,Uneducated,Less than $40K,36
+37,High School,$80K - $120K,24
+50,Graduate,$80K - $120K,46
+46,Doctorate,Less than $40K,33
+49,Graduate,Less than $40K,36
+35,Graduate,Less than $40K,36
+27,High School,Less than $40K,18
+41,Uneducated,Less than $40K,31
+45,Post-Graduate,$40K - $60K,36
+37,College,Less than $40K,26
+41,Graduate,Less than $40K,36
+47,Graduate,$40K - $60K,30
+41,High School,Unknown,32
+46,Graduate,Less than $40K,37
+43,Graduate,$40K - $60K,36
+50,Graduate,Less than $40K,44
+46,College,Less than $40K,41
+50,College,Less than $40K,36
+48,Graduate,Less than $40K,42
+36,Post-Graduate,Less than $40K,26
+44,High School,Less than $40K,36
+39,High School,Less than $40K,25
+42,High School,Less than $40K,36
+43,Uneducated,$80K - $120K,36
+44,Graduate,$60K - $80K,36
+33,Graduate,$40K - $60K,18
+44,Graduate,$60K - $80K,28
+34,Doctorate,Unknown,36
+50,Post-Graduate,Less than $40K,36
+40,High School,$120K +,31
+47,High School,Unknown,36
+40,Doctorate,Unknown,27
+41,Graduate,$40K - $60K,28
+47,High School,$60K - $80K,39
+44,College,$40K - $60K,30
+34,College,$40K - $60K,20
+39,High School,Less than $40K,36
+42,Graduate,Less than $40K,36
+48,Uneducated,$40K - $60K,34
+42,Graduate,Less than $40K,36
+43,College,Less than $40K,28
+37,Post-Graduate,$40K - $60K,36
+46,Uneducated,Unknown,36
+49,Uneducated,Less than $40K,31
+43,College,$80K - $120K,32
+45,College,Less than $40K,29
+34,College,Unknown,20
+36,Uneducated,Less than $40K,36
+45,Graduate,$80K - $120K,36
+43,College,Unknown,36
+37,High School,Unknown,27
+49,Doctorate,Less than $40K,40
+43,Graduate,Less than $40K,34
+49,High School,$120K +,43
+47,Uneducated,Unknown,36
+29,Graduate,Less than $40K,36
+50,Graduate,Less than $40K,39
+49,High School,$40K - $60K,43
+47,High School,$60K - $80K,39
+42,College,$40K - $60K,34
+48,High School,Less than $40K,32
+39,Graduate,Unknown,23
+46,Graduate,Less than $40K,36
+42,College,$40K - $60K,28
+48,Uneducated,Less than $40K,38
+34,Graduate,Less than $40K,36
+42,Graduate,Less than $40K,36
+41,Graduate,Less than $40K,29
+50,Graduate,Unknown,36
+48,Doctorate,Unknown,36
+44,High School,Unknown,36
+42,High School,Less than $40K,30
+47,Graduate,Less than $40K,37
+42,Graduate,$60K - $80K,36
+50,Uneducated,$120K +,38
+27,College,Less than $40K,20
+38,High School,$40K - $60K,30
+33,High School,$40K - $60K,23
+48,Doctorate,Less than $40K,43
+41,Graduate,Less than $40K,32
+50,Uneducated,Less than $40K,36
+34,Graduate,$40K - $60K,28
+49,Uneducated,Less than $40K,36
+44,High School,Less than $40K,25
+47,Graduate,Less than $40K,38
+49,Uneducated,$40K - $60K,38
+41,College,$80K - $120K,31
+45,High School,Less than $40K,37
+42,Graduate,$80K - $120K,26
+38,College,Less than $40K,33
+26,Graduate,Less than $40K,19
+46,Graduate,$80K - $120K,36
+43,Graduate,Less than $40K,38
+48,High School,Less than $40K,36
+38,College,Unknown,29
+48,High School,Less than $40K,40
+41,Doctorate,$40K - $60K,33
+46,College,$40K - $60K,41
+36,Graduate,Less than $40K,27
+44,Graduate,Less than $40K,32
+38,College,Less than $40K,33
+50,High School,Less than $40K,36
+46,Doctorate,Less than $40K,36
+40,High School,Less than $40K,33
+38,High School,Less than $40K,16
+44,Doctorate,Less than $40K,36
+46,College,$40K - $60K,34
+50,Graduate,Less than $40K,36
+38,High School,$60K - $80K,32
+44,High School,$40K - $60K,28
+40,College,$40K - $60K,30
+47,Doctorate,Unknown,38
+31,High School,Less than $40K,25
+48,Doctorate,$60K - $80K,43
+47,High School,$40K - $60K,27
+35,High School,Unknown,36
+46,High School,Unknown,38
+48,College,$80K - $120K,41
+41,Doctorate,$120K +,28
+43,Graduate,$60K - $80K,38
+48,Uneducated,Less than $40K,29
+49,College,$40K - $60K,31
+47,High School,$80K - $120K,36
+43,High School,$80K - $120K,36
+49,Graduate,$120K +,37
+43,High School,$60K - $80K,36
+48,College,Less than $40K,42
+50,Uneducated,$60K - $80K,44
+44,Graduate,Less than $40K,39
+43,Graduate,Less than $40K,35
+48,Graduate,Less than $40K,36
+42,Graduate,Less than $40K,29
+45,Graduate,Less than $40K,35
+39,Graduate,Less than $40K,32
+45,Doctorate,$40K - $60K,32
+48,Uneducated,$40K - $60K,38
+45,College,$60K - $80K,39
+50,Graduate,Less than $40K,30
+49,High School,Unknown,32
+44,High School,Less than $40K,36
+46,Graduate,Less than $40K,34
+48,High School,Unknown,38
+50,High School,Less than $40K,42
+42,Uneducated,$40K - $60K,35
+43,Uneducated,$60K - $80K,30
+39,High School,Less than $40K,36
+35,Graduate,Less than $40K,31
+36,Graduate,Less than $40K,29
+50,High School,Less than $40K,36
+42,College,Unknown,27
+43,Graduate,Less than $40K,32
+46,High School,Less than $40K,41
+40,Graduate,$40K - $60K,27
+43,Graduate,Less than $40K,36
+49,Graduate,Less than $40K,43
+49,High School,Less than $40K,42
+47,Uneducated,Less than $40K,29
+44,College,Unknown,40
+42,High School,Less than $40K,23
+36,Uneducated,Less than $40K,30
+44,High School,$40K - $60K,31
+48,High School,Less than $40K,40
+47,High School,$60K - $80K,36
+46,High School,$40K - $60K,34
+34,Post-Graduate,Less than $40K,27
+45,Doctorate,Less than $40K,27
+39,Uneducated,Unknown,30
+49,Doctorate,$40K - $60K,31
+43,Graduate,$40K - $60K,36
+41,College,Less than $40K,35
+42,Graduate,Less than $40K,37
+43,High School,Less than $40K,24
+45,College,$40K - $60K,36
+44,Uneducated,Less than $40K,28
+44,High School,Less than $40K,40
+38,High School,Less than $40K,30
+43,High School,$80K - $120K,30
+48,Graduate,$60K - $80K,36
+42,College,$60K - $80K,35
+50,Uneducated,$120K +,36
+46,High School,Less than $40K,41
+33,Uneducated,Less than $40K,23
+37,Doctorate,$120K +,31
+43,High School,$60K - $80K,35
+42,Uneducated,$60K - $80K,34
+44,Uneducated,Less than $40K,32
+43,Graduate,$40K - $60K,31
+38,High School,Less than $40K,26
+49,Graduate,Less than $40K,43
+45,Doctorate,$80K - $120K,39
+40,College,$60K - $80K,28
+41,High School,$60K - $80K,33
+49,Post-Graduate,Less than $40K,43
+33,College,Less than $40K,36
+45,Uneducated,Unknown,40
+35,Doctorate,Less than $40K,27
+41,High School,Less than $40K,29
+48,High School,Unknown,44
+49,High School,$60K - $80K,36
+45,College,Less than $40K,40
+42,Graduate,Less than $40K,32
+41,Graduate,$120K +,32
+37,College,$40K - $60K,32
+44,Graduate,$60K - $80K,37
+46,Uneducated,Unknown,35
+45,Uneducated,Unknown,36
+43,High School,$60K - $80K,31
+40,High School,Less than $40K,35
+39,Doctorate,Less than $40K,32
+44,High School,Less than $40K,29
+49,Uneducated,Unknown,40
+41,High School,Less than $40K,21
+50,Graduate,$60K - $80K,45
+39,High School,Unknown,36
+48,College,$120K +,36
+50,Graduate,$120K +,41
+40,College,$40K - $60K,36
+47,Post-Graduate,$40K - $60K,40
+45,Uneducated,$120K +,35
+35,Uneducated,Unknown,25
+44,Uneducated,$60K - $80K,38
+41,Doctorate,Unknown,36
+42,Uneducated,Unknown,36
+45,High School,$40K - $60K,36
+50,Graduate,Less than $40K,41
+49,Graduate,Less than $40K,43
+47,Uneducated,$40K - $60K,36
+46,High School,Less than $40K,33
+44,Graduate,$40K - $60K,35
+43,Uneducated,Less than $40K,25
+42,Uneducated,$60K - $80K,36
+50,Uneducated,Less than $40K,36
+38,High School,$40K - $60K,25
+44,Graduate,Less than $40K,25
+46,Uneducated,$60K - $80K,30
+38,College,Less than $40K,36
+46,Graduate,$60K - $80K,34
+30,Graduate,Less than $40K,36
+49,Uneducated,Less than $40K,38
+37,College,Less than $40K,27
+44,High School,Less than $40K,32
+45,High School,$60K - $80K,32
+50,Graduate,$120K +,33
+45,Doctorate,$60K - $80K,37
+44,Uneducated,$60K - $80K,36
+47,Graduate,Less than $40K,36
+38,High School,$40K - $60K,36
+49,Graduate,$40K - $60K,30
+39,Graduate,$40K - $60K,25
+50,High School,$40K - $60K,40
+50,High School,$40K - $60K,43
+46,College,Less than $40K,38
+42,High School,Unknown,30
+49,High School,$80K - $120K,31
+45,Uneducated,$40K - $60K,36
+49,Graduate,Unknown,39
+41,High School,Less than $40K,36
+45,Graduate,Less than $40K,33
+44,Graduate,Less than $40K,31
+42,College,$60K - $80K,23
+37,Uneducated,$40K - $60K,27
+42,Graduate,$40K - $60K,23
+42,Post-Graduate,$80K - $120K,37
+48,High School,Less than $40K,36
+44,Graduate,Less than $40K,39
+44,College,$40K - $60K,27
+45,Uneducated,Less than $40K,36
+50,Graduate,Less than $40K,38
+46,Graduate,Less than $40K,40
+40,Graduate,Unknown,28
+34,High School,$40K - $60K,36
+48,Graduate,Unknown,41
+48,Graduate,Unknown,41
+47,Graduate,Less than $40K,30
+48,Graduate,Less than $40K,37
+41,Graduate,Less than $40K,24
+47,Uneducated,Unknown,35
+45,Graduate,Unknown,36
+26,Uneducated,Unknown,13
+46,College,Unknown,33
+49,College,Less than $40K,40
+41,Graduate,$60K - $80K,28
+46,College,Unknown,35
+42,Graduate,$40K - $60K,36
+46,College,Less than $40K,36
+42,High School,$40K - $60K,30
+43,Graduate,Less than $40K,34
+35,High School,Less than $40K,36
+42,College,Less than $40K,28
+48,Uneducated,$40K - $60K,42
+31,Uneducated,Less than $40K,20
+50,Post-Graduate,$60K - $80K,36
+35,Doctorate,Unknown,24
+46,Graduate,$120K +,34
+49,Graduate,Less than $40K,36
+50,Graduate,Less than $40K,36
+45,High School,Unknown,26
+45,Graduate,Less than $40K,33
+45,High School,Less than $40K,35
+45,High School,Less than $40K,36
+48,Graduate,Less than $40K,35
+42,Uneducated,Less than $40K,28
+43,Uneducated,Less than $40K,30
+37,Graduate,Less than $40K,31
+48,Uneducated,Unknown,38
+34,Graduate,Less than $40K,28
+50,Graduate,Less than $40K,45
+36,Doctorate,Less than $40K,25
+44,Graduate,Less than $40K,28
+47,Graduate,$80K - $120K,42
+45,Graduate,Less than $40K,35
+38,Uneducated,Less than $40K,25
+45,College,$60K - $80K,35
+34,High School,$80K - $120K,25
+44,Doctorate,Unknown,40
+47,Graduate,$60K - $80K,40
+43,Graduate,$40K - $60K,23
+41,College,$40K - $60K,32
+48,College,Unknown,40
+50,Uneducated,Less than $40K,34
+42,Uneducated,Less than $40K,24
+39,Graduate,Unknown,26
+46,Uneducated,$60K - $80K,33
+39,Doctorate,$60K - $80K,36
+40,Uneducated,Less than $40K,30
+43,Doctorate,$40K - $60K,35
+49,Graduate,$40K - $60K,32
+46,Uneducated,Unknown,28
+44,College,$80K - $120K,34
+47,Uneducated,$40K - $60K,36
+33,Graduate,$40K - $60K,20
+38,High School,$80K - $120K,29
+35,Graduate,Unknown,25
+45,College,Less than $40K,41
+41,Graduate,Less than $40K,28
+42,Uneducated,$40K - $60K,38
+45,Uneducated,Less than $40K,32
+45,Post-Graduate,Less than $40K,32
+40,High School,Less than $40K,28
+50,Post-Graduate,Unknown,46
+45,Graduate,Less than $40K,39
+42,College,$40K - $60K,35
+49,Graduate,Less than $40K,42
+48,Graduate,Less than $40K,40
+44,Post-Graduate,Less than $40K,32
+41,Graduate,Less than $40K,28
+45,Uneducated,Less than $40K,36
+48,Graduate,Less than $40K,36
+40,Uneducated,Less than $40K,27
+47,Graduate,$40K - $60K,36
+39,Uneducated,Less than $40K,35
+29,Uneducated,Less than $40K,21
+44,High School,Less than $40K,35
+46,High School,$40K - $60K,36
+40,Graduate,Less than $40K,36
+40,Uneducated,Less than $40K,27
+42,Uneducated,$40K - $60K,29
+38,Uneducated,Less than $40K,27
+49,High School,$80K - $120K,36
+38,College,Less than $40K,27
+44,Graduate,Unknown,26
+44,Uneducated,Less than $40K,37
+47,High School,Less than $40K,36
+50,High School,Less than $40K,42
+44,Graduate,Less than $40K,36
+39,Graduate,$60K - $80K,19
+42,High School,$60K - $80K,38
+48,Graduate,$40K - $60K,43
+47,Post-Graduate,$80K - $120K,35
+33,College,$40K - $60K,26
+36,Graduate,$40K - $60K,36
+39,Graduate,Less than $40K,21
+41,High School,Less than $40K,36
+29,College,Less than $40K,19
+39,High School,$40K - $60K,21
+49,High School,$60K - $80K,36
+43,Graduate,Less than $40K,36
+48,Graduate,$80K - $120K,33
+50,Post-Graduate,$60K - $80K,45
+47,Uneducated,$60K - $80K,41
+43,Graduate,$80K - $120K,38
+42,High School,$80K - $120K,36
+49,Graduate,Less than $40K,36
+47,Uneducated,Less than $40K,41
+44,Post-Graduate,$80K - $120K,32
+44,High School,$120K +,34
+41,Graduate,$40K - $60K,37
+49,High School,$60K - $80K,36
+42,College,Less than $40K,13
+50,High School,$80K - $120K,39
+48,Graduate,$60K - $80K,36
+44,Uneducated,$80K - $120K,33
+40,High School,$40K - $60K,35
+42,Graduate,$80K - $120K,36
+42,Graduate,Less than $40K,36
+42,High School,Less than $40K,36
+46,Uneducated,Less than $40K,37
+48,Post-Graduate,Less than $40K,36
+44,High School,$40K - $60K,36
+42,Post-Graduate,Less than $40K,28
+40,College,$60K - $80K,36
+45,Uneducated,$80K - $120K,35
+49,Graduate,$80K - $120K,43
+47,Uneducated,$60K - $80K,36
+45,High School,Less than $40K,32
+43,College,$60K - $80K,36
+42,Graduate,$60K - $80K,29
+42,High School,$80K - $120K,23
+43,College,Unknown,36
+40,High School,$60K - $80K,28
+50,College,Unknown,44
+49,Graduate,$40K - $60K,40
+44,Uneducated,$80K - $120K,31
+42,Graduate,Unknown,31
+43,High School,Less than $40K,36
+40,Uneducated,Less than $40K,30
+49,Doctorate,$80K - $120K,36
+38,High School,Unknown,27
+50,High School,Less than $40K,38
+42,High School,$60K - $80K,27
+43,High School,Unknown,30
+43,Graduate,Less than $40K,35
+50,Uneducated,Less than $40K,42
+48,High School,$120K +,40
+41,Graduate,$120K +,36
+44,High School,$60K - $80K,36
+44,College,$40K - $60K,39
+43,College,Less than $40K,37
+47,Post-Graduate,$80K - $120K,30
+47,Doctorate,$40K - $60K,39
+38,High School,$120K +,30
+46,High School,$40K - $60K,42
+41,Uneducated,$40K - $60K,36
+47,Graduate,$80K - $120K,41
+41,Graduate,$80K - $120K,30
+49,Uneducated,$40K - $60K,37
+44,Graduate,$80K - $120K,37
+48,Post-Graduate,Less than $40K,38
+44,Graduate,$60K - $80K,24
+50,Doctorate,Unknown,36
+49,High School,Unknown,36
+42,Uneducated,$80K - $120K,36
+46,Graduate,$40K - $60K,34
+41,College,$40K - $60K,32
+39,Doctorate,Less than $40K,27
+46,Graduate,Less than $40K,30
+45,Graduate,Less than $40K,31
+44,Graduate,Less than $40K,34
+47,High School,Unknown,31
+46,Uneducated,$60K - $80K,33
+38,Graduate,Less than $40K,31
+46,Graduate,Less than $40K,36
+47,College,$60K - $80K,41
+46,Doctorate,$60K - $80K,36
+45,Graduate,$40K - $60K,36
+50,High School,$40K - $60K,39
+43,High School,Less than $40K,36
+48,College,$40K - $60K,34
+50,Graduate,Less than $40K,43
+40,Graduate,$40K - $60K,36
+46,College,$40K - $60K,36
+45,College,$60K - $80K,35
+49,Graduate,Less than $40K,38
+47,Graduate,$80K - $120K,36
+47,Uneducated,$80K - $120K,36
+43,High School,$60K - $80K,33
+49,College,$80K - $120K,38
+40,College,$40K - $60K,28
+46,High School,$40K - $60K,32
+41,High School,$80K - $120K,28
+50,High School,$120K +,40
+44,High School,$120K +,36
+49,Uneducated,$60K - $80K,36
+47,Doctorate,$40K - $60K,42
+50,Uneducated,$80K - $120K,35
+44,Graduate,$120K +,36
+48,Graduate,$60K - $80K,37
+47,College,$60K - $80K,39
+43,Uneducated,$60K - $80K,31
+40,High School,$80K - $120K,26
+41,Graduate,$80K - $120K,33
+46,High School,Less than $40K,36
+47,High School,Unknown,42
+44,Graduate,$60K - $80K,36
+39,Uneducated,$80K - $120K,31
+46,High School,$40K - $60K,36
+44,Graduate,$40K - $60K,36
+50,Graduate,Less than $40K,40
+44,Doctorate,$80K - $120K,38
+46,Graduate,Less than $40K,36
+49,Uneducated,$120K +,38
+47,Post-Graduate,Unknown,38
+39,Post-Graduate,$80K - $120K,29
+46,Uneducated,Less than $40K,35
+43,College,Less than $40K,34
+44,Graduate,$60K - $80K,32
+48,High School,$40K - $60K,42
+41,Uneducated,$80K - $120K,28
+45,Post-Graduate,Less than $40K,36
+44,Post-Graduate,$80K - $120K,36
+39,Uneducated,$60K - $80K,29
+40,Doctorate,Less than $40K,36
+41,Graduate,$120K +,36
+50,High School,$120K +,41
+50,Uneducated,Less than $40K,36
+49,Graduate,$80K - $120K,39
+49,Graduate,$120K +,40
+41,Graduate,$80K - $120K,37
+36,Uneducated,$40K - $60K,16
+42,Graduate,$60K - $80K,33
+49,College,Less than $40K,38
+41,Graduate,$60K - $80K,36
+49,Uneducated,$80K - $120K,39
+46,Doctorate,$120K +,31
+43,Post-Graduate,$40K - $60K,36
+48,Post-Graduate,Unknown,37
+41,High School,$120K +,32
+49,Uneducated,$80K - $120K,45
+47,Uneducated,$40K - $60K,42
+40,Graduate,Unknown,24
+46,Graduate,Unknown,36
+42,Graduate,Less than $40K,33
+46,Graduate,Less than $40K,36
+41,College,Less than $40K,31
+47,Uneducated,$80K - $120K,38
+43,Post-Graduate,$40K - $60K,25
+47,Graduate,Less than $40K,40
+44,Graduate,$80K - $120K,29
+45,Uneducated,$80K - $120K,33
+40,High School,$40K - $60K,32
+50,Uneducated,Unknown,34
+47,Uneducated,Unknown,35
+44,High School,Less than $40K,36
+50,Graduate,$80K - $120K,42
+49,Post-Graduate,$60K - $80K,42
+49,Graduate,Less than $40K,36
+39,Uneducated,Less than $40K,31
+43,High School,$120K +,30
+43,High School,Less than $40K,35
+45,Graduate,Unknown,36
+47,College,Unknown,36
+45,College,Less than $40K,36
+34,Graduate,Unknown,16
+33,Doctorate,Less than $40K,24
+42,College,$40K - $60K,27
+49,Graduate,$80K - $120K,36
+39,Graduate,Less than $40K,30
+40,College,$40K - $60K,28
+46,College,$80K - $120K,32
+44,Graduate,Less than $40K,26
+46,Graduate,$80K - $120K,39
+37,High School,$80K - $120K,19
+45,High School,$60K - $80K,25
+44,Graduate,Less than $40K,40
+47,Graduate,Less than $40K,43
+45,High School,Less than $40K,33
+46,Graduate,Less than $40K,27
+43,High School,Less than $40K,38
+46,High School,Less than $40K,36
+41,Graduate,$60K - $80K,31
+49,Graduate,$60K - $80K,42
+46,Graduate,$40K - $60K,37
+43,Post-Graduate,$40K - $60K,31
+49,High School,$80K - $120K,40
+41,Uneducated,$120K +,24
+37,High School,$80K - $120K,36
+50,Doctorate,$120K +,39
+40,Uneducated,$120K +,36
+45,High School,$40K - $60K,36
+48,College,Less than $40K,41
+39,High School,Less than $40K,33
+49,College,Less than $40K,36
+43,Graduate,Less than $40K,38
+45,Graduate,$60K - $80K,31
+38,High School,$120K +,30
+39,Graduate,$40K - $60K,23
+49,Graduate,Less than $40K,38
+45,Graduate,$120K +,38
+40,Doctorate,Less than $40K,29
+49,College,$60K - $80K,35
+48,Post-Graduate,$80K - $120K,38
+43,Graduate,Unknown,36
+42,Graduate,$120K +,36
+49,High School,$120K +,36
+43,Uneducated,$120K +,36
+45,High School,$80K - $120K,34
+38,Graduate,Less than $40K,29
+44,Uneducated,$120K +,33
+45,Graduate,$120K +,34
+41,Graduate,$80K - $120K,29
+49,Uneducated,Less than $40K,37
+50,Graduate,$120K +,42
+42,Graduate,$120K +,32
+45,Doctorate,$40K - $60K,36
+41,Post-Graduate,$80K - $120K,36
+44,College,Less than $40K,32
+48,Graduate,$80K - $120K,36
+40,Uneducated,$60K - $80K,30
+49,High School,$80K - $120K,39
+43,Graduate,$80K - $120K,35
+44,High School,Unknown,36
+49,Graduate,$60K - $80K,45
+38,College,$120K +,26
+49,Graduate,$120K +,36
+47,Graduate,$40K - $60K,35
+46,Uneducated,$80K - $120K,36
+44,Graduate,$60K - $80K,34
+41,Graduate,Less than $40K,36
+42,Post-Graduate,$60K - $80K,36
+44,Uneducated,Unknown,33
+47,Uneducated,$120K +,29
+45,Graduate,$60K - $80K,35
+50,High School,$80K - $120K,31
+41,High School,$60K - $80K,32
+45,College,$40K - $60K,31
+40,Post-Graduate,$40K - $60K,28
+43,College,$80K - $120K,34
+49,Graduate,Less than $40K,43
+47,College,Less than $40K,34
+43,High School,$40K - $60K,35
+44,Uneducated,Less than $40K,36
+42,Graduate,Unknown,36
+44,High School,$40K - $60K,32
+42,Post-Graduate,$60K - $80K,27
+40,Graduate,Less than $40K,30
+50,Doctorate,Less than $40K,40
+50,Post-Graduate,$80K - $120K,38
+46,College,$120K +,40
+45,Uneducated,$60K - $80K,32
+50,Graduate,$80K - $120K,45
+48,College,$80K - $120K,40
+50,High School,Less than $40K,35
+46,College,$60K - $80K,37
+46,High School,$40K - $60K,42
+40,Post-Graduate,$120K +,26
+43,Graduate,$80K - $120K,36
+48,Graduate,$60K - $80K,36
+38,Uneducated,$80K - $120K,22
+46,High School,$120K +,42
+44,Uneducated,$40K - $60K,40
+39,College,$40K - $60K,32
+50,College,$60K - $80K,42
+41,Graduate,Less than $40K,31
+49,Graduate,Less than $40K,37
+42,Graduate,$80K - $120K,36
+46,Uneducated,$60K - $80K,35
+44,Graduate,$80K - $120K,36
+38,College,Less than $40K,32
+50,Graduate,$60K - $80K,37
+47,Graduate,Less than $40K,36
+38,Uneducated,$80K - $120K,36
+45,High School,$60K - $80K,36
+35,High School,Unknown,26
+44,Graduate,$60K - $80K,24
+40,Graduate,$80K - $120K,30
+45,Uneducated,$40K - $60K,27
+44,Graduate,Less than $40K,17
+47,Graduate,$120K +,42
+45,High School,Unknown,40
+48,High School,Less than $40K,30
+40,Uneducated,Less than $40K,34
+50,Graduate,$80K - $120K,35
+38,College,Less than $40K,32
+43,College,$40K - $60K,32
+45,Graduate,Less than $40K,38
+49,Uneducated,$120K +,38
+44,High School,$80K - $120K,36
+46,Post-Graduate,$40K - $60K,36
+40,Graduate,$40K - $60K,36
+45,Graduate,$80K - $120K,40
+50,Uneducated,$40K - $60K,43
+45,Graduate,Less than $40K,40
+38,High School,$40K - $60K,26
+44,Doctorate,$40K - $60K,30
+42,Uneducated,$40K - $60K,37
+44,High School,$60K - $80K,39
+48,Graduate,$60K - $80K,37
+48,Graduate,$80K - $120K,40
+47,Graduate,$40K - $60K,42
+49,Graduate,$120K +,29
+47,College,$40K - $60K,41
+47,Uneducated,$80K - $120K,41
+45,Doctorate,$120K +,36
+49,Graduate,Less than $40K,39
+44,Uneducated,Less than $40K,36
+50,Post-Graduate,$80K - $120K,36
+44,Uneducated,Less than $40K,36
+39,High School,$80K - $120K,27
+38,High School,$60K - $80K,18
+41,High School,$80K - $120K,28
+43,Post-Graduate,$60K - $80K,34
+40,High School,$60K - $80K,28
+44,Post-Graduate,$60K - $80K,34
+48,Graduate,$60K - $80K,37
+44,College,$40K - $60K,36
+45,Graduate,Less than $40K,32
+37,Graduate,$40K - $60K,25
+43,High School,$60K - $80K,37
+48,Uneducated,$40K - $60K,39
+46,Uneducated,$60K - $80K,35
+44,High School,$60K - $80K,36
+48,Uneducated,$40K - $60K,40
+46,College,$40K - $60K,41
+45,Uneducated,$40K - $60K,40
+43,Graduate,Less than $40K,32
+40,High School,$40K - $60K,34
+49,High School,$120K +,39
+47,College,$60K - $80K,35
+42,Graduate,$80K - $120K,38
+47,College,$80K - $120K,39
+49,Uneducated,$80K - $120K,31
+43,Graduate,$40K - $60K,37
+46,High School,Less than $40K,37
+43,Graduate,$40K - $60K,35
+31,Uneducated,Less than $40K,23
+43,Graduate,$80K - $120K,32
+39,Uneducated,$80K - $120K,36
+45,Graduate,$60K - $80K,31
+41,Graduate,$60K - $80K,29
+39,Uneducated,Unknown,35
+49,Graduate,$40K - $60K,36
+45,Graduate,$40K - $60K,38
+45,High School,$40K - $60K,37
+45,High School,$40K - $60K,33
+40,Graduate,Less than $40K,31
+44,Graduate,$80K - $120K,37
+30,High School,$60K - $80K,16
+47,Post-Graduate,Less than $40K,27
+46,Uneducated,Unknown,34
+43,Uneducated,Less than $40K,30
+49,Graduate,$80K - $120K,29
+47,Graduate,$40K - $60K,29
+41,High School,$40K - $60K,36
+44,Graduate,Less than $40K,31
+39,College,$60K - $80K,26
+43,Graduate,$60K - $80K,28
+32,High School,$60K - $80K,36
+41,High School,$40K - $60K,36
+43,Graduate,Less than $40K,33
+32,Graduate,$40K - $60K,36
+47,High School,Less than $40K,41
+46,Graduate,$80K - $120K,33
+41,Graduate,$120K +,37
+48,Graduate,Unknown,43
+45,High School,Less than $40K,36
+41,Uneducated,$120K +,36
+37,Graduate,Less than $40K,32
+44,High School,$60K - $80K,29
+36,Graduate,Less than $40K,30
+47,Graduate,Less than $40K,41
+49,Uneducated,$60K - $80K,38
+45,Uneducated,$40K - $60K,28
+45,High School,$80K - $120K,25
+44,Uneducated,$80K - $120K,36
+38,High School,$40K - $60K,27
+46,Doctorate,$60K - $80K,31
+41,Uneducated,Unknown,32
+48,Doctorate,$40K - $60K,36
+39,Graduate,$40K - $60K,29
+48,Graduate,Less than $40K,37
+41,Graduate,$40K - $60K,36
+49,High School,$40K - $60K,36
+37,Graduate,$60K - $80K,28
+43,Uneducated,$80K - $120K,36
+31,Uneducated,Less than $40K,22
+40,High School,Less than $40K,36
+49,Uneducated,Less than $40K,45
+44,Graduate,$80K - $120K,36
+43,Graduate,Less than $40K,37
+35,High School,$80K - $120K,26
+40,Graduate,$40K - $60K,32
+29,High School,$40K - $60K,36
+37,Graduate,$60K - $80K,28
+32,Uneducated,$60K - $80K,36
+44,Graduate,Unknown,34
+47,College,$80K - $120K,41
+45,Graduate,$120K +,36
+46,Graduate,$60K - $80K,41
+34,Graduate,Less than $40K,36
+39,High School,Less than $40K,36
+46,College,$120K +,36
+50,High School,$80K - $120K,36
+45,Uneducated,Less than $40K,27
+50,Uneducated,$120K +,38
+41,Graduate,$80K - $120K,29
+42,Graduate,Less than $40K,32
+31,Graduate,Less than $40K,21
+45,Uneducated,$80K - $120K,34
+28,Uneducated,Less than $40K,20
+44,Graduate,Less than $40K,38
+48,College,Less than $40K,39
+44,Graduate,$60K - $80K,39
+40,Graduate,Less than $40K,30
+47,Graduate,$60K - $80K,36
+50,High School,Unknown,40
+46,Graduate,$80K - $120K,36
+49,Graduate,$60K - $80K,38
+41,Post-Graduate,$40K - $60K,36
+41,Doctorate,$40K - $60K,33
+46,Uneducated,$80K - $120K,36
+36,Uneducated,Less than $40K,32
+49,Post-Graduate,$120K +,41
+45,Graduate,$40K - $60K,35
+48,High School,Unknown,31
+46,Graduate,Unknown,36
+30,College,Less than $40K,36
+49,Graduate,Less than $40K,44
+31,Post-Graduate,Less than $40K,21
+35,High School,$40K - $60K,27
+49,Graduate,$40K - $60K,36
+40,Graduate,$60K - $80K,23
+41,High School,Unknown,30
+37,Uneducated,Less than $40K,26
+45,Graduate,$40K - $60K,40
+47,Uneducated,Less than $40K,36
+44,Uneducated,$80K - $120K,36
+45,Graduate,$40K - $60K,40
+31,High School,$60K - $80K,24
+32,High School,$40K - $60K,36
+42,Graduate,$80K - $120K,31
+39,Post-Graduate,$60K - $80K,36
+40,Graduate,$40K - $60K,27
+38,Uneducated,Less than $40K,36
+41,College,$60K - $80K,31
+27,College,$80K - $120K,19
+50,Graduate,$40K - $60K,41
+40,High School,$80K - $120K,36
+41,Graduate,Less than $40K,30
+44,Uneducated,$120K +,36
+47,Uneducated,$40K - $60K,34
+47,College,Less than $40K,40
+46,Graduate,$120K +,39
+42,Graduate,$60K - $80K,37
+33,Graduate,$60K - $80K,15
+47,Post-Graduate,$60K - $80K,39
+46,Graduate,$80K - $120K,39
+32,Graduate,$120K +,22
+45,College,$60K - $80K,34
+45,Uneducated,$60K - $80K,36
+30,College,$60K - $80K,24
+44,High School,$120K +,31
+40,Graduate,Less than $40K,36
+31,Graduate,$80K - $120K,36
+40,Uneducated,Less than $40K,35
+29,Post-Graduate,$60K - $80K,15
+38,High School,$120K +,27
+27,Graduate,Less than $40K,36
+38,Graduate,Less than $40K,26
+48,High School,Less than $40K,36
+44,High School,Less than $40K,34
+49,Uneducated,$60K - $80K,44
+36,College,$40K - $60K,23
+30,College,$60K - $80K,25
+42,High School,$80K - $120K,36
+45,Graduate,Less than $40K,36
+31,Graduate,$80K - $120K,22
+48,Graduate,$40K - $60K,42
+32,Graduate,$80K - $120K,36
+46,High School,Less than $40K,36
+30,Graduate,Less than $40K,18
+48,High School,$80K - $120K,36
+39,Graduate,Unknown,35
+43,High School,$40K - $60K,32
+48,Graduate,$120K +,36
+50,High School,Less than $40K,41
+48,Graduate,$80K - $120K,36
+39,College,Less than $40K,20
+43,Uneducated,$80K - $120K,24
+47,Uneducated,$60K - $80K,35
+38,Post-Graduate,$80K - $120K,36
+38,Uneducated,Less than $40K,28
+32,High School,$40K - $60K,36
+41,Uneducated,$80K - $120K,32
+50,Graduate,$120K +,35
+38,Doctorate,Less than $40K,36
+40,College,Less than $40K,36
+45,High School,$120K +,36
+42,Graduate,$80K - $120K,36
+46,Post-Graduate,$80K - $120K,26
+45,Graduate,$60K - $80K,33
+40,Graduate,$80K - $120K,20
+34,High School,Unknown,26
+48,Uneducated,$60K - $80K,36
+45,Graduate,Less than $40K,40
+42,High School,$60K - $80K,36
+35,Post-Graduate,$60K - $80K,24
+32,Post-Graduate,$40K - $60K,14
+34,High School,$60K - $80K,36
+33,Post-Graduate,$80K - $120K,24
+40,College,$40K - $60K,31
+43,Uneducated,$60K - $80K,30
+29,Uneducated,$40K - $60K,22
+42,Graduate,$40K - $60K,37
+48,Graduate,$80K - $120K,28
+41,College,$80K - $120K,33
+42,Uneducated,$40K - $60K,33
+32,Graduate,$60K - $80K,36
+43,Graduate,$120K +,34
+50,Graduate,$60K - $80K,37
+44,Doctorate,$80K - $120K,27
+36,High School,$120K +,36
+44,Uneducated,$40K - $60K,34
+47,Post-Graduate,Less than $40K,28
+45,College,$40K - $60K,30
+37,Doctorate,$60K - $80K,36
+43,High School,$80K - $120K,35
+31,High School,$40K - $60K,26
+41,High School,$80K - $120K,33
+41,College,$80K - $120K,28
+48,Graduate,$80K - $120K,43
+42,Graduate,$60K - $80K,36
+34,Graduate,Less than $40K,23
+38,Graduate,$60K - $80K,25
+44,Post-Graduate,$40K - $60K,36
+39,Graduate,$60K - $80K,24
+42,Post-Graduate,$40K - $60K,36
+35,College,$80K - $120K,29
+42,Graduate,$80K - $120K,31
+30,Graduate,Less than $40K,18
+37,Uneducated,$80K - $120K,18
+37,Graduate,Less than $40K,19
+43,Graduate,$80K - $120K,36
+34,High School,$80K - $120K,21
+31,Graduate,$80K - $120K,19
+47,Doctorate,Less than $40K,35
+43,Post-Graduate,$40K - $60K,37
+41,Graduate,Less than $40K,13
+48,Graduate,Less than $40K,36
+41,High School,Less than $40K,24
+40,Uneducated,$80K - $120K,36
+32,Uneducated,$40K - $60K,36
+50,Graduate,$80K - $120K,43
+37,Doctorate,Less than $40K,36
+31,High School,$60K - $80K,24
+48,Uneducated,$60K - $80K,39
+44,Graduate,$40K - $60K,32
+44,Graduate,$40K - $60K,34
+31,Graduate,Less than $40K,19
+46,Uneducated,$120K +,32
+29,Uneducated,$40K - $60K,23
+37,Post-Graduate,Less than $40K,28
+32,Graduate,$40K - $60K,24
+41,Graduate,$80K - $120K,36
+50,Graduate,Less than $40K,37
+29,Graduate,$80K - $120K,36
+32,High School,Less than $40K,25
+48,Graduate,Less than $40K,36
+33,Graduate,Less than $40K,24
+46,High School,$40K - $60K,32
+32,Uneducated,$80K - $120K,15
+50,Graduate,Less than $40K,38
+28,Post-Graduate,Less than $40K,14
+44,Graduate,$40K - $60K,40
+43,High School,$60K - $80K,31
+50,Graduate,$40K - $60K,36
+39,College,Less than $40K,36
+42,Graduate,$40K - $60K,36
+44,Graduate,$60K - $80K,29
+44,High School,Less than $40K,30
+46,Uneducated,$80K - $120K,33
+39,High School,$80K - $120K,34
+45,Post-Graduate,$40K - $60K,30
+41,Graduate,Less than $40K,21
+42,High School,Less than $40K,37
+38,College,Less than $40K,28
+36,High School,$80K - $120K,30
+43,High School,$40K - $60K,25
+50,Graduate,Unknown,45
+49,Graduate,$80K - $120K,36
+48,Graduate,$80K - $120K,34
+45,Graduate,$80K - $120K,32
+39,Graduate,$60K - $80K,36
+47,Uneducated,$40K - $60K,39
+49,Graduate,Unknown,42
+40,Uneducated,$80K - $120K,30
+45,Graduate,$80K - $120K,36
+49,Uneducated,$80K - $120K,36
+48,Post-Graduate,Less than $40K,36
+44,Graduate,$60K - $80K,36
+29,Uneducated,Less than $40K,36
+42,Uneducated,$80K - $120K,35
+45,Graduate,Less than $40K,39
+45,High School,Less than $40K,36
+46,College,$80K - $120K,39
+32,Uneducated,$80K - $120K,20
+38,High School,$80K - $120K,31
+50,High School,Unknown,40
+42,College,$80K - $120K,36
+46,Uneducated,$60K - $80K,27
+40,Graduate,$60K - $80K,33
+49,Uneducated,$120K +,38
+44,Graduate,Unknown,36
+32,High School,$40K - $60K,19
+48,Graduate,$40K - $60K,38
+42,Graduate,$80K - $120K,31
+42,Uneducated,$120K +,28
+29,Post-Graduate,Less than $40K,36
+43,Graduate,$80K - $120K,32
+45,Graduate,$60K - $80K,38
+46,High School,$80K - $120K,36
+41,Doctorate,Unknown,28
+50,Graduate,Unknown,40
+32,High School,Unknown,21
+48,Uneducated,Unknown,36
+34,Post-Graduate,$40K - $60K,28
+40,Uneducated,$80K - $120K,36
+45,High School,$60K - $80K,35
+30,College,$60K - $80K,36
+38,High School,Less than $40K,31
+42,Doctorate,$60K - $80K,31
+50,Uneducated,$60K - $80K,30
+49,College,$60K - $80K,35
+39,Graduate,Less than $40K,26
+48,Uneducated,$40K - $60K,28
+36,Graduate,Less than $40K,23
+47,High School,$40K - $60K,40
+27,Graduate,$40K - $60K,21
+42,Uneducated,$120K +,23
+50,Post-Graduate,Less than $40K,36
+50,Graduate,$80K - $120K,39
+30,Uneducated,Less than $40K,13
+43,Post-Graduate,$60K - $80K,36
+41,Uneducated,Less than $40K,36
+42,Graduate,$60K - $80K,36
+36,High School,$120K +,36
+27,High School,Unknown,15
+34,Graduate,$40K - $60K,36
+49,Uneducated,$80K - $120K,39
+39,College,Less than $40K,19
+35,Post-Graduate,$80K - $120K,28
+47,Uneducated,$60K - $80K,36
+47,Uneducated,Unknown,33
+39,High School,$80K - $120K,29
+50,High School,$120K +,41
+41,Uneducated,$40K - $60K,27
+50,Graduate,$80K - $120K,40
+41,College,$60K - $80K,36
+44,Post-Graduate,Less than $40K,33
+36,Graduate,$60K - $80K,24
+31,Graduate,Less than $40K,36
+49,Graduate,Less than $40K,36
+40,College,Less than $40K,36
+49,High School,Unknown,30
+29,High School,$60K - $80K,16
+46,College,$60K - $80K,39
+49,Graduate,Unknown,36
+50,College,$60K - $80K,36
+47,High School,$60K - $80K,41
+45,Graduate,Less than $40K,36
+39,College,$80K - $120K,36
+35,Doctorate,Less than $40K,27
+40,Uneducated,Unknown,29
+49,Post-Graduate,$120K +,38
+32,Graduate,$40K - $60K,20
+46,Graduate,$40K - $60K,27
+43,Graduate,$60K - $80K,25
+38,Uneducated,$40K - $60K,18
+44,College,$60K - $80K,34
+47,High School,Unknown,42
+32,College,$60K - $80K,24
+41,High School,Less than $40K,31
+31,Post-Graduate,Unknown,36
+45,Uneducated,Less than $40K,37
+50,Graduate,Less than $40K,38
+31,Graduate,$60K - $80K,24
+47,Graduate,$80K - $120K,36
+42,Graduate,$60K - $80K,30
+48,Graduate,Less than $40K,38
+45,Uneducated,$80K - $120K,37
+48,Uneducated,Less than $40K,44
+45,Doctorate,$60K - $80K,34
+41,High School,Less than $40K,36
+43,Post-Graduate,$60K - $80K,31
+49,Post-Graduate,$80K - $120K,42
+39,Uneducated,$120K +,19
+50,Graduate,Unknown,36
+38,Graduate,Less than $40K,27
+43,Uneducated,$40K - $60K,36
+39,Uneducated,Less than $40K,34
+38,High School,$40K - $60K,19
+37,Graduate,Less than $40K,28
+34,Uneducated,$60K - $80K,18
+50,College,$80K - $120K,36
+41,Doctorate,$80K - $120K,29
+49,Post-Graduate,Less than $40K,37
+37,Uneducated,$120K +,17
+46,Graduate,$120K +,28
+48,High School,Unknown,36
+31,Graduate,$80K - $120K,19
+40,Uneducated,Less than $40K,33
+37,Uneducated,Less than $40K,29
+45,Uneducated,$80K - $120K,36
+32,High School,Less than $40K,16
+31,Graduate,$40K - $60K,36
+43,Graduate,Less than $40K,38
+42,Graduate,Less than $40K,35
+43,Graduate,$80K - $120K,38
+39,Graduate,Less than $40K,34
+46,Graduate,$40K - $60K,38
+32,High School,Less than $40K,36
+49,Uneducated,Unknown,36
+32,Post-Graduate,$60K - $80K,25
+49,Graduate,$80K - $120K,43
+38,Uneducated,$80K - $120K,29
+47,Graduate,$40K - $60K,34
+31,Post-Graduate,Less than $40K,21
+49,Uneducated,Less than $40K,44
+49,Graduate,Less than $40K,36
+39,Graduate,$80K - $120K,36
+44,High School,$120K +,36
+32,High School,$80K - $120K,26
+48,Graduate,Less than $40K,36
+31,College,Unknown,24
+44,Graduate,Unknown,36
+49,College,$80K - $120K,44
+29,Graduate,$120K +,22
+41,High School,Less than $40K,32
+46,High School,$120K +,31
+47,High School,Less than $40K,36
+43,Uneducated,$120K +,36
+43,Doctorate,Less than $40K,30
+43,Uneducated,$120K +,37
+45,College,$40K - $60K,36
+31,Post-Graduate,Less than $40K,36
+48,College,$60K - $80K,44
+42,Graduate,$40K - $60K,32
+46,High School,$60K - $80K,38
+48,High School,Less than $40K,40
+38,Uneducated,$120K +,21
+41,Graduate,$80K - $120K,31
+45,Graduate,$120K +,41
+43,Uneducated,Less than $40K,24
+47,College,$40K - $60K,37
+34,Graduate,$80K - $120K,24
+35,Graduate,$80K - $120K,21
+32,Graduate,Less than $40K,23
+41,Post-Graduate,$40K - $60K,28
+50,Post-Graduate,$120K +,36
+39,Graduate,$40K - $60K,28
+33,College,$80K - $120K,22
+37,Graduate,$80K - $120K,17
+28,Post-Graduate,Unknown,13
+49,Graduate,Less than $40K,44
+39,High School,$80K - $120K,13
+45,High School,Less than $40K,36
+29,High School,$40K - $60K,36
+39,Post-Graduate,$40K - $60K,31
+43,College,Less than $40K,33
+27,Uneducated,Less than $40K,19
+43,Graduate,$60K - $80K,35
+37,Graduate,$60K - $80K,31
+47,Graduate,Unknown,42
+48,Doctorate,Less than $40K,38
+43,College,$40K - $60K,30
+41,High School,Less than $40K,36
+49,Graduate,$80K - $120K,40
+28,Graduate,Unknown,15
+38,High School,$60K - $80K,31
+50,Graduate,$120K +,41
+31,High School,Less than $40K,21
+35,Uneducated,Less than $40K,21
+48,Uneducated,$40K - $60K,39
+30,Graduate,$40K - $60K,23
+36,High School,$120K +,36
+29,High School,$60K - $80K,17
+44,Uneducated,$60K - $80K,37
+47,Post-Graduate,$60K - $80K,36
+45,Graduate,$40K - $60K,26
+42,Doctorate,Unknown,30
+29,Graduate,Less than $40K,36
+37,Graduate,Less than $40K,24
+45,High School,$80K - $120K,39
+34,Graduate,$40K - $60K,23
+50,College,Less than $40K,40
+44,Doctorate,$60K - $80K,36
+42,Graduate,$40K - $60K,30
+44,College,$80K - $120K,31
+42,Graduate,$40K - $60K,34
+47,Post-Graduate,Less than $40K,30
+42,High School,$40K - $60K,30
+46,High School,$60K - $80K,34
+49,High School,$60K - $80K,30
+43,College,$40K - $60K,36
+47,High School,$60K - $80K,32
+45,College,$80K - $120K,31
+45,High School,Unknown,34
+34,Uneducated,$40K - $60K,20
+43,Uneducated,$80K - $120K,31
+50,High School,$80K - $120K,36
+44,Uneducated,$80K - $120K,25
+38,Graduate,Less than $40K,28
+48,Post-Graduate,$40K - $60K,37
+31,Graduate,Less than $40K,21
+32,Graduate,Unknown,27
+49,College,$40K - $60K,40
+44,High School,Less than $40K,36
+31,Graduate,Less than $40K,13
+47,Post-Graduate,$120K +,35
+40,High School,$80K - $120K,29
+50,Graduate,$80K - $120K,36
+35,Graduate,$60K - $80K,36
+42,High School,$80K - $120K,36
+40,Uneducated,Less than $40K,36
+48,Graduate,$60K - $80K,33
+27,Graduate,Less than $40K,13
+31,Uneducated,Unknown,36
+37,Graduate,$80K - $120K,25
+50,Graduate,$60K - $80K,34
+49,High School,$80K - $120K,40
+42,College,Unknown,31
+29,Graduate,$60K - $80K,17
+45,Uneducated,$40K - $60K,36
+32,Graduate,$40K - $60K,19
+30,Uneducated,$60K - $80K,13
+39,Graduate,Less than $40K,31
+49,Doctorate,$120K +,34
+38,High School,Less than $40K,36
+36,Graduate,$60K - $80K,13
+31,College,$40K - $60K,36
+35,Graduate,Less than $40K,28
+39,Post-Graduate,$80K - $120K,32
+32,Graduate,Less than $40K,36
+50,High School,$80K - $120K,43
+44,Uneducated,$40K - $60K,34
+32,High School,Less than $40K,23
+45,Uneducated,$120K +,36
+44,Uneducated,$40K - $60K,36
+40,Uneducated,$80K - $120K,34
+39,Graduate,$80K - $120K,31
+48,Uneducated,$40K - $60K,35
+43,Graduate,$40K - $60K,38
+32,Graduate,Less than $40K,36
+40,Uneducated,Less than $40K,34
+36,Uneducated,$60K - $80K,19
+48,High School,$60K - $80K,36
+39,Graduate,Unknown,30
+40,Graduate,$120K +,33
+46,High School,Less than $40K,36
+41,College,$40K - $60K,29
+41,Post-Graduate,$40K - $60K,36
+38,Uneducated,$80K - $120K,25
+41,Uneducated,Less than $40K,30
+45,Doctorate,Less than $40K,39
+37,Post-Graduate,$40K - $60K,28
+40,High School,$60K - $80K,33
+46,Doctorate,Less than $40K,36
+30,High School,Unknown,22
+50,High School,$80K - $120K,41
+38,College,$60K - $80K,32
+46,High School,$120K +,34
+43,Doctorate,$80K - $120K,27
+40,Uneducated,Less than $40K,35
+49,High School,$60K - $80K,42
+30,College,Less than $40K,19
+47,Doctorate,Unknown,36
+33,College,$40K - $60K,20
+30,High School,Less than $40K,23
+43,Graduate,$120K +,36
+43,Graduate,$60K - $80K,28
+32,Graduate,Less than $40K,20
+39,Graduate,Less than $40K,30
+38,High School,$60K - $80K,36
+49,Uneducated,$80K - $120K,30
+48,High School,$80K - $120K,40
+48,College,Unknown,36
+49,High School,$40K - $60K,36
+46,High School,$40K - $60K,40
+40,Graduate,Less than $40K,30
+48,Doctorate,$80K - $120K,33
+44,High School,Unknown,34
+30,Graduate,Unknown,18
+46,Graduate,$60K - $80K,34
+50,High School,$120K +,42
+43,Graduate,Less than $40K,37
+42,Graduate,Less than $40K,34
+36,Graduate,Less than $40K,16
+42,Graduate,$40K - $60K,36
+49,High School,Less than $40K,40
+39,High School,Less than $40K,32
+41,Graduate,Less than $40K,36
+48,Graduate,$60K - $80K,32
+50,Doctorate,Unknown,36
+32,College,$60K - $80K,16
+38,Doctorate,Less than $40K,33
+45,Graduate,$60K - $80K,38
+48,College,$80K - $120K,44
+49,Uneducated,$120K +,30
+37,High School,$60K - $80K,31
+31,Post-Graduate,$40K - $60K,24
+46,Uneducated,$40K - $60K,36
+33,Doctorate,Less than $40K,15
+30,Graduate,Less than $40K,36
+40,Uneducated,Less than $40K,33
+50,Uneducated,$120K +,40
+43,Graduate,$80K - $120K,35
+49,Graduate,$40K - $60K,36
+44,High School,Less than $40K,31
+29,College,$40K - $60K,17
+43,High School,Less than $40K,31
+38,High School,$60K - $80K,25
+49,Uneducated,$40K - $60K,36
+44,Uneducated,Less than $40K,36
+31,Graduate,Less than $40K,14
+47,High School,$80K - $120K,40
+44,Doctorate,$80K - $120K,33
+50,High School,$60K - $80K,40
+43,Graduate,$80K - $120K,36
+41,Graduate,$40K - $60K,36
+40,High School,$60K - $80K,36
+45,Graduate,$60K - $80K,36
+42,High School,Less than $40K,30
+50,Graduate,$40K - $60K,40
+42,Uneducated,Unknown,23
+46,Graduate,Less than $40K,34
+49,Uneducated,$120K +,38
+43,High School,$80K - $120K,39
+45,Graduate,$40K - $60K,35
+45,Graduate,$60K - $80K,33
+40,Graduate,Unknown,25
+38,High School,$60K - $80K,28
+31,High School,$40K - $60K,25
+39,Graduate,$60K - $80K,36
+42,Graduate,$40K - $60K,30
+33,Uneducated,Less than $40K,36
+47,Graduate,$80K - $120K,39
+47,High School,Less than $40K,35
+49,Graduate,$60K - $80K,40
+33,College,$120K +,20
+27,High School,$60K - $80K,36
+29,Graduate,Less than $40K,15
+38,Uneducated,$40K - $60K,36
+46,College,$80K - $120K,36
+50,Graduate,$40K - $60K,40
+44,High School,Less than $40K,36
+30,Graduate,$40K - $60K,36
+43,Graduate,Less than $40K,25

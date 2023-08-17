@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession
 
 #Using this function as spark instance
 def spark_inst():
-    return SparkSession.builder.master('local[*]') \
+    return SparkSession.builder.master('spark://spark-master-5688d7ff8d-4rzsf:7077') \
     .appName('Spark') \
     .config("spark.jars", "/opt/spark-apps/test_db/postgresql-42.6.0.jar") \
     .getOrCreate()
