@@ -4,7 +4,9 @@ FROM openjdk:8-jre-slim-buster as builder
 # Add Dependencies for PySpark
 RUN apt-get update && apt-get install -y curl vim wget software-properties-common ssh net-tools ca-certificates python3 python3-pip python python-pip python3-numpy python3-matplotlib python3-scipy python3-pandas python3-simpy
 
-RUN update-alternatives --install "/usr/bin/python" "python" "$(which python3)" 1
+# Update Python to version >= 3.7.4
+RUN apt-get install -y python3.7
+RUN update-alternatives --install "/usr/bin/python3" "python3" "$(which python3.7)" 1
 
 # Fix the value of PYTHONHASHSEED
 # Note: this is needed when you use Python 3.3 or greater

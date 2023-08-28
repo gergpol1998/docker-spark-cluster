@@ -1,0 +1,13 @@
+country_code,country_name,region,surface_area,independence_year,country_population,life_expectancy,local_name,head_of_state,capital,country_code_2,city_id,city_name,city_district,city_population,language,is_official_language,language_percentage
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Ukrainian,F,0.6
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Spanish,F,0.7
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Punjabi,F,0.7
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Portuguese,F,0.7
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Polish,F,0.7
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Italian,F,1.7
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",German,F,1.6
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",French,T,23.4
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Eskimo Languages,F,0.1
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",English,T,60.4
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Dutch,F,0.5
+CAN,Canada,North America,9984670.0,1867,36624199,82.17,Canada,Prime Minister Name,2,CA,"","","","",Chinese,F,2.5

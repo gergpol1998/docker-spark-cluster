@@ -24,11 +24,12 @@ curl https://jdbc.postgresql.org/download/postgresql-42.2.22.jar -o /opt/spark/j
 
 #submit with postgresql
 
-/opt/spark/bin/spark-submit --master spark://spark-master:7077 \
+/opt/spark/bin/spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.0.2 \ 
+--master spark://spark-master:7077 \
 --jars /opt/spark-apps/test_db/postgresql-42.6.0.jar \
 --driver-memory 1G \
 --executor-memory 1G \
-/opt/spark-apps/test_db/write_db
+/opt/spark-apps/demo_ktb/spark_streaming_customer.py
 
 
 #เข้า shell kafka

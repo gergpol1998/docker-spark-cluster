@@ -2,9 +2,11 @@ from pyspark.sql import SparkSession
 
 #Using this function as spark instance
 def spark_inst():
-    return SparkSession.builder.master('spark://spark-master-5688d7ff8d-4rzsf:7077') \
-    .appName('Spark') \
+    return SparkSession.builder.master('spark://spark-master:7077') \
+    .appName('etl-Spark') \
     .config("spark.jars", "/opt/spark-apps/test_db/postgresql-42.6.0.jar") \
+    .config("spark.driver.memory","1g") \
+    .config("spark.executor.memory","1g") \
     .getOrCreate()
 
 CITY_COL_DICT={

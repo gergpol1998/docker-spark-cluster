@@ -110,34 +110,59 @@ services:
     networks:
       kafkanet:
         ipv4_address: 172.25.0.16
-  
-  postgresql:
-    image: postgres:latest
-    container_name: postgresql
+
+  strapi-v4:
+    image: naskio/strapi
+    restart: always
+    container_name: strapi-v4
     ports:
-      - "5432:5432"
+      - '1337:1337'
     environment:
-      POSTGRES_USER: root
-      POSTGRES_PASSWORD: root
-      POSTGRES_DB: test
+      NODE_ENV: development
+      DATABASE_CLIENT: postgres
+      DATABASE_HOST: postgres
+      DATABASE_PORT: 5432
+      DATABASE_NAME: postgres
+      DATABASE_USERNAME: postgres
+      DATABASE_PASSWORD: postgres
+      DATABASE_SSL: false # boolean for SSL.
     volumes:
-      - pgsql-data:/var/lib/postgresql/data
+      - strapi-apps:/srv/app # create a new project in app volume
     networks:
       kafkanet:
         ipv4_address: 172.25.0.17
-  
-  pgadmin4:
-    image: dpage/pgadmin4
-    container_name: pgadmin4
-    ports:
-      - "5050:80"
+
+  postgres:
+    restart: always
+    image: postgres
+    container_name: postgres
     environment:
-      PGADMIN_DEFAULT_EMAIL: gergpolsuklit1998@gmail.com
-      PGADMIN_DEFAULT_PASSWORD: gergpol123
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    expose:
+      - 5432
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
     networks:
       kafkanet:
         ipv4_address: 172.25.0.18
 
+  pgadmin:
+    image: dpage/pgadmin4
+    restart: always
+    container_name: pgadmin4
+    ports:
+      - '5050:80'
+    environment:
+      PGADMIN_DEFAULT_EMAIL: gergpolsuklit1998@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: gergpol123
+    volumes:
+      - pgadmin:/var/lib/pgadmin
+    networks:
+      kafkanet:
+        ipv4_address: 172.25.0.19   
+  
 networks:
   kafkanet:
     name: kafkanet
@@ -151,5 +176,6 @@ volumes:
   kafka_zookeeper:
   kafka_kafka1:
   kafka_kafka2:
-  pgsql-data:
-  pgadmin-data:
+  strapi-apps:
+  postgres-data:
+  pgadmin:

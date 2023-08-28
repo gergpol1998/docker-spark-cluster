@@ -1,0 +1,25 @@
+country_code,country_name,region,surface_area,independence_year,country_population,life_expectancy,local_name,head_of_state,capital,country_code_2,city_id,city_name,city_district,city_population,language,is_official_language,language_percentage
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Vietnamese,F,0.2
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Tagalog,F,0.4
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Spanish,F,7.5
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Portuguese,F,0.2
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Polish,F,0.3
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Korean,F,0.3
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Japanese,F,0.2
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Italian,F,0.6
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,German,F,0.7
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,French,F,0.7
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,English,T,86.2
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,1,New York,Manhattan,8175133,Chinese,F,0.6
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Vietnamese,F,0.2
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Tagalog,F,0.4
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Spanish,F,7.5
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Portuguese,F,0.2
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Polish,F,0.3
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Korean,F,0.3
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Japanese,F,0.2
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Italian,F,0.6
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,German,F,0.7
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,French,F,0.7
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,English,T,86.2
+USA,United States,North America,9372610.0,1776,326766748,79.68,United States,President Name,1,US,2,Los Angeles,Los Angeles,3792621,Chinese,F,0.6
