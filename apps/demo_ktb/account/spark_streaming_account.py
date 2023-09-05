@@ -64,7 +64,6 @@ df = df.withColumn("system_date", col("system_date").cast("date"))
 # Convert transaction_time to time
 df = df.withColumn("transaction_time", to_timestamp("transaction_time", "HH:mm:ss"))
 
-
 # Convert account_number to int
 df = df.withColumn("account_number", col("account_number").cast("int"))
 
@@ -113,3 +112,4 @@ query = df.writeStream \
 
 # Await termination
 query.awaitTermination()
+

@@ -99,3 +99,4 @@ query = df.writeStream \
 
 # Await termination
 query.awaitTermination()
+
